@@ -1,0 +1,290 @@
+[
+  {
+    "_ID": "1",
+    "ROLL": "1",
+    "VALUE": "25",
+    "ARTOBJECT": "Silver ewer"
+  },
+  {
+    "_ID": "2",
+    "ROLL": "2",
+    "VALUE": "25",
+    "ARTOBJECT": "Carved bone statuette"
+  },
+  {
+    "_ID": "3",
+    "ROLL": "3",
+    "VALUE": "25",
+    "ARTOBJECT": "Small gold bracelet"
+  },
+  {
+    "_ID": "4",
+    "ROLL": "4",
+    "VALUE": "25",
+    "ARTOBJECT": "Cloth-of-gold vestments"
+  },
+  {
+    "_ID": "5",
+    "ROLL": "5",
+    "VALUE": "25",
+    "ARTOBJECT": "Black velvet mask stitched with silver thread"
+  },
+  {
+    "_ID": "6",
+    "ROLL": "6",
+    "VALUE": "25",
+    "ARTOBJECT": "Copper chalice with silver filigree"
+  },
+  {
+    "_ID": "7",
+    "ROLL": "7",
+    "VALUE": "25",
+    "ARTOBJECT": "Pair of engraved bone dice"
+  },
+  {
+    "_ID": "8",
+    "ROLL": "8",
+    "VALUE": "25",
+    "ARTOBJECT": "Small mirror set in a painted wooden frame"
+  },
+  {
+    "_ID": "9",
+    "ROLL": "9",
+    "VALUE": "25",
+    "ARTOBJECT": "Embroidered silk handkerchief"
+  },
+  {
+    "_ID": "10",
+    "ROLL": "10",
+    "VALUE": "25",
+    "ARTOBJECT": "Gold locket with a painted portrait inside"
+  },
+  {
+    "_ID": "11",
+    "ROLL": "1",
+    "VALUE": "250",
+    "ARTOBJECT": "Gold ring set with bloodstones"
+  },
+  {
+    "_ID": "12",
+    "ROLL": "2",
+    "VALUE": "250",
+    "ARTOBJECT": "Carved ivory statuette"
+  },
+  {
+    "_ID": "13",
+    "ROLL": "3",
+    "VALUE": "250",
+    "ARTOBJECT": "Large gold bracelet"
+  },
+  {
+    "_ID": "14",
+    "ROLL": "4",
+    "VALUE": "250",
+    "ARTOBJECT": "Silver necklace with a gemstone pendant"
+  },
+  {
+    "_ID": "15",
+    "ROLL": "5",
+    "VALUE": "250",
+    "ARTOBJECT": "Bronze crown"
+  },
+  {
+    "_ID": "16",
+    "ROLL": "6",
+    "VALUE": "250",
+    "ARTOBJECT": "Silk robe with gold embroidery"
+  },
+  {
+    "_ID": "17",
+    "ROLL": "7",
+    "VALUE": "250",
+    "ARTOBJECT": "Large well-made tapestry"
+  },
+  {
+    "_ID": "18",
+    "ROLL": "8",
+    "VALUE": "250",
+    "ARTOBJECT": "Bra ss mug with jade inlay"
+  },
+  {
+    "_ID": "19",
+    "ROLL": "9",
+    "VALUE": "250",
+    "ARTOBJECT": "Box of turquoise animal figurines"
+  },
+  {
+    "_ID": "20",
+    "ROLL": "10",
+    "VALUE": "250",
+    "ARTOBJECT": "Gold bird cage with electrum filigree"
+  },
+  {
+    "_ID": "21",
+    "ROLL": "1",
+    "VALUE": "750",
+    "ARTOBJECT": "Silver chalice set with moonstones"
+  },
+  {
+    "_ID": "22",
+    "ROLL": "2",
+    "VALUE": "750",
+    "ARTOBJECT": "Silver-plated steellongsword with jet set in hilt"
+  },
+  {
+    "_ID": "23",
+    "ROLL": "3",
+    "VALUE": "750",
+    "ARTOBJECT": "Carved harp of exotic wood with ivory inlay and zircon gems"
+  },
+  {
+    "_ID": "24",
+    "ROLL": "4",
+    "VALUE": "750",
+    "ARTOBJECT": "Small gold idol"
+  },
+  {
+    "_ID": "25",
+    "ROLL": "5",
+    "VALUE": "750",
+    "ARTOBJECT": "Gold dragon comb set with red garnets as eyes"
+  },
+  {
+    "_ID": "26",
+    "ROLL": "6",
+    "VALUE": "750",
+    "ARTOBJECT": "Bottle stopper cork embossed with gold leaf and set with amethysts"
+  },
+  {
+    "_ID": "27",
+    "ROLL": "7",
+    "VALUE": "750",
+    "ARTOBJECT": "Ceremonial electrum dagger with a black pearl in the pommel"
+  },
+  {
+    "_ID": "28",
+    "ROLL": "8",
+    "VALUE": "750",
+    "ARTOBJECT": "Silver and gold brooch"
+  },
+  {
+    "_ID": "29",
+    "ROLL": "9",
+    "VALUE": "750",
+    "ARTOBJECT": "Obsidian statuette with gold fittings and inlay"
+  },
+  {
+    "_ID": "30",
+    "ROLL": "10",
+    "VALUE": "750",
+    "ARTOBJECT": "Painted gold war mask"
+  },
+  {
+    "_ID": "31",
+    "ROLL": "1",
+    "VALUE": "2500",
+    "ARTOBJECT": "Fine gold chain set with a fire opal"
+  },
+  {
+    "_ID": "32",
+    "ROLL": "2",
+    "VALUE": "2500",
+    "ARTOBJECT": "Old masterpiece painting"
+  },
+  {
+    "_ID": "33",
+    "ROLL": "3",
+    "VALUE": "2500",
+    "ARTOBJECT": "Embroidered silk and velvet mantle set with numerous moonstones"
+  },
+  {
+    "_ID": "34",
+    "ROLL": "4",
+    "VALUE": "2500",
+    "ARTOBJECT": "Platinum bracelet set with a sapphire"
+  },
+  {
+    "_ID": "35",
+    "ROLL": "5",
+    "VALUE": "2500",
+    "ARTOBJECT": "Embroidered glove set with jewel chips"
+  },
+  {
+    "_ID": "36",
+    "ROLL": "6",
+    "VALUE": "2500",
+    "ARTOBJECT": "Jeweled anklet"
+  },
+  {
+    "_ID": "37",
+    "ROLL": "7",
+    "VALUE": "2500",
+    "ARTOBJECT": "Gold music box"
+  },
+  {
+    "_ID": "38",
+    "ROLL": "8",
+    "VALUE": "2500",
+    "ARTOBJECT": "Gold circlet set with four aquamarines"
+  },
+  {
+    "_ID": "39",
+    "ROLL": "9",
+    "VALUE": "2500",
+    "ARTOBJECT": "Eye patch with a mock eye set in blue sapphire and moonstone"
+  },
+  {
+    "_ID": "40",
+    "ROLL": "10",
+    "VALUE": "2500",
+    "ARTOBJECT": "A necklace string of small pink pearls"
+  },
+  {
+    "_ID": "41",
+    "ROLL": "1",
+    "VALUE": "7500",
+    "ARTOBJECT": "Jeweled gold crown"
+  },
+  {
+    "_ID": "42",
+    "ROLL": "2",
+    "VALUE": "7500",
+    "ARTOBJECT": "Jeweled platinum ring"
+  },
+  {
+    "_ID": "43",
+    "ROLL": "3",
+    "VALUE": "7500",
+    "ARTOBJECT": "Small gold statuette set with rubies"
+  },
+  {
+    "_ID": "44",
+    "ROLL": "4",
+    "VALUE": "7500",
+    "ARTOBJECT": "Gold cup set with emeralds"
+  },
+  {
+    "_ID": "45",
+    "ROLL": "5",
+    "VALUE": "7500",
+    "ARTOBJECT": "Gold jewelry box with platinum filigree"
+  },
+  {
+    "_ID": "46",
+    "ROLL": "6",
+    "VALUE": "7500",
+    "ARTOBJECT": "Painted gold child\u0027s sarcophagus"
+  },
+  {
+    "_ID": "47",
+    "ROLL": "7",
+    "VALUE": "7500",
+    "ARTOBJECT": "jade game board with solid gold playing pieces"
+  },
+  {
+    "_ID": "48",
+    "ROLL": "8",
+    "VALUE": "7500",
+    "ARTOBJECT": "Bejeweled ivory drinking horn with gold filigree"
+  }
+]

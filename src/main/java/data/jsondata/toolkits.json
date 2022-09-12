@@ -1,0 +1,306 @@
+[
+  {
+    "ITEM": "Alchemist\u0027s supplies",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "50",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Brewer\u0027s supplies",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "20",
+    "WEIGHT": "9",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Calligrapher\u0027s supplies",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "10",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Carpenter\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "8",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cartographer\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "15",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cobbler\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "5",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cook\u0027s utensils",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "1",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Glassblower\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "30",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Jeweler\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "25",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Leatherworker\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "5",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Disguise Kit",
+    "TYPE": "Kit",
+    "COST": "25",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Forgery Kit",
+    "TYPE": "Kit",
+    "COST": "15",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Mason\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "10",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Painter\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "10",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Potter\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "10",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Smith\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "20",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Tinker\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "50",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Weaver\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "1",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Woodcarver\u0027s tools",
+    "TYPE": "Artisan\u0027s tools",
+    "COST": "1",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dice Set",
+    "TYPE": "Gaming Set",
+    "COST": "0.1",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dragonchess set",
+    "TYPE": "Gaming Set",
+    "COST": "1",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Playing card set",
+    "TYPE": "Gaming Set",
+    "COST": "0.5",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Three-Dragon Ante set",
+    "TYPE": "Gaming Set",
+    "COST": "1",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Herbalism Kit",
+    "TYPE": "Kit",
+    "COST": "5",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bagpipes",
+    "TYPE": "Musical instrument",
+    "COST": "30",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Drum",
+    "TYPE": "Musical instrument",
+    "COST": "6",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dulcimer",
+    "TYPE": "Musical instrument",
+    "COST": "25",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Flute",
+    "TYPE": "Musical instrument",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lute",
+    "TYPE": "Musical instrument",
+    "COST": "35",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lyre",
+    "TYPE": "Musical instrument",
+    "COST": "30",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Horn",
+    "TYPE": "Musical instrument",
+    "COST": "3",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pan flute",
+    "TYPE": "Musical instrument",
+    "COST": "12",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Shawm",
+    "TYPE": "Musical instrument",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Viol",
+    "TYPE": "Musical instrument",
+    "COST": "30",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Navigator\u0027s tools",
+    "TYPE": "Tools",
+    "COST": "25",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Poisoner\u0027s kit",
+    "TYPE": "Kit",
+    "COST": "50",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Thieves\u0027 tools",
+    "TYPE": "Tools",
+    "COST": "25",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Merchants\u0027 Kit",
+    "TYPE": "Kit",
+    "COST": "30",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  }
+]

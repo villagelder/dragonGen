@@ -1,0 +1,215 @@
+[
+  {
+    "SUBJECT": "preposition",
+    "METONYM": [
+      "aboard",
+      "about",
+      "above",
+      "across",
+      "after",
+      "against",
+      "along",
+      "amid",
+      "among",
+      "around",
+      "as",
+      "at",
+      "before",
+      "behind",
+      "below",
+      "beneath",
+      "beside",
+      "besides",
+      "between",
+      "beyond",
+      "by",
+      "concerning",
+      "considering",
+      "despite",
+      "down",
+      "during",
+      "except",
+      "excepting",
+      "excluding",
+      "following",
+      "for",
+      "from",
+      "in",
+      "inside",
+      "into",
+      "like",
+      "minus",
+      "near",
+      "of",
+      "off",
+      "on",
+      "onto",
+      "opposite",
+      "outside",
+      "over",
+      "past",
+      "per",
+      "plus",
+      "regarding",
+      "round",
+      "save",
+      "since",
+      "than",
+      "through",
+      "to",
+      "toward",
+      "towards",
+      "under",
+      "underneath",
+      "unlike",
+      "until",
+      "up",
+      "upon",
+      "versus",
+      "via",
+      "with",
+      "within",
+      "without"
+    ]
+  },
+  {
+    "SUBJECT": "conjunction",
+    "METONYM": [
+      "and",
+      "but",
+      "for",
+      "nor",
+      "or",
+      "so",
+      "yet"
+    ]
+  },
+  {
+    "SUBJECT": "subjective personal pronoun",
+    "METONYM": [
+      "I",
+      "you",
+      "she",
+      "he",
+      "it",
+      "they"
+    ]
+  },
+  {
+    "SUBJECT": "objective personal pronoun",
+    "METONYM": [
+      "me",
+      "you",
+      "her",
+      "him",
+      "it",
+      "us",
+      "they"
+    ]
+  },
+  {
+    "SUBJECT": "possessive personal pronoun",
+    "METONYM": [
+      "mine",
+      "his",
+      "hers",
+      "theirs",
+      "its",
+      "ours",
+      "yours"
+    ]
+  },
+  {
+    "SUBJECT": "demonstrative pronoun",
+    "METONYM": [
+      "this",
+      "that",
+      "those",
+      "these"
+    ]
+  },
+  {
+    "SUBJECT": "interrogative pronoun",
+    "METONYM": [
+      "who",
+      "whom",
+      "which",
+      "what"
+    ]
+  },
+  {
+    "SUBJECT": "relative pronoun",
+    "METONYM": [
+      "who",
+      "whom",
+      "which",
+      "what",
+      "whoever",
+      "whomever",
+      "whichever"
+    ]
+  },
+  {
+    "SUBJECT": "indefinite pronoun",
+    "METONYM": [
+      "all",
+      "another",
+      "any",
+      "anybody",
+      "anyone",
+      "anything",
+      "each",
+      "everybody",
+      "everyone",
+      "everything",
+      "few",
+      "many",
+      "nobody",
+      "none",
+      "one",
+      "several",
+      "somebody",
+      "some",
+      "someone"
+    ]
+  },
+  {
+    "SUBJECT": "reflexive pronoun",
+    "METONYM": [
+      "myself",
+      "yourself",
+      "herself",
+      "himself",
+      "itself",
+      "ourselves",
+      "yourselves",
+      "themselves"
+    ]
+  },
+  {
+    "SUBJECT": "intensive pronoun",
+    "METONYM": [
+      "myself",
+      "themselves",
+      "yourself"
+    ]
+  },
+  {
+    "SUBJECT": "question",
+    "METONYM": [
+      "what",
+      "which",
+      "how",
+      "why",
+      "when",
+      "whose",
+      "where",
+      "whatever",
+      "whichever",
+      "however",
+      "whenever",
+      "whomsoever",
+      "wherever"
+    ]
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "WORD": "bend",
+    "PASTTENSE": "bent"
+  },
+  {
+    "WORD": "be",
+    "PASTTENSE": "was"
+  },
+  {
+    "WORD": "become",
+    "PASTTENSE": "became"
+  },
+  {
+    "WORD": "begin",
+    "PASTTENSE": "began"
+  },
+  {
+    "WORD": "bet",
+    "PASTTENSE": "bet"
+  },
+  {
+    "WORD": "bleed",
+    "PASTTENSE": "bled"
+  },
+  {
+    "WORD": "bite",
+    "PASTTENSE": "bit"
+  },
+  {
+    "WORD": "blow",
+    "PASTTENSE": "blew"
+  },
+  {
+    "WORD": "break",
+    "PASTTENSE": "broke"
+  },
+  {
+    "WORD": "bring",
+    "PASTTENSE": "brought"
+  },
+  {
+    "WORD": "build",
+    "PASTTENSE": "built"
+  },
+  {
+    "WORD": "buy",
+    "PASTTENSE": "bought"
+  },
+  {
+    "WORD": "catch",
+    "PASTTENSE": "caught"
+  },
+  {
+    "WORD": "choose",
+    "PASTTENSE": "chose"
+  },
+  {
+    "WORD": "come",
+    "PASTTENSE": "came"
+  },
+  {
+    "WORD": "cost",
+    "PASTTENSE": "cost"
+  },
+  {
+    "WORD": "cut",
+    "PASTTENSE": "cut"
+  },
+  {
+    "WORD": "deal",
+    "PASTTENSE": "dealt"
+  },
+  {
+    "WORD": "dig",
+    "PASTTENSE": "dug"
+  },
+  {
+    "WORD": "do",
+    "PASTTENSE": "did"
+  },
+  {
+    "WORD": "draw",
+    "PASTTENSE": "drew"
+  },
+  {
+    "WORD": "drink",
+    "PASTTENSE": "drank"
+  },
+  {
+    "WORD": "drive",
+    "PASTTENSE": "drove"
+  },
+  {
+    "WORD": "eat",
+    "PASTTENSE": "ate"
+  },
+  {
+    "WORD": "fall",
+    "PASTTENSE": "fell"
+  },
+  {
+    "WORD": "feed",
+    "PASTTENSE": "fed"
+  },
+  {
+    "WORD": "feel",
+    "PASTTENSE": "felt"
+  },
+  {
+    "WORD": "fight",
+    "PASTTENSE": "fought"
+  },
+  {
+    "WORD": "find",
+    "PASTTENSE": "found"
+  },
+  {
+    "WORD": "fly",
+    "PASTTENSE": "flew"
+  },
+  {
+    "WORD": "forget",
+    "PASTTENSE": "forgot"
+  },
+  {
+    "WORD": "forgive",
+    "PASTTENSE": "forgave"
+  },
+  {
+    "WORD": "freeze",
+    "PASTTENSE": "froze"
+  },
+  {
+    "WORD": "get",
+    "PASTTENSE": "got"
+  },
+  {
+    "WORD": "give",
+    "PASTTENSE": "gave"
+  },
+  {
+    "WORD": "go",
+    "PASTTENSE": "went"
+  },
+  {
+    "WORD": "grow",
+    "PASTTENSE": "grew"
+  },
+  {
+    "WORD": "hang",
+    "PASTTENSE": "hung"
+  },
+  {
+    "WORD": "have",
+    "PASTTENSE": "had"
+  },
+  {
+    "WORD": "hear",
+    "PASTTENSE": "heard"
+  },
+  {
+    "WORD": "hide",
+    "PASTTENSE": "hid"
+  },
+  {
+    "WORD": "hit",
+    "PASTTENSE": "hit"
+  },
+  {
+    "WORD": "hold",
+    "PASTTENSE": "held"
+  },
+  {
+    "WORD": "hurt",
+    "PASTTENSE": "hurt"
+  },
+  {
+    "WORD": "keep",
+    "PASTTENSE": "kept"
+  },
+  {
+    "WORD": "know",
+    "PASTTENSE": "knew"
+  },
+  {
+    "WORD": "lead",
+    "PASTTENSE": "led"
+  },
+  {
+    "WORD": "leave",
+    "PASTTENSE": "left"
+  },
+  {
+    "WORD": "lend",
+    "PASTTENSE": "lent"
+  },
+  {
+    "WORD": "let",
+    "PASTTENSE": "let"
+  },
+  {
+    "WORD": "light",
+    "PASTTENSE": "lit"
+  },
+  {
+    "WORD": "lose",
+    "PASTTENSE": "lost"
+  },
+  {
+    "WORD": "make",
+    "PASTTENSE": "made"
+  },
+  {
+    "WORD": "mean",
+    "PASTTENSE": "meant"
+  },
+  {
+    "WORD": "meet",
+    "PASTTENSE": "met"
+  },
+  {
+    "WORD": "pay",
+    "PASTTENSE": "paid"
+  },
+  {
+    "WORD": "put",
+    "PASTTENSE": "put"
+  },
+  {
+    "WORD": "quit",
+    "PASTTENSE": "quit"
+  },
+  {
+    "WORD": "read",
+    "PASTTENSE": "read"
+  },
+  {
+    "WORD": "ride",
+    "PASTTENSE": "rode"
+  },
+  {
+    "WORD": "ring",
+    "PASTTENSE": "rang"
+  },
+  {
+    "WORD": "rise",
+    "PASTTENSE": "rose"
+  },
+  {
+    "WORD": "arise",
+    "PASTTENSE": "arose"
+  },
+  {
+    "WORD": "run",
+    "PASTTENSE": "ran"
+  },
+  {
+    "WORD": "say",
+    "PASTTENSE": "said"
+  },
+  {
+    "WORD": "see",
+    "PASTTENSE": "saw"
+  },
+  {
+    "WORD": "sell",
+    "PASTTENSE": "sold"
+  },
+  {
+    "WORD": "send",
+    "PASTTENSE": "sent"
+  },
+  {
+    "WORD": "set",
+    "PASTTENSE": "set"
+  },
+  {
+    "WORD": "shake",
+    "PASTTENSE": "shook"
+  },
+  {
+    "WORD": "shine",
+    "PASTTENSE": "shone"
+  },
+  {
+    "WORD": "shoot",
+    "PASTTENSE": "shot"
+  },
+  {
+    "WORD": "shut",
+    "PASTTENSE": "shut"
+  },
+  {
+    "WORD": "sing",
+    "PASTTENSE": "sang"
+  },
+  {
+    "WORD": "sink",
+    "PASTTENSE": "sank"
+  },
+  {
+    "WORD": "sit",
+    "PASTTENSE": "sat"
+  },
+  {
+    "WORD": "sleep",
+    "PASTTENSE": "slept"
+  },
+  {
+    "WORD": "slide",
+    "PASTTENSE": "slid"
+  },
+  {
+    "WORD": "speak",
+    "PASTTENSE": "spoke"
+  },
+  {
+    "WORD": "speed",
+    "PASTTENSE": "sped"
+  },
+  {
+    "WORD": "spend",
+    "PASTTENSE": "spent"
+  },
+  {
+    "WORD": "spin",
+    "PASTTENSE": "spun"
+  },
+  {
+    "WORD": "spread",
+    "PASTTENSE": "spread"
+  },
+  {
+    "WORD": "stand",
+    "PASTTENSE": "stood"
+  },
+  {
+    "WORD": "steal",
+    "PASTTENSE": "stole"
+  },
+  {
+    "WORD": "stick",
+    "PASTTENSE": "stuck"
+  },
+  {
+    "WORD": "sting",
+    "PASTTENSE": "stung"
+  },
+  {
+    "WORD": "strike",
+    "PASTTENSE": "struck"
+  },
+  {
+    "WORD": "sweep",
+    "PASTTENSE": "swept"
+  },
+  {
+    "WORD": "swim",
+    "PASTTENSE": "swam"
+  },
+  {
+    "WORD": "swing",
+    "PASTTENSE": "swung"
+  },
+  {
+    "WORD": "take",
+    "PASTTENSE": "took"
+  },
+  {
+    "WORD": "teach",
+    "PASTTENSE": "taught"
+  },
+  {
+    "WORD": "tear",
+    "PASTTENSE": "tore"
+  },
+  {
+    "WORD": "tell",
+    "PASTTENSE": "told"
+  },
+  {
+    "WORD": "think",
+    "PASTTENSE": "thought"
+  },
+  {
+    "WORD": "throw",
+    "PASTTENSE": "threw"
+  },
+  {
+    "WORD": "understand",
+    "PASTTENSE": "understood"
+  },
+  {
+    "WORD": "wake",
+    "PASTTENSE": "woke"
+  },
+  {
+    "WORD": "wear",
+    "PASTTENSE": "wore"
+  },
+  {
+    "WORD": "win",
+    "PASTTENSE": "won"
+  },
+  {
+    "WORD": "write",
+    "PASTTENSE": "wrote"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "WORD": "quest",
+    "TYPE": "deliver, protect, find, explore, hide, destroy, rescue, capture, escape, retrieve, escort, steal",
+    "DELIVER": "deliver, hand over, give, bear, transport, give up, surrender, transfer, haul",
+    "PROTECT": "protect, safeguard, oversee, defend, guard",
+    "FIND": "find, seek, discover, locate, fetch, identify, unearth, espy",
+    "EXPLORE": "explore, reconnoitre, probe, search, investigate, scout, delve into, excavate",
+    "HIDE": "hide, smuggle, pirate, bootleg, transship",
+    "DESTROY": "destroy, conquer, sabotage, raze, kill, assassinate, dismantle, besiege, assail, bombard, infiltrate, attack, lay siege to, storm, strike",
+    "RESCUE": "liberate, release, free, save, recover, emancipate, rescue",
+    "CAPTURE": "capture, apprehend, grab, round up, snatch, seize, trap, collar, snare",
+    "ESCAPE": "escape, elude, evade, flee, slip away, avoid",
+    "RETRIEVE": "retrieve, reclaim, restore, salvage, recoup, reacquire",
+    "ESCORT": "escort, guide, shadow, convoy, accompany, bring, usher, follow, track, ",
+    "STEAL": "steal, abduct, thieve, plunder, take, loot, rob, hijack, raid, remove"
+
+  },
+
+  {
+    "WORD": "monster",
+    "TYPE": "humanoid, undead, monstrosity, aberration, beast, celestial, ooze, plant, construct, dragon, elemental, fey, fiend, giant",
+    "HUMANOID": "human, elf, dwarf, tiefling, halfling, gnome, goblin, orc, half-elf, half-orc, gnoll, merfolk, sahuagin, lizardfolk, kobold, lycanthrope, grimlock",
+    "UNDEAD": "skeleton, head, heart, zombie, wraith, wight, shade, vampire, lich, skull, claw, mummy, will-o'-wisp, ghoul, ghost, ghast, spectre, poltergeist, shadow",
+    "MONSTROSITY": "mimic, kraken, androsphinx, ankheg, basilisk, behir, bulette, centaur, chimera, cockatrice, darkmantle, death dog, doppelganger, drider, ettercap, gorgon, grick, griffon, guardian naga, gynosphinx, harpy, hippogriff, hydra, lamia, manticore, medusa, merrow, minotaur, owlbear, purple worm, remorhaz, roc, roper, rust monster, spirit naga, tarrasque, winter wolf, worg",
+    "ABERRATION": "aboleth, chuul, ixitxachitl, cloaker, mouther, nozer, gazer, slaad, brain, flumph, kiss, neogi, horror, skum, spawn, otyugh",
+    "BEAST": "ape, beak, hedgehog, baboon, badger, bat, bear, hawk, boar, camel, cat, centipede, worm, asp, viper, snake, crab, crocodile, alligator, deer, wolf, eagle, elephant, elk, beetle, frog, goat, hawk, shark, hyena, jackal, whale, lion, lynx, lizard, mammoth, mastiff, mule, octopus, fish, owl, panther, spider, plesiosaurus, pony, quipper, rat, raven, reef shark, rhinoceros, horse, scorpion, shark, pony, stirge, tiger, toad, triceratops, tyrannosaurus rex, vulture, wasp, weasel, spider",
+    "CELESTIAL": "couatl, deva, angel, pegasus, ki-rin, archon, planetar, solar, unicorn",
+    "OOZE": "pudding, ooze, cube, jelly, slime, muck, block, chunk, skum, mire, sludge",
+    "PLANT": "shrub, spore, tree, mound, mushroom, shrieker, kelpie, bush, treant, fungus, moss, algae, leaf, weed, plant, root, cabbage, blight, fern, flower, vine",
+    "CONSTRUCT": "armor, golem, statue, juggernaut, retriever, predator, horror, behemoth, servant, homunculus, rug of smothering, construct, gladiator, warrior, defender, destroyer, guardian, weapon, ring, ballista, catapult, tower, worm, automoton, pounder, drone, collector, ripper, flenser, monster",
+    "DRAGON": "dragon, dragon turtle, dragon eel, wyvern, drake",
+    "ELEMENTAL": "fire elemental, earth elemental, leviathan, water elemental, beast, monster, air elemental, stalker, phoenix, xorn, gargoyle, magmin, mephit, geonid, weird, servant, pygmy, djinni, myrmidon, snail, salamander, galeb duhr",
+    "FEY": "dryad, hag, eladrin, sprite, hound, darkling, nereid, quickling, pixie, dog, satyr",
+    "FIEND": "devil, gorgon, guard, devourer, abishai, rakshasa, fiend, eater, fang, demon, destroyer, yugoloth, mare, hag, hound, bear, tiger, imp, mare, wolf, succubus",
+    "GIANT": "giant, cyclops, ettin, troll, ogre, oni, fomorian"
+  },
+
+  {
+    "WORD": "monster-descriptor",
+    "HUMANOID": "northern, eastern, southern, western, mountain, hill, gray, sea, deep, shallows, swamp, plains, green, moon, high, sun, dark, wild, wood, forest, rock, sewer, crag, cliff, cloud, arctic, evergreen, oaken, cave, crystal",
+    "UNDEAD": "grave, bone, draco, tomb, death, dying, screaming, broken, hungry, lonely, pygmy, senile, crawling, dread, drowned, flame, ice, revolting, glowing, greater, lesser, mind-drinker, night, midnight, twilight, star, chilling, creeping, giant, miniature, shrunken",
+    "MONSTROSITY": "large, greater, lesser, giant, molten, necrotic, poisonous, one-eyed, two-headed, winter, summer, autumn, spring, toxic, screaming, angry, young, old, shouting, runed, rust, sea, shadow, ethereal, lonely, hungry, gaunt, ",
+    "ABERRATION": "elder, death, mind, gibbering, flying, burrowing, sniffing, drooling, pit, shadow, dark, skittering, youngling, creeping, slurping",
+    "BEAST": "striped, blood, cave, horned, water, cloud, tree, evergreen, feral, bighorn, wild, thorny, leafy, wind, lava, ash, axe, short-faced, jumping, rattle, sabre-toothed, polar, arctic, spiny, dire, dreaded, legendary, beaked, webbed, giant, killer, spotted, draft, hunter, speckled, constrictor, poisonous, necrotic, flaming, noxious, ice, mountain, swamp, gully, desert, tundra, glacier, toxic, dart, spiked, digging, razor, arrow, riding, sword, climbing, sea, war, battle, squirting",
+    "CELESTIAL": "legendary, paramount, angelic, divine, ethereal, immortal, sublime, astral, eternal, hallowed, blessed, beatific, holy, supernal, transcendental, apocryphal, fabled, illustrious, flaming, gleaming, luminous",
+    "OOZE": "ochre, gelatinous, sour, callous, rocky, chunky, wispy, translucent, sweet, creeping, sliding, spitting, squirting, dribbling, bleeding, gurgling, weeping, stinging, prickly, barbed, spiney, burning, bitter, caustic, mordant, pungent, withering",
+    "PLANT": "bamboo, birch, ash, crawling, carrot, buckeye, coffee, cornelian, devil's, demon's, plague, sickening, healing, gemstone, warm, cold, elder, berry, walking, flaming, frozen, glowing, flailing, wart, skunk, jumping, slimy, frog, trapping, sycamore, oak, pine, cedar, eastern, western, southern, northern, northeastern, southeastern, northwestern, southwestern, strangler, strangling, alder, nut, awakened, bride's, bridesmaid, twig, branching, marrying, groom, needle, death, acid, poisonous, binding, gum, thorny, stinky, tree, broadleaf, vine, creeping, roping, smelly, ",
+    "CONSTRUCT": "iron, adamantine, steel, bronze, copper, electrum, golden, silvern, onyx, flying, gargantuan, tiny, jade, reptilian, swarm of, screaming, quadro, tetra, hexa, centi, hepta, octa, deca, ennea, dodeca, icosa, hecto, stone, duo, tri, winged, weeping, stomping, slaying, stabbing, cleaving, pounding, animated, body, cadaver, flesh, clockwork, crystal, humanoid, mono",
+    "DRAGON": "ambush, red, song, steel, typhoon, wretched, green, plague, lich, skeletal, ghast, spectre, indigo, blue, magenta, lead, adamantine, plutonium, purple, black, white, brass, brown, gray, iron, bronze, copper, silver, gold, orange, violet, yellow, electrum, platinum, mercury, crystalline, sand, amethyst, ruby, emerald, diamond, topaz, quartz, guard, pseudo, mist, faerie, fang, gloom, mithral, pearl, pink, pyroclastic, sapphire, sea, bay, harbor, forest, bog, rust, battle, moon, solstice, sun, blight, astral, elysian, ethereal, shadow, river, lake, ocean, cosmic, cobra, deep",
+    "ELEMENTAL": "fire, water, air, earth, stone, steam, wind, flaming, four-armed, hot, cold, ice, plasma, cloud, three-armed, lightning, flaming, freezing, melting, disintegrating, solidifying",
+    "FEY": "blink, autumn, summer, winter, spring, charming, solstice, sea, shadow, elder, youngling, green, bheur, enchanted, bewitching, beguiling, night, cave, lake, waterfall",
+    "FIEND": "hell, abyssal, flame, rot, ice, necrotic, baby, skeletal, lich, demilich, necrotic, king of, prince of, green, gray, princess, lady of, lord of, child, spirit, psychic, shy, sly, silky, charming, shadow, psi, dark, horned, six-armed, black, clawed, bone, red, blood, demo, hell's, night, pit, white, bearded, death, chained, tortured, soul",
+    "GIANT": "storm, hill, mountain, ice, stone, venom, young, elder, skeletal, three-eyed, one-eyed, zombie, ghoul, carrion, demilich, two-faced, lich, spirit, fire, dire, frost, five-armed, three-armed, two-headed, three-headed, guardian, half, rot"
+  },
+  {
+    "WORD": "thing",
+    "TYPE": "document, jewelry, clothing, hat, shoes, armor, weapon, gear, container, ammunition, instrument, mount, focus, harness, barding, tool, trade good, vehicle, siege",
+    "DOCUMENT": "document, note, letter, parchment, vellum, book, tome, certificate, journal, memo, reply, report, message, memorandum, papyrus, epistle, report",
+    "JEWELRY": "brooch, tressour, barrettes, scepter, ring, bracelet, necklace, pendant, tiara, crown, anklet, belly chain, bangle, pin, cameo, locket, regalia, tie pin, lavaliere, amulet, cufflinks, bauble, prayer beads, rosary, solitaire",
+    "CLOTHING": "apron, ascot, dress, chaussembles, chausse, doublet, gipser, pouch, gown, hose, cape, houpeland, kirtle, tunic, mantle, patlock, pourpoint, jack, jacket, stocks, turret, surcot, temples",
+    "HAT": "bag hat, carmignolle, burlet, coif, jester's hood, frontlet, fringed hat, hood, cowl, pill hat, headband, burlet, cap, chaperon, doctor mask, scottish cap, donkey ears cap, skjoldehamn hood, straw hat, helmet torse",
+    "SHOES": "pantoffles, slippers, boots, wooden shoes, sandals, alpargatas, ankle boots, alberts, batts, buckled shoes, demi chases, full chases, botews, brodequins, brogues, buskins, caligaes, clogs, pantofles, loafers, pisnets, polonies, pumps, quarte-foil spur leathers, sabotons, sandaliums, slipshoe, sollerets, swiftlere",
+    "ARMOR": "leather, scale, buckler shield, shield, tower shield, padded, studded leather, hide, chain shirt, scale mail, plate mail, breastplate, half plate, ring mail, splint, chain mail",
+    "WEAPON": "battleaxe, blowgun, club, hand crossbow, heavy crossbow, light crossbow, dagger, dart, flail, glaive, greataxe, greatclub, greatsword, halberd, handaxe, javelin, lance, light hammer, longbow, longsword, mace, maul, morningstar, net, pike, quarterstaff, rapier, scimitar, shortbow, shortsword, sickle, sling, spear, trident, war pick, warhammer, whip\n",
+    "GEAR": "backpack, ",
+    "CONTAINER": "backpack, ",
+    "AMMUNITION": "",
+    "INSTRUMENT": "",
+    "MOUNT": "",
+    "FOCUS": "crystal, orb, rod, staff, truncheon, wand",
+    "HARNESS": "",
+    "BARDING": "",
+    "TOOL": "",
+    "TRADE GOOD": "",
+    "VEHICLE": "",
+    "SIEGE": ""
+  }
+
+]

@@ -1,0 +1,2552 @@
+[
+  {
+    "TABLE": "A",
+    "ROLL_MIN": "1",
+    "ROLL_MAX": "50",
+    "ITEM": "Potion of Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "A",
+    "ROLL_MIN": "51",
+    "ROLL_MAX": "60",
+    "ITEM": "Spell Scroll (Cantrip)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "A",
+    "ROLL_MIN": "61",
+    "ROLL_MAX": "70",
+    "ITEM": "Potion of Climbing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "A",
+    "ROLL_MIN": "71",
+    "ROLL_MAX": "90",
+    "ITEM": "Spell Scroll (Level 1)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "A",
+    "ROLL_MIN": "91",
+    "ROLL_MAX": "94",
+    "ITEM": "Spell Scroll (Level 2)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "A",
+    "ROLL_MIN": "95",
+    "ROLL_MAX": "98",
+    "ITEM": "Potion of Greater Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "A",
+    "ROLL_MIN": "99",
+    "ROLL_MAX": "99",
+    "ITEM": "Bag of Holding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "A",
+    "ROLL_MIN": "100",
+    "ROLL_MAX": "100",
+    "ITEM": "Driftglobe",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "01",
+    "ROLL_MAX": "15",
+    "ITEM": "Potion of Greater Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "16",
+    "ROLL_MAX": "22",
+    "ITEM": "Potion of Fire Breath",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "23",
+    "ROLL_MAX": "29",
+    "ITEM": "Potion of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "30",
+    "ROLL_MAX": "34",
+    "ITEM": "Ammunition +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "35",
+    "ROLL_MAX": "39",
+    "ITEM": "Potion of Animal Friendship",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "40",
+    "ROLL_MAX": "44",
+    "ITEM": "Potion of Hill Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "45",
+    "ROLL_MAX": "49",
+    "ITEM": "Potion of Growth",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "50",
+    "ROLL_MAX": "54",
+    "ITEM": "Potion of Water Breathing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "55",
+    "ROLL_MAX": "59",
+    "ITEM": "Spell Scroll (Level 2)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "60",
+    "ROLL_MAX": "64",
+    "ITEM": "Spell Scroll (Level 3)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "65",
+    "ROLL_MAX": "67",
+    "ITEM": "Bag of Holding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "68",
+    "ROLL_MAX": "70",
+    "ITEM": "Keoghtom's Ointment",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "71",
+    "ROLL_MAX": "73",
+    "ITEM": "Oil of Slipperiness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "74",
+    "ROLL_MAX": "75",
+    "ITEM": "Dust of Disappearance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "76",
+    "ROLL_MAX": "77",
+    "ITEM": "Dust of Dryness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "78",
+    "ROLL_MAX": "79",
+    "ITEM": "Dust of Sneezing and Choking",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "80",
+    "ROLL_MAX": "81",
+    "ITEM": "Elemental Gem",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "82",
+    "ROLL_MAX": "83",
+    "ITEM": "Philter of Love",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "84",
+    "ROLL_MAX": "84",
+    "ITEM": "Alchemy Jug",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "85",
+    "ROLL_MAX": "85",
+    "ITEM": "Cap of Water Breathing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "86",
+    "ROLL_MAX": "86",
+    "ITEM": "Cloak of the Manta Ray",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "87",
+    "ROLL_MAX": "87",
+    "ITEM": "Driftglobe",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "88",
+    "ROLL_MAX": "88",
+    "ITEM": "Goggles of Night",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "89",
+    "ROLL_MAX": "89",
+    "ITEM": "Helm of Comprehending Languages",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "90",
+    "ROLL_MAX": "90",
+    "ITEM": "Immovable Rod",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "91",
+    "ROLL_MAX": "91",
+    "ITEM": "Lantern of Revealing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "92",
+    "ROLL_MAX": "92",
+    "ITEM": "Mariner's Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "93",
+    "ROLL_MAX": "93",
+    "ITEM": "Mithral Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "94",
+    "ROLL_MAX": "94",
+    "ITEM": "Potion of Poison",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "95",
+    "ROLL_MAX": "95",
+    "ITEM": "Ring of Swimming",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "96",
+    "ROLL_MAX": "96",
+    "ITEM": "Robe of Useful Items",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "97",
+    "ROLL_MAX": "97",
+    "ITEM": "Rope of Climbing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "98",
+    "ROLL_MAX": "98",
+    "ITEM": "Saddle of the Cavalier",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "99",
+    "ROLL_MAX": "99",
+    "ITEM": "Wand of Magic Detection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "B",
+    "ROLL_MIN": "100",
+    "ROLL_MAX": "100",
+    "ITEM": "Wand of Secrets",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "1",
+    "ROLL_MAX": "15",
+    "ITEM": "Potion of Superior Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "16",
+    "ROLL_MAX": "22",
+    "ITEM": "Spell Scroll (Level 4) ",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "23",
+    "ROLL_MAX": "27",
+    "ITEM": "Ammunition +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "28",
+    "ROLL_MAX": "32",
+    "ITEM": "Potion of Clairvoyance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "33",
+    "ROLL_MAX": "37",
+    "ITEM": "Potion of Diminution",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "38",
+    "ROLL_MAX": "42",
+    "ITEM": "Potion of Gaseous Form",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "43",
+    "ROLL_MAX": "47",
+    "ITEM": "Potion of Frost Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "48",
+    "ROLL_MAX": "52",
+    "ITEM": "Potion of Stone Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "53",
+    "ROLL_MAX": "57",
+    "ITEM": "Potion of Heroism",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "58",
+    "ROLL_MAX": "62",
+    "ITEM": "Potion of Invulnerability",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "63",
+    "ROLL_MAX": "67",
+    "ITEM": "Potion of Mind Reading",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "68",
+    "ROLL_MAX": "72",
+    "ITEM": "Spell Scroll (Level 5)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "73",
+    "ROLL_MAX": "75",
+    "ITEM": "Elixir of Health",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "76",
+    "ROLL_MAX": "78",
+    "ITEM": "Oil of Etherealness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "79",
+    "ROLL_MAX": "81",
+    "ITEM": "Potion of Fire Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "82",
+    "ROLL_MAX": "84",
+    "ITEM": "Quaal's Feather Token",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "85",
+    "ROLL_MAX": "87",
+    "ITEM": "Scroll of Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "88",
+    "ROLL_MAX": "89",
+    "ITEM": "Bag of Beans",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "90",
+    "ROLL_MAX": "91",
+    "ITEM": "Bead of Force",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "92",
+    "ROLL_MAX": "92",
+    "ITEM": "Chime of Opening",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "93",
+    "ROLL_MAX": "93",
+    "ITEM": "Decanter of Endless Water",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "94",
+    "ROLL_MAX": "94",
+    "ITEM": "Eyes of Minute Seeing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "95",
+    "ROLL_MAX": "95",
+    "ITEM": "Folding Boat",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "96",
+    "ROLL_MAX": "96",
+    "ITEM": "Heward's Handy Haversack",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "97",
+    "ROLL_MAX": "97",
+    "ITEM": "Horseshoes of Speed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "98",
+    "ROLL_MAX": "98",
+    "ITEM": "Necklace of Fireballs",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "99",
+    "ROLL_MAX": "99",
+    "ITEM": "Periapt of Health",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "C",
+    "ROLL_MIN": "100",
+    "ROLL_MAX": "100",
+    "ITEM": "Sending Stones",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "1",
+    "ROLL_MAX": "20",
+    "ITEM": "Potion of Supreme Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "21",
+    "ROLL_MAX": "30",
+    "ITEM": "Potion of Invisibility",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "31",
+    "ROLL_MAX": "40",
+    "ITEM": "Potion of Speed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "41",
+    "ROLL_MAX": "50",
+    "ITEM": "Spell Scroll (Level 6)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "51",
+    "ROLL_MAX": "57",
+    "ITEM": "Spell Scroll (Level 7)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "58",
+    "ROLL_MAX": "62",
+    "ITEM": "Ammunition +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "63",
+    "ROLL_MAX": "67",
+    "ITEM": "Oil of Sharpness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "68",
+    "ROLL_MAX": "72",
+    "ITEM": "Potion of Flying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "73",
+    "ROLL_MAX": "77",
+    "ITEM": "Potion of Cloud Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "78",
+    "ROLL_MAX": "82",
+    "ITEM": "Potion of Longevity",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "83",
+    "ROLL_MAX": "87",
+    "ITEM": "Potion of Vitality",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "88",
+    "ROLL_MAX": "92",
+    "ITEM": "Spell Scroll (Level 8)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "93",
+    "ROLL_MAX": "95",
+    "ITEM": "Horseshoes of a Zephyr",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "96",
+    "ROLL_MAX": "98",
+    "ITEM": "Nolzur's Marvelous Pigments",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "99",
+    "ROLL_MAX": "99",
+    "ITEM": "Bag of Devouring",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "D",
+    "ROLL_MIN": "100",
+    "ROLL_MAX": "100",
+    "ITEM": "Portable Hole",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "E",
+    "ROLL_MIN": "01",
+    "ROLL_MAX": "30",
+    "ITEM": "Spell Scroll (Level 8)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "E",
+    "ROLL_MIN": "31",
+    "ROLL_MAX": "55",
+    "ITEM": "Potion of Storm Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "E",
+    "ROLL_MIN": "56",
+    "ROLL_MAX": "70",
+    "ITEM": "Potion of Supreme Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "E",
+    "ROLL_MIN": "71",
+    "ROLL_MAX": "85",
+    "ITEM": "Spell Scroll (Level 9)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "E",
+    "ROLL_MIN": "86",
+    "ROLL_MAX": "93",
+    "ITEM": "Universal Solvent",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "E",
+    "ROLL_MIN": "94",
+    "ROLL_MAX": "98",
+    "ITEM": "Arrow of Slaying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "E",
+    "ROLL_MIN": "99",
+    "ROLL_MAX": "100",
+    "ITEM": "Sovereign Glue",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "01",
+    "ROLL_MAX": "15",
+    "ITEM": "Weapon +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "16",
+    "ROLL_MAX": "18",
+    "ITEM": "Shield +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "19",
+    "ROLL_MAX": "21",
+    "ITEM": "Sentinel Shield",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "22",
+    "ROLL_MAX": "23",
+    "ITEM": "Amulet of Proof Against Detection and Location",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "24",
+    "ROLL_MAX": "25",
+    "ITEM": "Boots of Elvenkind",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "26",
+    "ROLL_MAX": "27",
+    "ITEM": "Boots of Striding and Springing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "28",
+    "ROLL_MAX": "29",
+    "ITEM": "Bracers of Archery",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "30",
+    "ROLL_MAX": "31",
+    "ITEM": "Brooch of Shielding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "32",
+    "ROLL_MAX": "33",
+    "ITEM": "Broom of Flying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "34",
+    "ROLL_MAX": "35",
+    "ITEM": "Cloak of Elvenkind",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "36",
+    "ROLL_MAX": "37",
+    "ITEM": "Cloak of Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "38",
+    "ROLL_MAX": "39",
+    "ITEM": "Gauntlets of Ogre Power",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "40",
+    "ROLL_MAX": "41",
+    "ITEM": "Hat of Disguise",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "42",
+    "ROLL_MAX": "43",
+    "ITEM": "Javelin of Lightning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "44",
+    "ROLL_MAX": "45",
+    "ITEM": "Pearl of Power",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "46",
+    "ROLL_MAX": "47",
+    "ITEM": "Rod of the Pact Keeper",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "48",
+    "ROLL_MAX": "49",
+    "ITEM": "Slippers of Spider Climbing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "50",
+    "ROLL_MAX": "51",
+    "ITEM": "Staff of the Adder",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "52",
+    "ROLL_MAX": "53",
+    "ITEM": "Staff of the Python",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "54",
+    "ROLL_MAX": "55",
+    "ITEM": "Sword of Vengeance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "56",
+    "ROLL_MAX": "57",
+    "ITEM": "Trident of Fish Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "58",
+    "ROLL_MAX": "59",
+    "ITEM": "Wand of Magic Missiles",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "60",
+    "ROLL_MAX": "61",
+    "ITEM": "Wand of the War Mage +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "62",
+    "ROLL_MAX": "63",
+    "ITEM": "Wand of Web",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "64",
+    "ROLL_MAX": "65",
+    "ITEM": "Weapon of Warning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "66",
+    "ROLL_MAX": "66",
+    "ITEM": "Adamantine Chain Mail",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "67",
+    "ROLL_MAX": "67",
+    "ITEM": "Adamantine Chain Shirt",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "68",
+    "ROLL_MAX": "68",
+    "ITEM": "Adamantine Scale Mail",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "69",
+    "ROLL_MAX": "69",
+    "ITEM": "Bag of Tricks, Gray",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "70",
+    "ROLL_MAX": "70",
+    "ITEM": "Bag of Tricks, Rust",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "71",
+    "ROLL_MAX": "71",
+    "ITEM": "Bag of Tricks, Tan",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "72",
+    "ROLL_MAX": "72",
+    "ITEM": "Boots of the Winterlands",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "73",
+    "ROLL_MAX": "73",
+    "ITEM": "Circlet of Blasting",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "74",
+    "ROLL_MAX": "74",
+    "ITEM": "Deck of Illusions",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "75",
+    "ROLL_MAX": "75",
+    "ITEM": "Eversmoking Bottle",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "76",
+    "ROLL_MAX": "76",
+    "ITEM": "Eyes of Charming",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "77",
+    "ROLL_MAX": "77",
+    "ITEM": "Eyes of the Eagle",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "78",
+    "ROLL_MAX": "78",
+    "ITEM": "Figurine of Wondrous Power, Silver Raven",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "79",
+    "ROLL_MAX": "79",
+    "ITEM": "Gem of Brightness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "80",
+    "ROLL_MAX": "80",
+    "ITEM": "Glove of Missile Snaring",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "81",
+    "ROLL_MAX": "81",
+    "ITEM": "Gloves of Swimming and Climbing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "82",
+    "ROLL_MAX": "82",
+    "ITEM": "Gloves of Thievery",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "83",
+    "ROLL_MAX": "83",
+    "ITEM": "Headband of Intellect",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "84",
+    "ROLL_MAX": "84",
+    "ITEM": "Helm of Telepathy",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "85",
+    "ROLL_MAX": "85",
+    "ITEM": "Instrument of the Bards - Doss Lute",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "86",
+    "ROLL_MAX": "86",
+    "ITEM": "Instrument of the Bards - Fochlucan Bandore",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "87",
+    "ROLL_MAX": "87",
+    "ITEM": "Instrument of the Bards - Mac-Fuirmidh Cittern",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "88",
+    "ROLL_MAX": "88",
+    "ITEM": "Medallion of Thoughts",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "89",
+    "ROLL_MAX": "89",
+    "ITEM": "Necklace of Adaptation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "90",
+    "ROLL_MAX": "90",
+    "ITEM": "Periapt of Wound Closure",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "91",
+    "ROLL_MAX": "91",
+    "ITEM": "Pipes of Haunting",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "92",
+    "ROLL_MAX": "92",
+    "ITEM": "Pipes of the Sewers",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "93",
+    "ROLL_MAX": "93",
+    "ITEM": "Ring of Jumping",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "94",
+    "ROLL_MAX": "94",
+    "ITEM": "Ring of Mind Shielding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "95",
+    "ROLL_MAX": "95",
+    "ITEM": "Ring of Warmth",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "96",
+    "ROLL_MAX": "96",
+    "ITEM": "Ring of Water Walking",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "97",
+    "ROLL_MAX": "97",
+    "ITEM": "Quiver of Ehlonna",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "98",
+    "ROLL_MAX": "98",
+    "ITEM": "Stone of Good Luck",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "99",
+    "ROLL_MAX": "99",
+    "ITEM": "Wind Fan",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "F",
+    "ROLL_MIN": "100",
+    "ROLL_MAX": "100",
+    "ITEM": "Winged Boots",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "1",
+    "ROLL_MAX": "11",
+    "ITEM": "Weapon +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "12",
+    "ROLL_MAX": "14",
+    "ITEM": "Figurine of Wondrous Power",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "15",
+    "ROLL_MAX": "15",
+    "ITEM": "Adamantine Breastplate",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "16",
+    "ROLL_MAX": "16",
+    "ITEM": "Adamantine Splint Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "17",
+    "ROLL_MAX": "17",
+    "ITEM": "Amulet of Health",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "18",
+    "ROLL_MAX": "18",
+    "ITEM": "Armor of Vulnerability",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "19",
+    "ROLL_MAX": "19",
+    "ITEM": "Arrow-catching Shield",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "20",
+    "ROLL_MAX": "20",
+    "ITEM": "Belt of Dwarvenkind",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "21",
+    "ROLL_MAX": "21",
+    "ITEM": "Belt of Hill Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "22",
+    "ROLL_MAX": "22",
+    "ITEM": "Berserker Axe",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "23",
+    "ROLL_MAX": "23",
+    "ITEM": "Boots of Levitation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "24",
+    "ROLL_MAX": "24",
+    "ITEM": "Boots of Speed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "25",
+    "ROLL_MAX": "25",
+    "ITEM": "Bowl of Commanding Water Elementals",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "26",
+    "ROLL_MAX": "26",
+    "ITEM": "Bracers of Defense",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "27",
+    "ROLL_MAX": "27",
+    "ITEM": "Brazier of Commanding Fire Elementals",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "28",
+    "ROLL_MAX": "28",
+    "ITEM": "Cape of the Mountebank",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "29",
+    "ROLL_MAX": "29",
+    "ITEM": "Censer of Controlling Air Elementals",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "30",
+    "ROLL_MAX": "30",
+    "ITEM": "Chain Mail +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "31",
+    "ROLL_MAX": "31",
+    "ITEM": "Chain Mail of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "32",
+    "ROLL_MAX": "32",
+    "ITEM": "Chain Shirt +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "33",
+    "ROLL_MAX": "33",
+    "ITEM": "Chain Shirt of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "34",
+    "ROLL_MAX": "34",
+    "ITEM": "Cloak of Displacement",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "35",
+    "ROLL_MAX": "35",
+    "ITEM": "Cloak of the Bat",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "36",
+    "ROLL_MAX": "36",
+    "ITEM": "Cube of Force",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "37",
+    "ROLL_MAX": "37",
+    "ITEM": "Daern's Instant Fortress",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "38",
+    "ROLL_MAX": "38",
+    "ITEM": "Dagger of Venom",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "39",
+    "ROLL_MAX": "39",
+    "ITEM": "Dimensional Shackles",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "40",
+    "ROLL_MAX": "40",
+    "ITEM": "Dragon Slayer",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "41",
+    "ROLL_MAX": "41",
+    "ITEM": "Elven Chain",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "42",
+    "ROLL_MAX": "42",
+    "ITEM": "Flame Tongue",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "43",
+    "ROLL_MAX": "43",
+    "ITEM": "Gem of Seeing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "44",
+    "ROLL_MAX": "44",
+    "ITEM": "Giant Slayer",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "45",
+    "ROLL_MAX": "45",
+    "ITEM": "Glamoured Studded Leather",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "46",
+    "ROLL_MAX": "46",
+    "ITEM": "Helm of Teleportation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "47",
+    "ROLL_MAX": "47",
+    "ITEM": "Horn of Blasting",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "48",
+    "ROLL_MAX": "48",
+    "ITEM": "Horn of Valhalla (silver or brass)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "49",
+    "ROLL_MAX": "49",
+    "ITEM": "Instrument of the Bards - Canaith Mandolin",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "50",
+    "ROLL_MAX": "50",
+    "ITEM": "Instrument of the Bards - Cli Lyre",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "51",
+    "ROLL_MAX": "51",
+    "ITEM": "Ioun Stone - Awareness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "52",
+    "ROLL_MAX": "52",
+    "ITEM": "Ioun Stone - Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "53",
+    "ROLL_MAX": "53",
+    "ITEM": "Ioun Stone - Reserve",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "54",
+    "ROLL_MAX": "54",
+    "ITEM": "Ioun Stone - Sustenance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "55",
+    "ROLL_MAX": "55",
+    "ITEM": "Iron Bands of Bilarro",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "56",
+    "ROLL_MAX": "56",
+    "ITEM": "Leather Armor +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "57",
+    "ROLL_MAX": "57",
+    "ITEM": "Leather Armor of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "58",
+    "ROLL_MAX": "58",
+    "ITEM": "Mace of Disruption",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "59",
+    "ROLL_MAX": "59",
+    "ITEM": "Mace of Smiting",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "60",
+    "ROLL_MAX": "60",
+    "ITEM": "Mace of Terror",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "61",
+    "ROLL_MAX": "61",
+    "ITEM": "Mantle of Spell Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "62",
+    "ROLL_MAX": "62",
+    "ITEM": "Necklace of Prayer Beads",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "63",
+    "ROLL_MAX": "63",
+    "ITEM": "Periapt of Proof Against Poison",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "64",
+    "ROLL_MAX": "64",
+    "ITEM": "Ring of Animal Influence",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "65",
+    "ROLL_MAX": "65",
+    "ITEM": "Ring of Evasion",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "66",
+    "ROLL_MAX": "66",
+    "ITEM": "Ring of Feather Falling",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "67",
+    "ROLL_MAX": "67",
+    "ITEM": "Ring of Free Action",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "68",
+    "ROLL_MAX": "68",
+    "ITEM": "Ring of Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "69",
+    "ROLL_MAX": "69",
+    "ITEM": "Ring of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "70",
+    "ROLL_MAX": "70",
+    "ITEM": "Ring of Spell Storing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "71",
+    "ROLL_MAX": "71",
+    "ITEM": "Ring of the Ram",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "72",
+    "ROLL_MAX": "72",
+    "ITEM": "Ring of X-ray Vision",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "73",
+    "ROLL_MAX": "73",
+    "ITEM": "Robe of Eyes",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "74",
+    "ROLL_MAX": "74",
+    "ITEM": "Rod of Rulership",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "75",
+    "ROLL_MAX": "75",
+    "ITEM": "Rod of the Pact Keeper, +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "76",
+    "ROLL_MAX": "76",
+    "ITEM": "Rope of Entanglement",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "77",
+    "ROLL_MAX": "77",
+    "ITEM": "Scale Mail +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "78",
+    "ROLL_MAX": "78",
+    "ITEM": "Scale Mail of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "79",
+    "ROLL_MAX": "79",
+    "ITEM": "Shield +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "80",
+    "ROLL_MAX": "80",
+    "ITEM": "Shield of Missile Attraction",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "81",
+    "ROLL_MAX": "81",
+    "ITEM": "Staff of Charming",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "82",
+    "ROLL_MAX": "82",
+    "ITEM": "Staff of Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "83",
+    "ROLL_MAX": "83",
+    "ITEM": "Staff of Swarming Insects",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "84",
+    "ROLL_MAX": "84",
+    "ITEM": "Staff of the Woodlands",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "85",
+    "ROLL_MAX": "85",
+    "ITEM": "Staff of Withering",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "86",
+    "ROLL_MAX": "86",
+    "ITEM": "Stone of Controlling Earth Elementals",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "87",
+    "ROLL_MAX": "87",
+    "ITEM": "Sun Blade",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "88",
+    "ROLL_MAX": "88",
+    "ITEM": "Sword of Life Stealing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "89",
+    "ROLL_MAX": "89",
+    "ITEM": "Sword of Wounding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "90",
+    "ROLL_MAX": "90",
+    "ITEM": "Tentacle Rod",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "91",
+    "ROLL_MAX": "91",
+    "ITEM": "Vicious Weapon",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "92",
+    "ROLL_MAX": "92",
+    "ITEM": "Wand of Binding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "93",
+    "ROLL_MAX": "93",
+    "ITEM": "Wand of Enemy Detection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "94",
+    "ROLL_MAX": "94",
+    "ITEM": "Wand of Fear",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "95",
+    "ROLL_MAX": "95",
+    "ITEM": "Wand of Fireballs",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "96",
+    "ROLL_MAX": "96",
+    "ITEM": "Wand of Lightning Bolts",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "97",
+    "ROLL_MAX": "97",
+    "ITEM": "Wand of Paralysis",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "98",
+    "ROLL_MAX": "98",
+    "ITEM": "Wand of the War Mage, +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "99",
+    "ROLL_MAX": "99",
+    "ITEM": "Wand of Wonder",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "G",
+    "ROLL_MIN": "100",
+    "ROLL_MAX": "100",
+    "ITEM": "Wings of Flying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "1",
+    "ROLL_MAX": "10",
+    "ITEM": "Weapon +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "11",
+    "ROLL_MAX": "12",
+    "ITEM": "Amulet of the Planes",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "13",
+    "ROLL_MAX": "14",
+    "ITEM": "Carpet of Flying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "15",
+    "ROLL_MAX": "16",
+    "ITEM": "Crystal Ball",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "17",
+    "ROLL_MAX": "18",
+    "ITEM": "Ring of Regeneration",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "19",
+    "ROLL_MAX": "20",
+    "ITEM": "Ring of Shooting Stars",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "21",
+    "ROLL_MAX": "22",
+    "ITEM": "Ring of Telekinesis",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "23",
+    "ROLL_MAX": "24",
+    "ITEM": "Robe of Scintillating Colors",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "25",
+    "ROLL_MAX": "26",
+    "ITEM": "Robe of Stars",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "27",
+    "ROLL_MAX": "28",
+    "ITEM": "Rod of absorption",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "29",
+    "ROLL_MAX": "30",
+    "ITEM": "Rod of Alertness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "31",
+    "ROLL_MAX": "32",
+    "ITEM": "Rod of Security",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "33",
+    "ROLL_MAX": "34",
+    "ITEM": "Rod of the Pact Keeper +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "35",
+    "ROLL_MAX": "36",
+    "ITEM": "Scimitar of Speed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "37",
+    "ROLL_MAX": "38",
+    "ITEM": "Shield +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "39",
+    "ROLL_MAX": "40",
+    "ITEM": "Staff of Fire",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "41",
+    "ROLL_MAX": "42",
+    "ITEM": "Staff of Frost",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "43",
+    "ROLL_MAX": "44",
+    "ITEM": "Staff of Power",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "45",
+    "ROLL_MAX": "46",
+    "ITEM": "Staff of Striking",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "47",
+    "ROLL_MAX": "48",
+    "ITEM": "Staff of Thunder and Lightning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "49",
+    "ROLL_MAX": "50",
+    "ITEM": "Sword of Sharpness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "51",
+    "ROLL_MAX": "52",
+    "ITEM": "Wand of Polymorph",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "53",
+    "ROLL_MAX": "54",
+    "ITEM": "Wand of the War Mage +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "55",
+    "ROLL_MAX": "55",
+    "ITEM": "Adamantine Half Plate Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "56",
+    "ROLL_MAX": "56",
+    "ITEM": "Adamantine Plate Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "57",
+    "ROLL_MAX": "57",
+    "ITEM": "Animated Shield",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "58",
+    "ROLL_MAX": "58",
+    "ITEM": "Belt of Fire Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "59",
+    "ROLL_MAX": "59",
+    "ITEM": "Belt of frost or stone giant strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "60",
+    "ROLL_MAX": "60",
+    "ITEM": "Breastplate +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "61",
+    "ROLL_MAX": "61",
+    "ITEM": "Breastplate of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "62",
+    "ROLL_MAX": "62",
+    "ITEM": "Candle of Invocation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "63",
+    "ROLL_MAX": "63",
+    "ITEM": "Chain Mail +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "64",
+    "ROLL_MAX": "64",
+    "ITEM": "Chain Shirt +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "65",
+    "ROLL_MAX": "65",
+    "ITEM": "Cloak of Arachnida",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "66",
+    "ROLL_MAX": "66",
+    "ITEM": "Dancing Sword",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "67",
+    "ROLL_MAX": "67",
+    "ITEM": "Demon Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "68",
+    "ROLL_MAX": "68",
+    "ITEM": "Dragon Scale Mail",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "69",
+    "ROLL_MAX": "69",
+    "ITEM": "Dwarven Plate",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "70",
+    "ROLL_MAX": "70",
+    "ITEM": "Dwarven Thrower",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "71",
+    "ROLL_MAX": "71",
+    "ITEM": "Efreeti Bottle",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "72",
+    "ROLL_MAX": "72",
+    "ITEM": "Figurine of Wondrous Power - Obsidian Steed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "73",
+    "ROLL_MAX": "73",
+    "ITEM": "Frost Brand",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "74",
+    "ROLL_MAX": "74",
+    "ITEM": "Helm of Brilliance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "75",
+    "ROLL_MAX": "75",
+    "ITEM": "Horn of Valhalla - Bronze",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "76",
+    "ROLL_MAX": "76",
+    "ITEM": "Instrument of the Bards - Anstruth Harp",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "77",
+    "ROLL_MAX": "77",
+    "ITEM": "Ioun Stone - Absorption",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "78",
+    "ROLL_MAX": "78",
+    "ITEM": "Ioun Stone - Agility",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "79",
+    "ROLL_MAX": "79",
+    "ITEM": "Ioun Stone - Fortitude",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "80",
+    "ROLL_MAX": "80",
+    "ITEM": "Ioun Stone - Insight",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "81",
+    "ROLL_MAX": "81",
+    "ITEM": "Ioun Stone - Intellect",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "82",
+    "ROLL_MAX": "82",
+    "ITEM": "Ioun Stone - Leadership",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "83",
+    "ROLL_MAX": "83",
+    "ITEM": "Ioun Stone - Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "84",
+    "ROLL_MAX": "84",
+    "ITEM": "Leather Armor +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "85",
+    "ROLL_MAX": "85",
+    "ITEM": "Manual of Bodily Health",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "86",
+    "ROLL_MAX": "86",
+    "ITEM": "Manual of Gainful Exercise",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "87",
+    "ROLL_MAX": "87",
+    "ITEM": "Manual of Golems",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "88",
+    "ROLL_MAX": "88",
+    "ITEM": "Manual of Quickness of Action",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "89",
+    "ROLL_MAX": "89",
+    "ITEM": "Mirror of Life Trapping",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "90",
+    "ROLL_MAX": "90",
+    "ITEM": "Nine Lives Stealer",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "91",
+    "ROLL_MAX": "91",
+    "ITEM": "Oathbow",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "92",
+    "ROLL_MAX": "92",
+    "ITEM": "Scale Mail +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "93",
+    "ROLL_MAX": "93",
+    "ITEM": "Spellguard Shield",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "94",
+    "ROLL_MAX": "94",
+    "ITEM": "Splint Armor +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "95",
+    "ROLL_MAX": "95",
+    "ITEM": "Splint Armor of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "96",
+    "ROLL_MAX": "96",
+    "ITEM": "Studded Leather Armor +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "97",
+    "ROLL_MAX": "97",
+    "ITEM": "Studded Leather Armor of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "98",
+    "ROLL_MAX": "98",
+    "ITEM": "Tome of Clear Thought",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "99",
+    "ROLL_MAX": "99",
+    "ITEM": "Tome of Leadership and Influence",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "H",
+    "ROLL_MIN": "100",
+    "ROLL_MAX": "100",
+    "ITEM": "Tome of Understanding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "1",
+    "ROLL_MAX": "5",
+    "ITEM": "Defender",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "6",
+    "ROLL_MAX": "10",
+    "ITEM": "Hammer of Thunderbolts",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "11",
+    "ROLL_MAX": "15",
+    "ITEM": "Luck Blade",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "16",
+    "ROLL_MAX": "20",
+    "ITEM": "Sword of Answering",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "21",
+    "ROLL_MAX": "23",
+    "ITEM": "Holy Avenger",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "24",
+    "ROLL_MAX": "26",
+    "ITEM": "Ring of Djinni Summoning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "27",
+    "ROLL_MAX": "29",
+    "ITEM": "Ring of Invisibility",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "30",
+    "ROLL_MAX": "32",
+    "ITEM": "Ring of Spell Turning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "33",
+    "ROLL_MAX": "35",
+    "ITEM": "Rod of Lordly Might",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "36",
+    "ROLL_MAX": "38",
+    "ITEM": "Staff of the Magi",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "39",
+    "ROLL_MAX": "41",
+    "ITEM": "Vorpal sword",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "42",
+    "ROLL_MAX": "43",
+    "ITEM": "Belt of Cloud Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "44",
+    "ROLL_MAX": "45",
+    "ITEM": "Breastplate +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "46",
+    "ROLL_MAX": "47",
+    "ITEM": "Chain Mail +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "48",
+    "ROLL_MAX": "49",
+    "ITEM": "Chain Shirt +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "50",
+    "ROLL_MAX": "51",
+    "ITEM": "Cloak of Invisibility",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "52",
+    "ROLL_MAX": "53",
+    "ITEM": "Crystal Ball (legendary version)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "54",
+    "ROLL_MAX": "55",
+    "ITEM": "Half Plate Armor +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "56",
+    "ROLL_MAX": "57",
+    "ITEM": "Iron Flask",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "58",
+    "ROLL_MAX": "59",
+    "ITEM": "Leather Armor +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "60",
+    "ROLL_MAX": "61",
+    "ITEM": "Plate Armor +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "62",
+    "ROLL_MAX": "63",
+    "ITEM": "Robe of the Archmagi",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "64",
+    "ROLL_MAX": "65",
+    "ITEM": "Rod of Resurrection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "66",
+    "ROLL_MAX": "67",
+    "ITEM": "Scale Mail +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "68",
+    "ROLL_MAX": "69",
+    "ITEM": "Scarab of Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "70",
+    "ROLL_MAX": "71",
+    "ITEM": "Splint Armor +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "72",
+    "ROLL_MAX": "73",
+    "ITEM": "Studded Leather Armor +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "74",
+    "ROLL_MAX": "75",
+    "ITEM": "Well of Many Worlds",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "76",
+    "ROLL_MAX": "76",
+    "ITEM": "Magic Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "77",
+    "ROLL_MAX": "77",
+    "ITEM": "Apparatus of Kwalish",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "78",
+    "ROLL_MAX": "78",
+    "ITEM": "Armor of Invulnerability",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "79",
+    "ROLL_MAX": "79",
+    "ITEM": "Belt of Storm Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "80",
+    "ROLL_MAX": "80",
+    "ITEM": "Cubic Gate",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "81",
+    "ROLL_MAX": "81",
+    "ITEM": "Deck of Many Things",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "82",
+    "ROLL_MAX": "82",
+    "ITEM": "Efreeti Chain",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "83",
+    "ROLL_MAX": "83",
+    "ITEM": "Half Plate Armor of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "84",
+    "ROLL_MAX": "84",
+    "ITEM": "Horn of Valhalla - Iron",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "85",
+    "ROLL_MAX": "85",
+    "ITEM": "Instrument of the Bards - Ollamh Harp",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "86",
+    "ROLL_MAX": "86",
+    "ITEM": "Ioun Stone - Greater Absorption",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "87",
+    "ROLL_MAX": "87",
+    "ITEM": "Ioun Stone - Mastery",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "88",
+    "ROLL_MAX": "88",
+    "ITEM": "Ioun Stone - Regeneration",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "89",
+    "ROLL_MAX": "89",
+    "ITEM": "Plate Armor of Etherealness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "90",
+    "ROLL_MAX": "90",
+    "ITEM": "Plate Armor of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "91",
+    "ROLL_MAX": "91",
+    "ITEM": "Ring of Air Elemental Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "92",
+    "ROLL_MAX": "92",
+    "ITEM": "Ring of Earth Elemental Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "93",
+    "ROLL_MAX": "93",
+    "ITEM": "Ring of Fire Elemental Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "94",
+    "ROLL_MAX": "94",
+    "ITEM": "Ring of Three Wishes",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "95",
+    "ROLL_MAX": "95",
+    "ITEM": "Ring of Water Elemental Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "96",
+    "ROLL_MAX": "96",
+    "ITEM": "Sphere of Annihilation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "97",
+    "ROLL_MAX": "97",
+    "ITEM": "Talisman of Pure Good",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "98",
+    "ROLL_MAX": "98",
+    "ITEM": "Talisman of the Sphere",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "99",
+    "ROLL_MAX": "99",
+    "ITEM": "Talisman of Ultimate Evil",
+    "SOURCE": "DMG"
+  },
+  {
+    "TABLE": "I",
+    "ROLL_MIN": "100",
+    "ROLL_MAX": "100",
+    "ITEM": "Tome of the Stilled Tongue",
+    "SOURCE": "DMG"
+  }
+
+
+]

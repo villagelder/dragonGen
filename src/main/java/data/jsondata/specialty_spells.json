@@ -1,0 +1,873 @@
+[
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "1",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Knowledge",
+    "SPELLS": "Command, Identify",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "3",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Knowledge",
+    "SPELLS": "Augury, Suggestion",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "5",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Knowledge",
+    "SPELLS": "Nondetection, Speak with Dead",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "7",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Knowledge",
+    "SPELLS": "Arcane Eye, Confusion",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "9",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Knowledge",
+    "SPELLS": "Legend Lore, Scrying",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "1",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Life",
+    "SPELLS": "Bless, Cure Wounds",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "3",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Life",
+    "SPELLS": "Lesser Restoration, Spiritual Weapon",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "5",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Life",
+    "SPELLS": "Beacon of Hope, Revivify",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "7",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Life",
+    "SPELLS": "Death Ward, Guardian of Faith",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "9",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Life",
+    "SPELLS": "Mass Cure Wounds, Raise Dead",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "1",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Light",
+    "SPELLS": "Burning Hands, Faerie Fire",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "3",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Light",
+    "SPELLS": "Flaming Sphere, Scorching Ray",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "5",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Light",
+    "SPELLS": "Daylight, Fireball",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "7",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Light",
+    "SPELLS": "Guardian of Faith, Wall of Fire",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "9",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Light",
+    "SPELLS": "Flame Strike, Scrying",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "1",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Nature",
+    "SPELLS": "Animal Friendship, Speak with Animals",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "3",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Nature",
+    "SPELLS": "Barkskin, Spike Growth",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "5",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Nature",
+    "SPELLS": "Plant Growth, Wind Wall",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "7",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Nature",
+    "SPELLS": "Dominate Beast, Grasping Vine",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "9",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Nature",
+    "SPELLS": "Insect Plague, Tree Stride",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "1",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Tempest",
+    "SPELLS": "Fog Cloud, Thunderwave",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "3",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Tempest",
+    "SPELLS": "Gust of Wind, Shatter",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "5",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Tempest",
+    "SPELLS": "Call Lightning, Sleet Storm",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "7",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Tempest",
+    "SPELLS": "Control Water, Ice Storm",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "9",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Tempest",
+    "SPELLS": "Destructive Wave, Insect Plague",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "1",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Trickery",
+    "SPELLS": "Charm Person, Disguise Self",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "3",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Trickery",
+    "SPELLS": "Mirror Image, Pass Without Trace",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "5",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Trickery",
+    "SPELLS": "Blink, Dispel Magic",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "7",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Trickery",
+    "SPELLS": "Dimension Door, Polymorph",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "9",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "Trickery",
+    "SPELLS": "Dominate Person, Modify Memory",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "1",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "War",
+    "SPELLS": "Divine Favor, Shield of Faith",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "3",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "War",
+    "SPELLS": "Magic Weapon, Spiritual Weapon",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "5",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "War",
+    "SPELLS": "Crusader's Mantle, Spirit Guardians",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "7",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "War",
+    "SPELLS": "Freedom of Movement, Stoneskin",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Cleric",
+    "LEVEL": "9",
+    "ARCHETYPE": "Domain",
+    "SPECIALTY": "War",
+    "SPELLS": "Flame Strike, Hold Monster",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "3",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Arctic",
+    "SPELLS": "Hold Person, Spike Growth",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "5",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Arctic",
+    "SPELLS": "Sleet Storm, Slow",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "7",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Arctic",
+    "SPELLS": "Freedom of Movement, Ice Storm",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "9",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Arctic",
+    "SPELLS": "Commune with Nature, Cone of Cold",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "3",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Coast",
+    "SPELLS": "Mirror Image, Misty Step",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "5",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Coast",
+    "SPELLS": "Water Breathing, Water Walk",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "7",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Coast",
+    "SPELLS": "Control Water, Freedom of Movement",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "9",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Coast",
+    "SPELLS": "Conjure Elemental, Scrying",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "3",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Desert",
+    "SPELLS": "Blur, Silence",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "5",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Desert",
+    "SPELLS": "Create Food and Water, Protection from Energy",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "7",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Desert",
+    "SPELLS": "Blight, Hallucinatory Terrain",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "9",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Desert",
+    "SPELLS": "Insect Plague, Wall of Stone",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "3",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Forest",
+    "SPELLS": "Barkskin, Spider Climb",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "5",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Forest",
+    "SPELLS": "Call Lightning, Plant Growth",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "7",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Forest",
+    "SPELLS": "Divination, Freedom of Movement",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "9",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Forest",
+    "SPELLS": "Commune with Nature, Tree Stride",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "3",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Grassland",
+    "SPELLS": "Invisibility, Pass Without Trace",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "5",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Grassland",
+    "SPELLS": "Daylight, Haste",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "7",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Grassland",
+    "SPELLS": "Divination, Freedom of Movement",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "9",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Grassland",
+    "SPELLS": "Commune with Nature, Tree Stride",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "3",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Mountain",
+    "SPELLS": "Spider Climb, Spike Growth",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "5",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Mountain",
+    "SPELLS": "Lightning Bolt, Meld Into Stone",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "7",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Mountain",
+    "SPELLS": "Stone Shape, Stoneskin",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "9",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Mountain",
+    "SPELLS": "Passwall, Wall of Stone",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "3",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Swamp",
+    "SPELLS": "Darkness, Melf's Acid Arrow",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "5",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Swamp",
+    "SPELLS": "Water Walk, Stinking Cloud",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "7",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Swamp",
+    "SPELLS": "Freedom of Movement, Locate Creature",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "9",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Swamp",
+    "SPELLS": "Insect Plague, Scrying",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "3",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Underdark",
+    "SPELLS": "Spider Climb, Web",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "5",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Underdark",
+    "SPELLS": "Gaseous Form, Stinking Cloud",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "7",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Underdark",
+    "SPELLS": "Greater Invisibility, Stone Shape",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Druid",
+    "LEVEL": "9",
+    "ARCHETYPE": "Circle",
+    "SPECIALTY": "Underdark",
+    "SPELLS": "Cloudkill, Insect Plague",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "3",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Devotion",
+    "SPELLS": "Protection from Evil and Good, Sanctuary",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "5",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Devotion",
+    "SPELLS": "Lesser Restoration, Zone of Truth",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "9",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Devotion",
+    "SPELLS": "Beacon of Hope, Dispel Magic",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "13",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Devotion",
+    "SPELLS": "Freedom of Movement, Guardian of Faith",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "17",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Devotion",
+    "SPELLS": "Commune, Flame Strike",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "3",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Ancients",
+    "SPELLS": "Ensnaring Strike, Speak with Animals",
+    "SOURCE": "306"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "5",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Ancients",
+    "SPELLS": "Moonbeam, Misty Step",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "9",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Ancients",
+    "SPELLS": "Plant Growth, Protection from Energy",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "13",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Ancients",
+    "SPELLS": "Ice Storm, Stoneskin",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "17",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Ancients",
+    "SPELLS": "Commune with Nature, Tree Stride",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "3",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Vengeance",
+    "SPELLS": "Bane, Hunter's Mark",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "5",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Vengeance",
+    "SPELLS": "Hold Person, Misty Step",
+    "SOURCE": "233"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "9",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Vengeance",
+    "SPELLS": "Haste, Protection from Energy",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "13",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Vengeance",
+    "SPELLS": "Banishment, Dimension Door",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Paladin",
+    "LEVEL": "17",
+    "ARCHETYPE": "Oath",
+    "SPECIALTY": "Vengeance",
+    "SPELLS": "Hold Monster, Scrying",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "1",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Archfey",
+    "SPELLS": "Faerie Fire, Sleep",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "3",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Archfey",
+    "SPELLS": "Calm Emotions, Phantasmal Force",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "5",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Archfey",
+    "SPELLS": "Blink, Plant Growth",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "7",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Archfey",
+    "SPELLS": "Dominate Beast, Greater Invisibility",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "9",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Archfey",
+    "SPELLS": "Dominate Person",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "1",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Fiend",
+    "SPELLS": "Burning Hands, Command",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "3",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Fiend",
+    "SPELLS": "Blindness/Deafness, Scorching Ray",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "5",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Fiend",
+    "SPELLS": "Fireball, Stinking Cloud",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "7",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Fiend",
+    "SPELLS": "Fire Shield, Wall of Fire",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "9",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Fiend",
+    "SPELLS": "Flame Strike, Hallow",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "1",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Great Old One",
+    "SPELLS": "Dissonant Whispers, Tasha's Hideous Laughter",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "3",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Great Old One",
+    "SPELLS": "Detect Thoughts, Phantasmal Force",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "5",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Great Old One",
+    "SPELLS": "Clairvoyance, Sending",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "7",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Great Old One",
+    "SPELLS": "Dominate Beast, Evard's Black Tentacles",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "CLASSNAME": "Warlock",
+    "LEVEL": "9",
+    "ARCHETYPE": "Otherworldly Patron",
+    "SPECIALTY": "Great Old One",
+    "SPELLS": "Dominate Person, Telekinesis",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  }
+]

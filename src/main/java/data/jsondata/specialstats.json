@@ -1,0 +1,142 @@
+[
+  {
+    "LEVEL": "1",
+    "PROFBONUS": "2",
+    "KI_SORCERY": "0",
+    "SOURCE": "PLHB",
+    "RAGES": "2"
+  },
+  {
+    "LEVEL": "2",
+    "PROFBONUS": "2",
+    "KI_SORCERY": "2",
+    "SOURCE": "PLHB",
+    "RAGES": "2"
+  },
+  {
+    "LEVEL": "3",
+    "PROFBONUS": "2",
+    "KI_SORCERY": "3",
+    "SOURCE": "PLHB",
+    "RAGES": "3"
+  },
+  {
+    "LEVEL": "4",
+    "PROFBONUS": "2",
+    "KI_SORCERY": "4",
+    "SOURCE": "PLHB",
+    "RAGES": "3"
+  },
+  {
+    "LEVEL": "5",
+    "PROFBONUS": "3",
+    "KI_SORCERY": "5",
+    "SOURCE": "PLHB",
+    "RAGES": "3"
+  },
+  {
+    "LEVEL": "6",
+    "PROFBONUS": "3",
+    "KI_SORCERY": "6",
+    "SOURCE": "PLHB",
+    "RAGES": "4"
+  },
+  {
+    "LEVEL": "7",
+    "PROFBONUS": "3",
+    "KI_SORCERY": "7",
+    "SOURCE": "PLHB",
+    "RAGES": "4"
+  },
+  {
+    "LEVEL": "8",
+    "PROFBONUS": "3",
+    "KI_SORCERY": "8",
+    "SOURCE": "PLHB",
+    "RAGES": "4"
+  },
+  {
+    "LEVEL": "9",
+    "PROFBONUS": "4",
+    "KI_SORCERY": "9",
+    "SOURCE": "PLHB",
+    "RAGES": "4"
+  },
+  {
+    "LEVEL": "10",
+    "PROFBONUS": "4",
+    "KI_SORCERY": "10",
+    "SOURCE": "PLHB",
+    "RAGES": "4"
+  },
+  {
+    "LEVEL": "11",
+    "PROFBONUS": "4",
+    "KI_SORCERY": "11",
+    "SOURCE": "PLHB",
+    "RAGES": "4"
+  },
+  {
+    "LEVEL": "12",
+    "PROFBONUS": "4",
+    "KI_SORCERY": "12",
+    "SOURCE": "PLHB",
+    "RAGES": "5"
+  },
+  {
+    "LEVEL": "13",
+    "PROFBONUS": "5",
+    "KI_SORCERY": "13",
+    "SOURCE": "PLHB",
+    "RAGES": "5"
+  },
+  {
+    "LEVEL": "14",
+    "PROFBONUS": "5",
+    "KI_SORCERY": "14",
+    "SOURCE": "PLHB",
+    "RAGES": "5"
+  },
+  {
+    "LEVEL": "15",
+    "PROFBONUS": "5",
+    "KI_SORCERY": "15",
+    "SOURCE": "PLHB",
+    "RAGES": "5"
+  },
+  {
+    "LEVEL": "16",
+    "PROFBONUS": "5",
+    "KI_SORCERY": "16",
+    "SOURCE": "PLHB",
+    "RAGES": "5"
+  },
+  {
+    "LEVEL": "17",
+    "PROFBONUS": "6",
+    "KI_SORCERY": "17",
+    "SOURCE": "PLHB",
+    "RAGES": "6"
+  },
+  {
+    "LEVEL": "18",
+    "PROFBONUS": "6",
+    "KI_SORCERY": "18",
+    "SOURCE": "PLHB",
+    "RAGES": "6"
+  },
+  {
+    "LEVEL": "19",
+    "PROFBONUS": "6",
+    "KI_SORCERY": "19",
+    "SOURCE": "PLHB",
+    "RAGES": "6"
+  },
+  {
+    "LEVEL": "20",
+    "PROFBONUS": "6",
+    "KI_SORCERY": "20",
+    "SOURCE": "PLHB",
+    "RAGES": "99"
+  }
+]

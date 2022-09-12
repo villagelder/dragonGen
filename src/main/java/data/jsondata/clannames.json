@@ -1,0 +1,2702 @@
+[
+  {
+    "_ID": "1",
+    "Race": "Dwarf",
+    "Clan": "Balderk",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "2",
+    "Race": "Elf",
+    "Clan": "Arnakiir",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "3",
+    "Race": "Halfling",
+    "Clan": "Brushgather",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "4",
+    "Race": "Human",
+    "Clan": "Basha",
+    "Region": "Calishite"
+  },
+  {
+    "_ID": "5",
+    "Race": "Human",
+    "Clan": "Dumein",
+    "Region": "Calishite"
+  },
+  {
+    "_ID": "6",
+    "Race": "Human",
+    "Clan": "Jassan",
+    "Region": "Calishite"
+  },
+  {
+    "_ID": "7",
+    "Race": "Human",
+    "Clan": "Khalid",
+    "Region": "Calishite"
+  },
+  {
+    "_ID": "8",
+    "Race": "Human",
+    "Clan": "Mostana",
+    "Region": "Calishite"
+  },
+  {
+    "_ID": "9",
+    "Race": "Human",
+    "Clan": "Pashar",
+    "Region": "Calishite"
+  },
+  {
+    "_ID": "10",
+    "Race": "Human",
+    "Clan": "Rein",
+    "Region": "Calishite"
+  },
+  {
+    "_ID": "11",
+    "Race": "Human",
+    "Clan": "Amblecrown",
+    "Region": "Chondathan"
+  },
+  {
+    "_ID": "12",
+    "Race": "Human",
+    "Clan": "Buckman",
+    "Region": "Chondathan"
+  },
+  {
+    "_ID": "13",
+    "Race": "Dragonborn",
+    "Clan": "Clethtinthiallor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "14",
+    "Race": "Dragonborn",
+    "Clan": "Daardendrian",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "15",
+    "Race": "Dragonborn",
+    "Clan": "Delmirev",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "16",
+    "Race": "Dragonborn",
+    "Clan": "Drachedandion",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "17",
+    "Race": "Dragonborn",
+    "Clan": "Fenkenkabradon",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "18",
+    "Race": "Dragonborn",
+    "Clan": "Kepeshkmolik",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "19",
+    "Race": "Dragonborn",
+    "Clan": "Kerrhylon",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "20",
+    "Race": "Dragonborn",
+    "Clan": "Kimbatuul",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "21",
+    "Race": "Dragonborn",
+    "Clan": "Linxakasendalor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "22",
+    "Race": "Dragonborn",
+    "Clan": "Myastan",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "23",
+    "Race": "Dragonborn",
+    "Clan": "Nemmonis",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "24",
+    "Race": "Dragonborn",
+    "Clan": "Norixius",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "25",
+    "Race": "Dragonborn",
+    "Clan": "Ophinshtalajiir",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "26",
+    "Race": "Dragonborn",
+    "Clan": "Prexijandilin",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "27",
+    "Race": "Dragonborn",
+    "Clan": "Shestendeliath",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "28",
+    "Race": "Dragonborn",
+    "Clan": "Turnuroth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "29",
+    "Race": "Dragonborn",
+    "Clan": "Verthisathurgiesh",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "30",
+    "Race": "Dragonborn",
+    "Clan": "Yarjerit",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "31",
+    "Race": "Gnome",
+    "Clan": "Beren",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "32",
+    "Race": "Gnome",
+    "Clan": "Daerge",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "33",
+    "Race": "Gnome",
+    "Clan": "Folkor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "34",
+    "Race": "Gnome",
+    "Clan": "Garrick",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "35",
+    "Race": "Gnome",
+    "Clan": "Nackle",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "36",
+    "Race": "Gnome",
+    "Clan": "Murnig",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "37",
+    "Race": "Gnome",
+    "Clan": "Ningel",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "38",
+    "Race": "Gnome",
+    "Clan": "Raulnor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "39",
+    "Race": "Gnome",
+    "Clan": "Scheppen",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "40",
+    "Race": "Gnome",
+    "Clan": "Timbers",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "41",
+    "Race": "Gnome",
+    "Clan": "Turen",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "42",
+    "Race": "Tiefling",
+    "Clan": "Infernal",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "43",
+    "Race": "Dwarf",
+    "Clan": "Battlehammer",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "44",
+    "Race": "Dwarf",
+    "Clan": "Brawnanvil",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "45",
+    "Race": "Dwarf",
+    "Clan": "Dankil",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "46",
+    "Race": "Dwarf",
+    "Clan": "Fireforge",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "47",
+    "Race": "Dwarf",
+    "Clan": "Frostbeard",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "49",
+    "Race": "Dwarf",
+    "Clan": "Gorunn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "50",
+    "Race": "Dwarf",
+    "Clan": "Holderhek",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "51",
+    "Race": "Dwarf",
+    "Clan": "Ironfist",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "52",
+    "Race": "Dwarf",
+    "Clan": "Loderr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "53",
+    "Race": "Dwarf",
+    "Clan": "Lutgehr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "54",
+    "Race": "Dwarf",
+    "Clan": "Rumnaheim",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "55",
+    "Race": "Dwarf",
+    "Clan": "Strakein",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "56",
+    "Race": "Dwarf",
+    "Clan": "Torunn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "57",
+    "Race": "Dwarf",
+    "Clan": "Ungart",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "58",
+    "Race": "Elf",
+    "Clan": "Amastacia",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "59",
+    "Race": "Elf",
+    "Clan": "Galanodel",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "60",
+    "Race": "Elf",
+    "Clan": "Holimion",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "61",
+    "Race": "Elf",
+    "Clan": "Ilphelkiir",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "62",
+    "Race": "Elf",
+    "Clan": "Liadon",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "63",
+    "Race": "Elf",
+    "Clan": "Meliamne",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "64",
+    "Race": "Elf",
+    "Clan": "Nailo",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "65",
+    "Race": "Elf",
+    "Clan": "Siannodel",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "66",
+    "Race": "Elf",
+    "Clan": "Xiloscient",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "67",
+    "Race": "Halfling",
+    "Clan": "Goodbarrel",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "68",
+    "Race": "Halfling",
+    "Clan": "Greenbottle",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "69",
+    "Race": "Halfling",
+    "Clan": "High-hill",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "70",
+    "Race": "Halfling",
+    "Clan": "Hilltopple",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "71",
+    "Race": "Halfling",
+    "Clan": "Leagallow",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "72",
+    "Race": "Halfling",
+    "Clan": "Tealeaf",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "73",
+    "Race": "Halfling",
+    "Clan": "Thorngage",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "74",
+    "Race": "Halfling",
+    "Clan": "Tosscobble",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "75",
+    "Race": "Halfling",
+    "Clan": "Underbough",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "76",
+    "Race": "Human",
+    "Clan": "Dundragon",
+    "Region": "Chondathan"
+  },
+  {
+    "_ID": "77",
+    "Race": "Human",
+    "Clan": "Evenwood",
+    "Region": "Chondathan"
+  },
+  {
+    "_ID": "78",
+    "Race": "Human",
+    "Clan": "Greycastle",
+    "Region": "Chondathan"
+  },
+  {
+    "_ID": "79",
+    "Race": "Human",
+    "Clan": "Tallstag",
+    "Region": "Chondathan"
+  },
+  {
+    "_ID": "80",
+    "Race": "Human",
+    "Clan": "Bersk",
+    "Region": "Damaran"
+  },
+  {
+    "_ID": "81",
+    "Race": "Human",
+    "Clan": "Chernin",
+    "Region": "Damaran"
+  },
+  {
+    "_ID": "82",
+    "Race": "Human",
+    "Clan": "Dotsk",
+    "Region": "Damaran"
+  },
+  {
+    "_ID": "83",
+    "Race": "Human",
+    "Clan": "Kulenov",
+    "Region": "Damaran"
+  },
+  {
+    "_ID": "84",
+    "Race": "Human",
+    "Clan": "Marsk",
+    "Region": "Damaran"
+  },
+  {
+    "_ID": "85",
+    "Race": "Human",
+    "Clan": "Nemetsk",
+    "Region": "Damaran"
+  },
+  {
+    "_ID": "86",
+    "Race": "Human",
+    "Clan": "Shemov",
+    "Region": "Damaran"
+  },
+  {
+    "_ID": "87",
+    "Race": "Human",
+    "Clan": "Starag",
+    "Region": "Damaran"
+  },
+  {
+    "_ID": "88",
+    "Race": "Human",
+    "Clan": "Brightwood",
+    "Region": "Illuskan"
+  },
+  {
+    "_ID": "89",
+    "Race": "Human",
+    "Clan": "Helder",
+    "Region": "Illuskan"
+  },
+  {
+    "_ID": "90",
+    "Race": "Human",
+    "Clan": "Hornraven",
+    "Region": "Illuskan"
+  },
+  {
+    "_ID": "91",
+    "Race": "Human",
+    "Clan": "Lackman",
+    "Region": "Illuskan"
+  },
+  {
+    "_ID": "92",
+    "Race": "Human",
+    "Clan": "Stormwind",
+    "Region": "Illuskan"
+  },
+  {
+    "_ID": "93",
+    "Race": "Human",
+    "Clan": "Windrivver",
+    "Region": "Illuskan"
+  },
+  {
+    "_ID": "94",
+    "Race": "Human",
+    "Clan": "Chergoba",
+    "Region": "Rashemi"
+  },
+  {
+    "_ID": "95",
+    "Race": "Human",
+    "Clan": "Dyernina",
+    "Region": "Rashemi"
+  },
+  {
+    "_ID": "96",
+    "Race": "Human",
+    "Clan": "Iltazyara",
+    "Region": "Rashemi"
+  },
+  {
+    "_ID": "97",
+    "Race": "Human",
+    "Clan": "Murnyethara",
+    "Region": "Rashemi"
+  },
+  {
+    "_ID": "98",
+    "Race": "Human",
+    "Clan": "Stayanoga",
+    "Region": "Rashemi"
+  },
+  {
+    "_ID": "99",
+    "Race": "Human",
+    "Clan": "Ulmokina",
+    "Region": "Rashemi"
+  },
+  {
+    "_ID": "100",
+    "Race": "Human",
+    "Clan": "Ankhalab",
+    "Region": "Mulan"
+  },
+  {
+    "_ID": "101",
+    "Race": "Human",
+    "Clan": "Anskuld",
+    "Region": "Mulan"
+  },
+  {
+    "_ID": "102",
+    "Race": "Human",
+    "Clan": "Fezim",
+    "Region": "Mulan"
+  },
+  {
+    "_ID": "103",
+    "Race": "Human",
+    "Clan": "Hahpet",
+    "Region": "Mulan"
+  },
+  {
+    "_ID": "104",
+    "Race": "Human",
+    "Clan": "Nathandem",
+    "Region": "Mulan"
+  },
+  {
+    "_ID": "105",
+    "Race": "Human",
+    "Clan": "Sepret",
+    "Region": "Mulan"
+  },
+  {
+    "_ID": "106",
+    "Race": "Human",
+    "Clan": "Uuthrakt",
+    "Region": "Mulan"
+  },
+  {
+    "_ID": "107",
+    "Race": "Human",
+    "Clan": "Chien",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "108",
+    "Race": "Human",
+    "Clan": "Huang",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "109",
+    "Race": "Human",
+    "Clan": "Kao",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "110",
+    "Race": "Human",
+    "Clan": "Kung",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "111",
+    "Race": "Human",
+    "Clan": "Lao",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "112",
+    "Race": "Human",
+    "Clan": "Ling",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "113",
+    "Race": "Human",
+    "Clan": "Mei",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "114",
+    "Race": "Human",
+    "Clan": "Pin",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "115",
+    "Race": "Human",
+    "Clan": "Shin",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "116",
+    "Race": "Human",
+    "Clan": "Sum",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "117",
+    "Race": "Human",
+    "Clan": "Tan",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "118",
+    "Race": "Human",
+    "Clan": "Wan",
+    "Region": "Shou"
+  },
+  {
+    "_ID": "119",
+    "Race": "Human",
+    "Clan": "Agosto",
+    "Region": "Turami"
+  },
+  {
+    "_ID": "120",
+    "Race": "Human",
+    "Clan": "Astorio",
+    "Region": "Turami"
+  },
+  {
+    "_ID": "121",
+    "Race": "Human",
+    "Clan": "Calabra",
+    "Region": "Turami"
+  },
+  {
+    "_ID": "122",
+    "Race": "Human",
+    "Clan": "Domine",
+    "Region": "Turami"
+  },
+  {
+    "_ID": "123",
+    "Race": "Human",
+    "Clan": "Falone",
+    "Region": "Turami"
+  },
+  {
+    "_ID": "124",
+    "Race": "Human",
+    "Clan": "Marivaldi",
+    "Region": "Turami"
+  },
+  {
+    "_ID": "125",
+    "Race": "Human",
+    "Clan": "Pisacar",
+    "Region": "Turami"
+  },
+  {
+    "_ID": "126",
+    "Race": "Human",
+    "Clan": "Ramando",
+    "Region": "Turami"
+  },
+  {
+    "_ID": "127",
+    "Race": "Tiefling",
+    "Clan": "Agares",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "128",
+    "Race": "Tiefling",
+    "Clan": "Asmoday",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "129",
+    "Race": "Tiefling",
+    "Clan": "Barbatos",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "130",
+    "Race": "Tiefling",
+    "Clan": "Baalberith",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "131",
+    "Race": "Tiefling",
+    "Clan": "Caim",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "132",
+    "Race": "Tiefling",
+    "Clan": "Focalor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "133",
+    "Race": "Tiefling",
+    "Clan": "Furcas",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "134",
+    "Race": "Tiefling",
+    "Clan": "Gaap",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "135",
+    "Race": "Tiefling",
+    "Clan": "Gusion",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "136",
+    "Race": "Tiefling",
+    "Clan": "Ipos",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "137",
+    "Race": "Tiefling",
+    "Clan": "Malphas",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "138",
+    "Race": "Tiefling",
+    "Clan": "Ose",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "139",
+    "Race": "Tiefling",
+    "Clan": "Raum",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "140",
+    "Race": "Tiefling",
+    "Clan": "Shax",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "141",
+    "Race": "Tiefling",
+    "Clan": "Valac",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "142",
+    "Race": "Tiefling",
+    "Clan": "Vepar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "143",
+    "Race": "Tiefling",
+    "Clan": "Vual",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "144",
+    "Race": "Tiefling",
+    "Clan": "Zepar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "145",
+    "Race": "Elf",
+    "Clan": "Aelasar ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "146",
+    "Race": "Elf",
+    "Clan": "Aelorothi",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "147",
+    "Race": "Elf",
+    "Clan": "Aendryr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "148",
+    "Race": "Elf",
+    "Clan": "Aerasumé",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "149",
+    "Race": "Elf",
+    "Clan": "Aeravansel",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "150",
+    "Race": "Elf",
+    "Clan": "Agayous",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "151",
+    "Race": "Elf",
+    "Clan": "Agrivar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "152",
+    "Race": "Elf",
+    "Clan": "Ahmaquissar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "153",
+    "Race": "Elf",
+    "Clan": "Alaenree",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "154",
+    "Race": "Elf",
+    "Clan": "Alantar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "155",
+    "Race": "Elf",
+    "Clan": "Alastrarra",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "156",
+    "Race": "Elf",
+    "Clan": "Alavara",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "157",
+    "Race": "Elf",
+    "Clan": "Alenuath",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "158",
+    "Race": "Elf",
+    "Clan": "Alerothi",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "159",
+    "Race": "Elf",
+    "Clan": "Alluth ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "160",
+    "Race": "Elf",
+    "Clan": "Aloevan ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "161",
+    "Race": "Elf",
+    "Clan": "Aluianti ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "162",
+    "Race": "Elf",
+    "Clan": "Aluviirsaan",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "163",
+    "Race": "Elf",
+    "Clan": "Amalith",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "164",
+    "Race": "Elf",
+    "Clan": "Amarallis",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "165",
+    "Race": "Elf",
+    "Clan": "Amaratharr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "166",
+    "Race": "Elf",
+    "Clan": "Amarthen",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "167",
+    "Race": "Elf",
+    "Clan": "Ammath ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "168",
+    "Race": "Elf",
+    "Clan": "Amrallatha ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "169",
+    "Race": "Elf",
+    "Clan": "Anuaer ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "170",
+    "Race": "Elf",
+    "Clan": "Argentaamn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "171",
+    "Race": "Elf",
+    "Clan": "Arren",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "172",
+    "Race": "Elf",
+    "Clan": "Ash ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "173",
+    "Race": "Elf",
+    "Clan": "Ashgrove ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "174",
+    "Race": "Elf",
+    "Clan": "Audark",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "175",
+    "Race": "Elf",
+    "Clan": "Auglamyr ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "176",
+    "Race": "Elf",
+    "Clan": "Auglathla",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "177",
+    "Race": "Elf",
+    "Clan": "Aunglor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "178",
+    "Race": "Elf",
+    "Clan": "Autumnfire",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "179",
+    "Race": "Elf",
+    "Clan": "Bellas",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "180",
+    "Race": "Elf",
+    "Clan": "Berethryl",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "181",
+    "Race": "Elf",
+    "Clan": "Berilan",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "182",
+    "Race": "Elf",
+    "Clan": "Bharaclaiev",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "183",
+    "Race": "Elf",
+    "Clan": "Bhephel",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "184",
+    "Race": "Elf",
+    "Clan": "Blackhelm",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "185",
+    "Race": "Elf",
+    "Clan": "Braegen",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "186",
+    "Race": "Elf",
+    "Clan": "Briarbosk",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "187",
+    "Race": "Elf",
+    "Clan": "Brightcloak",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "188",
+    "Race": "Elf",
+    "Clan": "Brightsong",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "189",
+    "Race": "Elf",
+    "Clan": "Brightwing",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "190",
+    "Race": "Elf",
+    "Clan": "Caersaelk",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "191",
+    "Race": "Elf",
+    "Clan": "Calaudra",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "192",
+    "Race": "Elf",
+    "Clan": "Calauth ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "193",
+    "Race": "Elf",
+    "Clan": "Camusiil",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "194",
+    "Race": "Elf",
+    "Clan": "Cathdeiryn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "195",
+    "Race": "Elf",
+    "Clan": "Ceretlan",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "196",
+    "Race": "Elf",
+    "Clan": "Chaadren",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "197",
+    "Race": "Elf",
+    "Clan": "Chamaranthe",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "198",
+    "Race": "Elf",
+    "Clan": "Clatharla",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "199",
+    "Race": "Elf",
+    "Clan": "Cormyth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "200",
+    "Race": "Elf",
+    "Clan": "Coudoarluth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "201",
+    "Race": "Elf",
+    "Clan": "Craulnober",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "202",
+    "Race": "Elf",
+    "Clan": "Crystalembers",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "203",
+    "Race": "Elf",
+    "Clan": "Dahast",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "204",
+    "Race": "Elf",
+    "Clan": "Dawnhorn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "205",
+    "Race": "Elf",
+    "Clan": "Dhorinshyl",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "206",
+    "Race": "Elf",
+    "Clan": "Dlardrageth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "207",
+    "Race": "Elf",
+    "Clan": "Doedance",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "208",
+    "Race": "Elf",
+    "Clan": "Donnathlascen ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "209",
+    "Race": "Elf",
+    "Clan": "Dracoseir",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "210",
+    "Race": "Elf",
+    "Clan": "Dree",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "211",
+    "Race": "Elf",
+    "Clan": "Duirsar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "212",
+    "Race": "Elf",
+    "Clan": "Durothil",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "213",
+    "Race": "Elf",
+    "Clan": "Duskmere ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "214",
+    "Race": "Elf",
+    "Clan": "Duthjuth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "215",
+    "Race": "Elf",
+    "Clan": "Ealoeth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "216",
+    "Race": "Elf",
+    "Clan": "Echorn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "217",
+    "Race": "Elf",
+    "Clan": "Elaéyadar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "218",
+    "Race": "Elf",
+    "Clan": "Elassidil",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "219",
+    "Race": "Elf",
+    "Clan": "Elian",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "220",
+    "Race": "Elf",
+    "Clan": "Ellarian",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "221",
+    "Race": "Elf",
+    "Clan": "Elond",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "222",
+    "Race": "Elf",
+    "Clan": "Eluarshee",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "223",
+    "Race": "Elf",
+    "Clan": "Ereuvyn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "224",
+    "Race": "Elf",
+    "Clan": "Erkowe",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "225",
+    "Race": "Elf",
+    "Clan": "Erladden ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "226",
+    "Race": "Elf",
+    "Clan": "Erlshade",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "227",
+    "Race": "Elf",
+    "Clan": "Eroth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "228",
+    "Race": "Elf",
+    "Clan": "Estelda ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "229",
+    "Race": "Elf",
+    "Clan": "Evanara ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "230",
+    "Race": "Elf",
+    "Clan": "Eveningfall",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "231",
+    "Race": "Elf",
+    "Clan": "Everlove",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "232",
+    "Race": "Elf",
+    "Clan": "Evioro",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "233",
+    "Race": "Elf",
+    "Clan": "Eyriendor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "234",
+    "Race": "Elf",
+    "Clan": "Faerondaerl",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "235",
+    "Race": "Elf",
+    "Clan": "Faerondarl",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "236",
+    "Race": "Elf",
+    "Clan": "Falanae",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "237",
+    "Race": "Elf",
+    "Clan": "Felinaun",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "238",
+    "Race": "Elf",
+    "Clan": "Fellmirr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "239",
+    "Race": "Elf",
+    "Clan": "Fenmarel",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "240",
+    "Race": "Elf",
+    "Clan": "Fflannidan",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "241",
+    "Race": "Elf",
+    "Clan": "Floshin",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "242",
+    "Race": "Elf",
+    "Clan": "Fynnasla",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "243",
+    "Race": "Elf",
+    "Clan": "Gildenguard",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "244",
+    "Race": "Elf",
+    "Clan": "Goadulphyn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "245",
+    "Race": "Elf",
+    "Clan": "Goldenleaf",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "246",
+    "Race": "Elf",
+    "Clan": "Gourael",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "247",
+    "Race": "Elf",
+    "Clan": "Greencloak",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "248",
+    "Race": "Elf",
+    "Clan": "Gwaelon",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "249",
+    "Race": "Elf",
+    "Clan": "Haell",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "250",
+    "Race": "Elf",
+    "Clan": "Haerlgent",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "251",
+    "Race": "Elf",
+    "Clan": "Haevaul",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "252",
+    "Race": "Elf",
+    "Clan": "Haladar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "253",
+    "Race": "Elf",
+    "Clan": "Halavanthlarr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "254",
+    "Race": "Elf",
+    "Clan": "Hawksong ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "255",
+    "Race": "Elf",
+    "Clan": "Hlarr ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "256",
+    "Race": "Elf",
+    "Clan": "Hyshaanth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "257",
+    "Race": "Elf",
+    "Clan": "Iazymnal",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "258",
+    "Race": "Elf",
+    "Clan": "Ibryiil",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "259",
+    "Race": "Elf",
+    "Clan": "Ilbaereth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "260",
+    "Race": "Elf",
+    "Clan": "Ilbenalu",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "261",
+    "Race": "Elf",
+    "Clan": "Ildacer",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "262",
+    "Race": "Elf",
+    "Clan": "Ildroun",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "263",
+    "Race": "Elf",
+    "Clan": "Iliathor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "264",
+    "Race": "Elf",
+    "Clan": "Iliathor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "265",
+    "Race": "Elf",
+    "Clan": "Iliathorr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "266",
+    "Race": "Elf",
+    "Clan": "Ilnatar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "267",
+    "Race": "Elf",
+    "Clan": "Immeril",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "268",
+    "Race": "Elf",
+    "Clan": "Ipyllasc",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "269",
+    "Race": "Elf",
+    "Clan": "Irian",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "270",
+    "Race": "Elf",
+    "Clan": "Irithyl",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "271",
+    "Race": "Elf",
+    "Clan": "Irithyl",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "272",
+    "Race": "Elf",
+    "Clan": "Ithruen",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "273",
+    "Race": "Elf",
+    "Clan": "Iydril",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "274",
+    "Race": "Elf",
+    "Clan": "Jaglene",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "275",
+    "Race": "Elf",
+    "Clan": "Kadelaryn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "276",
+    "Race": "Elf",
+    "Clan": "Kelerandri",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "277",
+    "Race": "Elf",
+    "Clan": "Kelpor’ral",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "278",
+    "Race": "Elf",
+    "Clan": "Keove ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "279",
+    "Race": "Elf",
+    "Clan": "Kevanarial",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "280",
+    "Race": "Elf",
+    "Clan": "Korianthil",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "281",
+    "Race": "Elf",
+    "Clan": "Kraok",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "282",
+    "Race": "Elf",
+    "Clan": "Laelithar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "283",
+    "Race": "Elf",
+    "Clan": "Laralytha",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "284",
+    "Race": "Elf",
+    "Clan": "Larenthanil",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "285",
+    "Race": "Elf",
+    "Clan": "Larethian",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "286",
+    "Race": "Elf",
+    "Clan": "Laughingwater",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "287",
+    "Race": "Elf",
+    "Clan": "Le’Quella ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "288",
+    "Race": "Elf",
+    "Clan": "Leafbower",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "289",
+    "Race": "Elf",
+    "Clan": "Leafsigil",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "290",
+    "Race": "Elf",
+    "Clan": "Lharithlyn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "291",
+    "Race": "Elf",
+    "Clan": "Lhoril",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "292",
+    "Race": "Elf",
+    "Clan": "Lightshiver",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "293",
+    "Race": "Elf",
+    "Clan": "Llundlar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "294",
+    "Race": "Elf",
+    "Clan": "Loceath",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "295",
+    "Race": "Elf",
+    "Clan": "Maendellyn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "296",
+    "Race": "Elf",
+    "Clan": "Maerdrym",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "297",
+    "Race": "Elf",
+    "Clan": "Meirityn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "298",
+    "Race": "Elf",
+    "Clan": "Melruth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "299",
+    "Race": "Elf",
+    "Clan": "M\u0027Haaren ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "300",
+    "Race": "Elf",
+    "Clan": "Miritar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "301",
+    "Race": "Elf",
+    "Clan": "Mistrivvin",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "302",
+    "Race": "Elf",
+    "Clan": "Mistwinter",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "303",
+    "Race": "Elf",
+    "Clan": "Mithalvarin",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "304",
+    "Race": "Elf",
+    "Clan": "Moonbow",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "305",
+    "Race": "Elf",
+    "Clan": "Moondown",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "306",
+    "Race": "Elf",
+    "Clan": "Moonflower",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "307",
+    "Race": "Elf",
+    "Clan": "Moonglade",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "308",
+    "Race": "Elf",
+    "Clan": "Moonglamaer",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "309",
+    "Race": "Elf",
+    "Clan": "Moonsnow",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "310",
+    "Race": "Elf",
+    "Clan": "Moonweather",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "311",
+    "Race": "Elf",
+    "Clan": "Morningdove",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "312",
+    "Race": "Elf",
+    "Clan": "Mornmist",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "313",
+    "Race": "Elf",
+    "Clan": "Mrhulaedir",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "314",
+    "Race": "Elf",
+    "Clan": "Nacnar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "315",
+    "Race": "Elf",
+    "Clan": "Naelgrath",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "316",
+    "Race": "Elf",
+    "Clan": "Narlbeth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "317",
+    "Race": "Elf",
+    "Clan": "Narlbeth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "318",
+    "Race": "Elf",
+    "Clan": "Neirdre",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "319",
+    "Race": "Elf",
+    "Clan": "Nelnueve",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "320",
+    "Race": "Elf",
+    "Clan": "Never",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "321",
+    "Race": "Elf",
+    "Clan": "Nhachashaal",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "322",
+    "Race": "Elf",
+    "Clan": "Nhaéslal",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "323",
+    "Race": "Elf",
+    "Clan": "Nharimlur",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "324",
+    "Race": "Elf",
+    "Clan": "Ni’Tessine",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "325",
+    "Race": "Elf",
+    "Clan": "Nierde",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "326",
+    "Race": "Elf",
+    "Clan": "Nightmeadow",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "327",
+    "Race": "Elf",
+    "Clan": "Nightstar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "328",
+    "Race": "Elf",
+    "Clan": "Nightwing ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "329",
+    "Race": "Elf",
+    "Clan": "Nihmedu ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "330",
+    "Race": "Elf",
+    "Clan": "Nimesin ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "331",
+    "Race": "Elf",
+    "Clan": "Nlossae",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "332",
+    "Race": "Elf",
+    "Clan": "Nlossae",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "333",
+    "Race": "Elf",
+    "Clan": "Nolbrae",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "334",
+    "Race": "Elf",
+    "Clan": "Nyamtharsar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "335",
+    "Race": "Elf",
+    "Clan": "Nyntynel",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "336",
+    "Race": "Elf",
+    "Clan": "Oakstaff",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "337",
+    "Race": "Elf",
+    "Clan": "Oakwood ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "338",
+    "Race": "Elf",
+    "Clan": "Olortynnal ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "339",
+    "Race": "Elf",
+    "Clan": "Olyrnn ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "340",
+    "Race": "Elf",
+    "Clan": "Omberdawn ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "341",
+    "Race": "Elf",
+    "Clan": "Ongluth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "342",
+    "Race": "Elf",
+    "Clan": "Orama",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "343",
+    "Race": "Elf",
+    "Clan": "Orbryn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "344",
+    "Race": "Elf",
+    "Clan": "Orbryn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "345",
+    "Race": "Elf",
+    "Clan": "Ortauré",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "346",
+    "Race": "Elf",
+    "Clan": "Oumryn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "347",
+    "Race": "Elf",
+    "Clan": "Phenthae",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "348",
+    "Race": "Elf",
+    "Clan": "Pholont",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "349",
+    "Race": "Elf",
+    "Clan": "Presrae",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "350",
+    "Race": "Elf",
+    "Clan": "Q\u0027Naepp, ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "351",
+    "Race": "Elf",
+    "Clan": "Rachiilstar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "352",
+    "Race": "Elf",
+    "Clan": "Raedrimn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "353",
+    "Race": "Elf",
+    "Clan": "Raryndur",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "354",
+    "Race": "Elf",
+    "Clan": "Reithel ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "355",
+    "Race": "Elf",
+    "Clan": "Revven",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "356",
+    "Race": "Elf",
+    "Clan": "Rhaevaern ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "357",
+    "Race": "Elf",
+    "Clan": "Rhothomir",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "358",
+    "Race": "Elf",
+    "Clan": "Rhuidhen",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "359",
+    "Race": "Elf",
+    "Clan": "Rhyllgallohyr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "360",
+    "Race": "Elf",
+    "Clan": "Rivleam",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "361",
+    "Race": "Elf",
+    "Clan": "Rivvikyn ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "362",
+    "Race": "Elf",
+    "Clan": "Runemaster",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "363",
+    "Race": "Elf",
+    "Clan": "Sarsantyr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "364",
+    "Race": "Elf",
+    "Clan": "Selakiir ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "365",
+    "Race": "Elf",
+    "Clan": "Selmer",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "366",
+    "Race": "Elf",
+    "Clan": "Selorn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "367",
+    "Race": "Elf",
+    "Clan": "Shadowmantle",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "368",
+    "Race": "Elf",
+    "Clan": "Shadowwater ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "369",
+    "Race": "Elf",
+    "Clan": "Shaeremae",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "370",
+    "Race": "Elf",
+    "Clan": "Shaethe",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "371",
+    "Race": "Elf",
+    "Clan": "Shalandalan",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "372",
+    "Race": "Elf",
+    "Clan": "Sharrith",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "373",
+    "Race": "Elf",
+    "Clan": "Shaurlanglar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "374",
+    "Race": "Elf",
+    "Clan": "Shraiee",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "375",
+    "Race": "Elf",
+    "Clan": "Shyr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "376",
+    "Race": "Elf",
+    "Clan": "Sicafei",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "377",
+    "Race": "Elf",
+    "Clan": "Siltral",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "378",
+    "Race": "Elf",
+    "Clan": "Silverbow",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "379",
+    "Race": "Elf",
+    "Clan": "Silverhand",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "380",
+    "Race": "Elf",
+    "Clan": "Silveroak",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "381",
+    "Race": "Elf",
+    "Clan": "Silverspear",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "382",
+    "Race": "Elf",
+    "Clan": "Sinaran",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "383",
+    "Race": "Elf",
+    "Clan": "Slenderbow",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "384",
+    "Race": "Elf",
+    "Clan": "Soryn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "385",
+    "Race": "Elf",
+    "Clan": "Spellstalker ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "386",
+    "Race": "Elf",
+    "Clan": "Srinshee ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "387",
+    "Race": "Elf",
+    "Clan": "Starbrow",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "388",
+    "Race": "Elf",
+    "Clan": "Starglance",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "389",
+    "Race": "Elf",
+    "Clan": "Starglow",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "390",
+    "Race": "Elf",
+    "Clan": "Starnar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "391",
+    "Race": "Elf",
+    "Clan": "Starym ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "392",
+    "Race": "Elf",
+    "Clan": "Stillhawk ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "393",
+    "Race": "Elf",
+    "Clan": "Stilmyst",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "394",
+    "Race": "Elf",
+    "Clan": "Straeth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "395",
+    "Race": "Elf",
+    "Clan": "Strongbow ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "396",
+    "Race": "Elf",
+    "Clan": "Suldusk",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "397",
+    "Race": "Elf",
+    "Clan": "Sultaasar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "398",
+    "Race": "Elf",
+    "Clan": "Summerstars",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "399",
+    "Race": "Elf",
+    "Clan": "Sunweaver",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "400",
+    "Race": "Elf",
+    "Clan": "Swordstar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "401",
+    "Race": "Elf",
+    "Clan": "Symbaern",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "402",
+    "Race": "Elf",
+    "Clan": "Talandren",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "403",
+    "Race": "Elf",
+    "Clan": "Talesspur",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "404",
+    "Race": "Elf",
+    "Clan": "Tamlyranth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "405",
+    "Race": "Elf",
+    "Clan": "Tanagathor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "406",
+    "Race": "Elf",
+    "Clan": "Tarnruth",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "407",
+    "Race": "Elf",
+    "Clan": "Tarsap",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "408",
+    "Race": "Elf",
+    "Clan": "Tarsis",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "409",
+    "Race": "Elf",
+    "Clan": "Tassarion",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "410",
+    "Race": "Elf",
+    "Clan": "Taurntyrith",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "411",
+    "Race": "Elf",
+    "Clan": "Tellynnan",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "412",
+    "Race": "Elf",
+    "Clan": "Teshurr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "413",
+    "Race": "Elf",
+    "Clan": "Thea",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "414",
+    "Race": "Elf",
+    "Clan": "Tlanbourn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "415",
+    "Race": "Elf",
+    "Clan": "Tohrthaal",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "416",
+    "Race": "Elf",
+    "Clan": "Toralynnsyr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "417",
+    "Race": "Elf",
+    "Clan": "Tornglara",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "418",
+    "Race": "Elf",
+    "Clan": "Tornglara",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "419",
+    "Race": "Elf",
+    "Clan": "Torthtan",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "420",
+    "Race": "Elf",
+    "Clan": "Toryvhallen",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "421",
+    "Race": "Elf",
+    "Clan": "Trueshot",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "422",
+    "Race": "Elf",
+    "Clan": "Tsornyl",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "423",
+    "Race": "Elf",
+    "Clan": "Tyrneladhelu ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "424",
+    "Race": "Elf",
+    "Clan": "Uirthur",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "425",
+    "Race": "Elf",
+    "Clan": "Ulondarr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "426",
+    "Race": "Elf",
+    "Clan": "Ulongyr",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "427",
+    "Race": "Elf",
+    "Clan": "Vandiir",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "428",
+    "Race": "Elf",
+    "Clan": "Veverell",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "429",
+    "Race": "Elf",
+    "Clan": "Vispasial",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "430",
+    "Race": "Elf",
+    "Clan": "Vyshaan",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "431",
+    "Race": "Elf",
+    "Clan": "Waelvor",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "432",
+    "Race": "Elf",
+    "Clan": "Whitethistle",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "433",
+    "Race": "Elf",
+    "Clan": "Windstar",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "434",
+    "Race": "Elf",
+    "Clan": "Windwalker",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "435",
+    "Race": "Elf",
+    "Clan": "Xantrani",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "436",
+    "Race": "Elf",
+    "Clan": "Yeschant",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "437",
+    "Race": "Elf",
+    "Clan": "Yhendorn",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "438",
+    "Race": "Elf",
+    "Clan": "Yraueme",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "439",
+    "Race": "Elf",
+    "Clan": "Yridnae",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "440",
+    "Race": "Elf",
+    "Clan": "Yundraer ",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "441",
+    "Race": "Half-Orc",
+    "Clan": "Dogfang",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "442",
+    "Race": "Half-Orc",
+    "Clan": "Bearsmasher",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "443",
+    "Race": "Half-Orc",
+    "Clan": "Tothclaw",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "444",
+    "Race": "Half-Orc",
+    "Clan": "Skullaxe",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "445",
+    "Race": "Half-Orc",
+    "Clan": "Spearbone",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "446",
+    "Race": "Half-Orc",
+    "Clan": "Rockaxe",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "447",
+    "Race": "Half-Orc",
+    "Clan": "Mogokbone",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "448",
+    "Race": "Half-Orc",
+    "Clan": "Skulleater",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "449",
+    "Race": "Half-Orc",
+    "Clan": "Skullsmasher",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "450",
+    "Race": "Half-Orc",
+    "Clan": "Eyegouger",
+    "Region": "Universal"
+  },
+  {
+    "_ID": "451",
+    "Race": "Half-Orc",
+    "Clan": "Ear-ripper",
+    "Region": "Universal"
+  }
+]

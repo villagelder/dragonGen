@@ -1,0 +1,19 @@
+[ {
+  "SPELLBOOKID" : "SPBK-V45QQQZIA734",
+  "BOOKNAME" : null,
+  "DESCRIPTION" : null,
+  "CLASSNAME" : null,
+  "ARCHETYPE" : null,
+  "CANTRIPS" : [ "Chill Touch", "Light", "Ray of Frost" ],
+  "SPELLSLEVEL1" : [ "Feather Fall", "Disguise Self", "Chromatic Orb", "Ray of Sickness" ],
+  "SPELLSLEVEL2" : [ "Gentle Repose", "Levitate", "Shatter", "Misty Step", "Hold Person", "Continual Flame", "Flaming Sphere", "Ray of Enfeeblement", "Scorching Ray" ],
+  "SPELLSLEVEL3" : [ "Fly", "Magic Circle", "Phantom Steed", "Vampire Touch", "Haste", "Stinking Cloud" ],
+  "SPELLSLEVEL4" : null,
+  "SPELLSLEVEL5" : null,
+  "SPELLSLEVEL6" : null,
+  "SPELLSLEVEL7" : null,
+  "SPELLSLEVEL8" : null,
+  "SPELLSLEVEL9" : null,
+  "SOURCE" : null,
+  "AUTHOR" : null
+} ]

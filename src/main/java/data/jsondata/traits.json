@@ -1,0 +1,414 @@
+[ {
+  "TRAITID" : "RCT-51SQT4A4K327",
+  "TRAITNAME" : "Artificer's Lore",
+  "SHORTDESC" : "You double your proficiency bonus when you make a History check related to magic items, alchemical objects, or technological devices.",
+  "DESCRIPTION" : "Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-00143052M71Y",
+  "TRAITNAME" : "Brave",
+  "SHORTDESC" : "You have advantage on saving throws against being frightened.",
+  "DESCRIPTION" : "You have advantage on saving throws against being frightened.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-RV12675ZH23Z",
+  "TRAITNAME" : "Breath Weapon",
+  "SHORTDESC" : "You can use your action to exhale a mighty breath of destructive energy according to your dragon ancestry.",
+  "DESCRIPTION" : "You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation. When you use your breath w eapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6\nat 16th level.\n     After you use your breath weapon, you can’t use it again until you complete a short or long rest.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-5W019O11S0NQ",
+  "TRAITNAME" : "Damage Resistance",
+  "SHORTDESC" : "You have resistance to the damage type associated with your draconic ancestry.",
+  "DESCRIPTION" : "You have resistance to the damage type associated with your draconic ancestry.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-J5184XE5898Y",
+  "TRAITNAME" : "Darkvision 60'",
+  "SHORTDESC" : "You have good vision in dark conditions, enabling you to see (in shades of gray) in the dark up to 60 feet as if it were bright light.",
+  "DESCRIPTION" : "Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-5KJL6YX60ZW1",
+  "TRAITNAME" : "Draconic Ancestry",
+  "SHORTDESC" : "You have draconic ancestry, chosen from the table in the PHB.",
+  "DESCRIPTION" : "You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry\ntable. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-L2MULU3E68WS",
+  "TRAITNAME" : "Dragonborn Languages",
+  "SHORTDESC" : "You can speak, read, and write Common\nand Draconic.",
+  "DESCRIPTION" : "You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-CCY4RLFBSO28",
+  "TRAITNAME" : "Drow Magic",
+  "SHORTDESC" : "You can cast the Dancing Lights cantrip at 1st level, Faerie Fire spell at 3rd level, and the Darkness spell at 5th level once per day each.",
+  "DESCRIPTION" : "You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can also cast the darkness spell once per day. Charisma is your spellcasting ability for these spells.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-952G540ZWH0E",
+  "TRAITNAME" : "Drow Weapon Training",
+  "SHORTDESC" : "You have proficiency with rapiers, shortswords, and hand crossbows.",
+  "DESCRIPTION" : "You have proficiency with rapiers, shortswords, and hand crossbows.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-VMX45E63Z2WI",
+  "TRAITNAME" : "Dwarven Armor Training",
+  "SHORTDESC" : "You have proficiency with light and medium armor.",
+  "DESCRIPTION" : "You have proficiency with light and medium armor.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-KH1XZ6AP70MZ",
+  "TRAITNAME" : "Dwarven Combat Training",
+  "SHORTDESC" : "You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer.",
+  "DESCRIPTION" : "You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-2148R15FOTQ0",
+  "TRAITNAME" : "Dwarven Languages",
+  "SHORTDESC" : "You can speak, read, and write Common and Dwarvish.",
+  "DESCRIPTION" : "You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-Y03V00KF8S5Q",
+  "TRAITNAME" : "Dwarven Resilience",
+  "SHORTDESC" : "You have advantage on saving throws against poison, and you have resistance against poison damage.",
+  "DESCRIPTION" : "You have advantage on saving throws against poison, and you have resistance against poison damage.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-519ZEZ4307G8",
+  "TRAITNAME" : "Dwarven Toughness",
+  "SHORTDESC" : "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+  "DESCRIPTION" : "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-8ER84YY3R753",
+  "TRAITNAME" : "Elf Weapon Training",
+  "SHORTDESC" : "You have proficiency with the longsword, shortsword, shortbow, and longbow.",
+  "DESCRIPTION" : "You have proficiency with the longsword, shortsword, shortbow, and longbow.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-R5P9UN20F9EN",
+  "TRAITNAME" : "Elvish Languages",
+  "SHORTDESC" : "You can speak, read, and write Common and Elvish.",
+  "DESCRIPTION" : "You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-6V4JTU96TYU9",
+  "TRAITNAME" : "Extra Language",
+  "SHORTDESC" : "You can speak, read, and write one extra language of your choice.",
+  "DESCRIPTION" : "You can speak, read, and write one extra language of your choice.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-29M3FKUUX01F",
+  "TRAITNAME" : "Fey Ancestry",
+  "SHORTDESC" : "You have advantage on saving throws against being charmed, and magic can’t put you to sleep.",
+  "DESCRIPTION" : "You have advantage on saving throws against being charmed, and magic can’t put you to sleep.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-MU9OEU68IV95",
+  "TRAITNAME" : "Fleet of Foot",
+  "SHORTDESC" : "Your base walking speed increases to 35 feet.",
+  "DESCRIPTION" : "Your base walking speed increases to 35 feet.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-CEDYDB1I14JG",
+  "TRAITNAME" : "Gnome Cunning",
+  "SHORTDESC" : "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.",
+  "DESCRIPTION" : "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-7C3O7JWR2V95",
+  "TRAITNAME" : "Gnomish Languages",
+  "SHORTDESC" : "You can speak, read, and write Common and Gnomish.",
+  "DESCRIPTION" : "You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-D873C344097F",
+  "TRAITNAME" : "Half-Elf Languages",
+  "SHORTDESC" : "You can speak, read, and write Common, Elvish, and one extra language of your choice.",
+  "DESCRIPTION" : "You can speak, read, and write Common, Elvish, and one extra language of your choice.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-HV13M62D6V8V",
+  "TRAITNAME" : "Halfling Languages",
+  "SHORTDESC" : "You can speak, read, and write Common and Halfling.",
+  "DESCRIPTION" : "You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all\nhalflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-UXS6XE75C003",
+  "TRAITNAME" : "Halfling Nimbleness",
+  "SHORTDESC" : "You can move through the space of any creature that is of a size larger than yours.",
+  "DESCRIPTION" : "You can move through the space of any creature that is of a size larger than yours.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-39GXT65173J7",
+  "TRAITNAME" : "Half-Orc Languages",
+  "SHORTDESC" : "You can speak, read, and write Common and Orc .",
+  "DESCRIPTION" : "You can speak, read, and write Common and Orc . Orc is a harsh, grating language with\nhard consonants. It has no script of its own but is written in the Dwarvish script.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-FQH25Z05HQ03",
+  "TRAITNAME" : "Hellish Resistance",
+  "SHORTDESC" : "You have resistance to fire damage.",
+  "DESCRIPTION" : "You have resistance to fire damage.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-P7W944MEVHRH",
+  "TRAITNAME" : "High Elf Cantrip",
+  "SHORTDESC" : "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.",
+  "DESCRIPTION" : "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-8BL7C09YFO31",
+  "TRAITNAME" : "Human Languages",
+  "SHORTDESC" : "You can speak, read, and write Common and one extra language of your choice.",
+  "DESCRIPTION" : "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-G82BV9U1Q024",
+  "TRAITNAME" : "Human Versatility",
+  "SHORTDESC" : "You gain proficiency in one skill of your choice and you gain one feat of your choice.",
+  "DESCRIPTION" : "You gain proficiency in one skill of your choice and you gain one feat of your choice.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-N3MJ1T9QA6AH",
+  "TRAITNAME" : "Infernal Languages",
+  "SHORTDESC" : "You can speak, read, and write Common and Infernal.",
+  "DESCRIPTION" : "You can speak, read, and write Common and Infernal.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-87V2B4M02DQQ",
+  "TRAITNAME" : "Infernal Legacy",
+  "SHORTDESC" : "You know the thaumaturgy cantrip at level 1 and gain other infernal abilities as you increase in levels.",
+  "DESCRIPTION" : "You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the hellish\nrebuke spell once per day as a 2nd-level spell. Once you reach 5th level, you can also cast the darkness spell once per day. Charisma is your spellcasting ability for\nthese spells.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-P782228ZBZJX",
+  "TRAITNAME" : "Keen Senses",
+  "SHORTDESC" : "You have proficiency in the Perception skill.",
+  "DESCRIPTION" : "You have proficiency in the Perception skill.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-8440O7X6431O",
+  "TRAITNAME" : "Lucky",
+  "SHORTDESC" : "When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.",
+  "DESCRIPTION" : "When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-YTMQTYP0BU3P",
+  "TRAITNAME" : "Mask of the Wild",
+  "SHORTDESC" : "You can hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
+  "DESCRIPTION" : "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-SGP952EB639G",
+  "TRAITNAME" : "Menacing",
+  "SHORTDESC" : "You gain proficiency in the Intimidation skill.",
+  "DESCRIPTION" : "You gain proficiency in the Intimidation skill.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-W531J28KDJL1",
+  "TRAITNAME" : "Natural Illusionist",
+  "SHORTDESC" : "You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.",
+  "DESCRIPTION" : "You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-32W49A5RN556",
+  "TRAITNAME" : "Naturally Stealthy",
+  "SHORTDESC" : "You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.",
+  "DESCRIPTION" : "You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-5AB7NVE2760Z",
+  "TRAITNAME" : "Relentless Endurance",
+  "SHORTDESC" : "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead.",
+  "DESCRIPTION" : "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-2G1320S2063D",
+  "TRAITNAME" : "Savage Attacks",
+  "SHORTDESC" : "Your critical hits with melee weapons add one additional damage die to the extra critical damage.",
+  "DESCRIPTION" : "When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-407VI3RAR83D",
+  "TRAITNAME" : "Skill Versatility",
+  "SHORTDESC" : "You gain proficiency in two skills of your choice.",
+  "DESCRIPTION" : "You gain proficiency in two skills of your choice.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-4VU274Z60JFT",
+  "TRAITNAME" : "Speak with Small Beasts",
+  "SHORTDESC" : "Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts.",
+  "DESCRIPTION" : "Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-EL2NTEII31ML",
+  "TRAITNAME" : "Stonecunning",
+  "SHORTDESC" : "You are proficient in the origins of stonework and make Intelligence (History) checks regarding such at double normal.",
+  "DESCRIPTION" : "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-MK532N6DUX51",
+  "TRAITNAME" : "Stout Resilience",
+  "SHORTDESC" : "You have advantage on saving throws against poison, and you have resistance against poison damage.",
+  "DESCRIPTION" : "You have advantage on saving throws against poison, and you have resistance against poison damage.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-31M2G89550Y8",
+  "TRAITNAME" : "Sunlight Sensitivity",
+  "SHORTDESC" : "You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you encounter sunlight.",
+  "DESCRIPTION" : "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-7HGFVD8UBDN9",
+  "TRAITNAME" : "Superior Darkvision",
+  "SHORTDESC" : "You have superior vision in dark conditions, enabling you to see (in shades of gray) in the dark up to 120 feet as if it were bright light.",
+  "DESCRIPTION" : "Your darkvision has a radius of 120 feet.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-FIPQ2GNI21N8",
+  "TRAITNAME" : "Tinker",
+  "SHORTDESC" : "You have proficiency with Tinker’s Tools with which you can construct a Tiny device: Clockwork Toy, Fire Starter, or Music Box.",
+  "DESCRIPTION" : "You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.\nWhen you create a device, choose one o f the following options:\n     Clockwork Toy. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. Whenplaced on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.\n     Fire Starter. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device\nrequires your action.\n      Music Box. When opened, this music box\nplays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-7P4U7NI67X33",
+  "TRAITNAME" : "Tool Proficiency",
+  "SHORTDESC" : "You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.",
+  "DESCRIPTION" : "You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-X95R45ZJ56H2",
+  "TRAITNAME" : "Trance",
+  "SHORTDESC" : "Elves don't need to sleep, remaining semiconscious in meditation for 4 hours a day.",
+  "DESCRIPTION" : "Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.�?) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-K89JV12Z65T4",
+  "TRAITNAME" : "Damage Resistance (acid)",
+  "SHORTDESC" : "You have resistance to the acid damage type.",
+  "DESCRIPTION" : "You have resistance to the acid damage type.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-Q16661UX18DY",
+  "TRAITNAME" : "Damage Resistance (lightning)",
+  "SHORTDESC" : "You have resistance to the lightning damage type.",
+  "DESCRIPTION" : "You have resistance to the lightning damage type.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-8666O6I9324P",
+  "TRAITNAME" : "Damage Resistance (fire)",
+  "SHORTDESC" : "You have resistance to the fire damage type.",
+  "DESCRIPTION" : "You have resistance to the fire damage type.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-8V1XWBUBFZ9Q",
+  "TRAITNAME" : "Damage Resistance (poison)",
+  "SHORTDESC" : "You have resistance to the poison damage type.",
+  "DESCRIPTION" : "You have resistance to the poison damage type.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-9FJ760KG186A",
+  "TRAITNAME" : "Damage Resistance (cold)",
+  "SHORTDESC" : "You have resistance to the cold damage type.",
+  "DESCRIPTION" : "You have resistance to the cold damage type.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-2S2JMKP5I8RH",
+  "TRAITNAME" : "Breath Weapon (acid, 30ft line)",
+  "SHORTDESC" : "You can use your action to exhale a mighty spray of destructive acid in a 30 ft line.",
+  "DESCRIPTION" : "You can use your action to exhale a mighty spray of destructive acid in a 30 ft line.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-0V635L919PRV",
+  "TRAITNAME" : "Breath Weapon (lightning, 30ft line)",
+  "SHORTDESC" : "You can use your action to exhale a mighty bolt of lightning in a 30 ft line.",
+  "DESCRIPTION" : "You can use your action to exhale a mighty bolt of lightning in a 30 ft line.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-P5GM9T7F5TI2",
+  "TRAITNAME" : "Breath Weapon (fire, 30ft line)",
+  "SHORTDESC" : "You can use your action to exhale a mighty breath of fire in a 30 ft line.",
+  "DESCRIPTION" : "You can use your action to exhale a mighty breath of fire in a 30 ft line.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-O32KS250U8QN",
+  "TRAITNAME" : "Breath Weapon (fire, 15ft cone)",
+  "SHORTDESC" : "You can use your action to exhale a mighty breath of fire in a 15 ft cone.",
+  "DESCRIPTION" : "You can use your action to exhale a mighty breath of fire in a 15 ft cone.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-Z2239XXTES5Z",
+  "TRAITNAME" : "Breath Weapon (poison, 15ft cone)",
+  "SHORTDESC" : "You can use your action to exhale a mighty spray of poison in a 15 ft cone.",
+  "DESCRIPTION" : "You can use your action to exhale a mighty spray of poison in a 15 ft cone.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "TRAITID" : "RCT-H11G1VF9CL4A",
+  "TRAITNAME" : "Breath Weapon (cold, 15ft cone)",
+  "SHORTDESC" : "You can use your action to exhale a mighty blast of cold in a 15 ft cone.",
+  "DESCRIPTION" : "You can use your action to exhale a mighty blast of cold in a 15 ft cone.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+} ]

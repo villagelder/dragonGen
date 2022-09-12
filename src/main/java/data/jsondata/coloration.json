@@ -1,0 +1,67 @@
+[
+  {
+    "BASE": "black",
+    "COLORS": "black, bistre, black olive, charcoal, ebony, ebon, onyx, noir, crowshead, night, rangoon green, cod gray, asphalt, last dinner, tar",
+    "DESCRIPTIVE": "eerie, deep, jet, licorice, midnight, abyssal, somber, sooty, metallic, stygian, inky, raven, murky, pitch, dingy, clouded, raisin, smoky, dark, space"
+  },
+  {
+    "BASE": "blue",
+    "COLORS": "blue, turquoise, cyan, capri, cerulean, cobalt blue, indigo, iris blue, slate blue, teal, sky blue, blue-green, violet-blue, navy, sapphire",
+    "DESCRIPTIVE": "azure, baby, midnight, twilight, bright, brilliant, blotchy, flamboyant, fresh, royal, steel, olympic, powder, pastel, metallic, rich, soft, light, dark, true, navy, robin egg, deep, vivid, watery, pale, warm, medium, delicate, ice, icy, sea, spring"
+  },
+  {
+    "BASE": "brown",
+    "COLORS": "brown, tan, auburn, raw umber, sepia, sand, khaki, cocoa, chocolate, copper, coffee, russet, walnut, gingerbread, syrup, pecan, wood, tawny, cedar, peanut, chestnut, caramel, spice, clay, wenge, wheat, bole",
+    "DESCRIPTIVE": "deep, rich, blotch, autumn, beaver, medium, golden, camel, drab, walnut, fawn, fallow, muted, mahogany, metallic, sienna, rich, soft, light, dark, true, reddish, watery, pale, warm, medium, muddy, sepia, sandy, wheat, seal, liver, bistre, lion"
+  },
+  {
+    "BASE": "gray",
+    "COLORS": "gray, grey, slate, tundora, kelp, gravel, mine shaft, abbey, gray, heather, silvery, fossil, steel, stone, iron, seal, rhino, shadow, ash, mink, pearl river, abolone, trout, anchor",
+    "DESCRIPTIVE": "slate, ash, dull, steel, cold, medium, bleak, charcoal, cool, fuscous, cinereal, stone, clouded, dusty, metallic, iron, lead, harbor, mousy, oyster, powder, shadow, cadet, taupe, muted, dim, gunmetal, battleship, jet, platinum, slate, taupe, rose quartz, timberwolf"
+  },
+  {
+    "BASE": "green",
+    "COLORS": "green, aquamarine, verdigris, mint, green-blue, green-yellow, chartreuse, jade, moss, emerald, mint, olive, lime, artichoke, fern, laurel",
+    "DESCRIPTIVE": "bright, brilliant, forest, jungle, sea, vivid, pine, magic, blotchy, flamboyant, muted, fresh, metallic, glowing, pastel, rich, soft, light, dark, apple, honeydew, fern, jade, kelly, lawn, olive, tea, spring bud, shamrock, lime, mantis, malachite, mint, avocado, asparagus, moss, hunter, celadon, deep, vivid, watery, pale, warm, bold, festive, medium"
+  },
+  {
+    "BASE": "purple",
+    "COLORS": "violet, purple, periwinkle, eggplant, amethyst, blue-violet, purplish-blue, plum, mauve, lavender, wisteria, lilac, hibiscus, orchid, amethys, fandango, thistle",
+    "DESCRIPTIVE": "bright, brilliant, blotchy, flamboyant, fresh, pastel, rich, soft, light, ultra, dark, muted, metallic, deep, vivid, watery, pale, grape, tropical, slate, warm, bold, imperial, medium, delicate, eminence, royal"
+  },
+  {
+    "BASE": "orange",
+    "COLORS": "orange, apricot, amber, tangerine, butterscotch, peach, tawny, pumpkin, tangelo, honey, dijon, cider, orange-red, orange-yellow, papaya, coral, vermilion, mahogany, orange peel",
+    "DESCRIPTIVE": "bright, brilliant, blotchy, flamboyant, hot, fresh, burnt, pastel, rust, rich, muted, soft, metallic, light, dark, deep, vivid, watery, flame, pale, warm, bold, mellow, autumn, medium, sunset, seashell, carrot, champagne"
+  },
+  {
+    "BASE": "red",
+    "COLORS": "red, maroon, crimson, scarlet, red-violet, auburn, red-orange, burgundy, carmine, carnelian, red-violet, brick, burgundy, sangria, ruby",
+    "DESCRIPTIVE": "bright, brilliant, blotchy, flamboyant, fresh, hot, pastel, candy apple, cardinal, rich, metallic, flame, imperial, mystic, barn, tomato, muted, blood, fire, lava, cherry, rose, tea rose, brick, cosmos, garnet, soft, light, dark, deep, vivid, watery, pale, warm, bold, mellow, autumn, medium"
+  },
+  {
+    "BASE": "magenta",
+    "COLORS": "pink, magenta, raspberry, mulberry, plum, orchid, rose, fuchsia, cerise, salmon, ruby, punch, taffy, carnation",
+    "DESCRIPTIVE": "bright, brilliant, amaranth, blotchy, flamboyant, folly, fairy tale, fresh, lavender, metallic, carnation, orchid, steel, misty, muted, ultra, fandango, pastel, rich, soft, light, dark, hot, deep, vivid, watery, pale, warm, bold, medium, delicate, shocking"
+  },
+  {
+    "BASE": "white",
+    "COLORS": "white, ivory, white smoke, white latte, cream white, beige, magnolia, eggshell, flax white, vanilla",
+    "DESCRIPTIVE": "bleach, clean, virgin, dirty, drab, dull, alabaster, antique, floral, snow, muted, raspberry, pinkish, reddish, old lace, platinum, linen, ghost, bone, cornsilk, cosmic, azure, mint"
+  },
+  {
+    "BASE": "yellow",
+    "COLORS": "yellow, goldenrod, golden poppy, lemon chiffon, aureolin, maize, corn, pineapple, trombone, ecru, citron, citrine, gold, lemon-lime",
+    "DESCRIPTIVE": "bright, brilliant, blotchy, burnt, hot, flamboyant, fresh, pastel, rich, soft, cyber, banana, laguna, metallic, jonquil, mango, sunglow, sunset, light, dark, muted, deep, vivid, watery, straw, sunset, mustard, jasmine, harvest, wheat, grain, summer, pale, sunshine, canary, warm, mellow, autumn, medium"
+  },
+  {
+    "BASE": "metallic",
+    "COLORS": "bronze, copper, gold, silver, platinum, lead, white gold, aluminum, steel, zinc, palladium, titanium, adamantium, mithril, promethium, deep iron, iron, aredrite, aredite, black steel, red steel, electrum",
+    "DESCRIPTIVE": "shiny, brilliant, glowing, glistening, vivid, glittering, lustrous, gleaming, shimmering, metallic, reflective, incandescent, corroded, astral, radiant, sparkling, electric, flat, tarnished, iridescent, satin, glinting, scintillating, dazzling, twinkling, glistering, scintillant, bright"
+  },
+  {
+    "BASE": "multi-hue",
+    "COLORS": "multi-hued, multicoloured, rainbow, prismatic, psychedelic, opalescent, satin, motley, metallic, blotchy, kaleidoscopic, variegated, skewbald, particolored, rainbow, monochromatic, polychromatic, clouded, two-toned, purplish, peppery, greenish, yellowish, reddish, bluish, grayish, blackish, pinkish, orange-tinted, milky",
+    "DESCRIPTIVE": "rainbowed, peppered, mottled, marbled, dappled, bordered, satin, checkered, flecked, complementing, accented, exploding, contrasting, creamy, waxy, streaked, metallic, blended, faded, crisscrossed, mixed, piebald, stippled, clouded, varicolored, versicolored, banded, dotted, splashed, dirtied, sullied, striated, daubed, tarnished, veined, spotted"
+  }
+]

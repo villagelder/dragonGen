@@ -1,0 +1,314 @@
+[
+  {
+    "_ID": "1",
+    "ROLL": "1",
+    "VALUE": "10",
+    "STONE": "Azurite (opaque mottled deep blue)"
+  },
+  {
+    "_ID": "2",
+    "ROLL": "2",
+    "VALUE": "10",
+    "STONE": "Banded agate (translucent striped brown, blue, white, or red)"
+  },
+  {
+    "_ID": "3",
+    "ROLL": "3",
+    "VALUE": "10",
+    "STONE": "Blue quartz (transparent pale blue)"
+  },
+  {
+    "_ID": "4",
+    "ROLL": "4",
+    "VALUE": "10",
+    "STONE": "Eye agate (translucent circles of gray, white, brown, blue, or green)"
+  },
+  {
+    "_ID": "5",
+    "ROLL": "5",
+    "VALUE": "10",
+    "STONE": "Hematite (opaque gray-black)"
+  },
+  {
+    "_ID": "6",
+    "ROLL": "6",
+    "VALUE": "10",
+    "STONE": "Lapis lazuli (opaque light and dark blue with yellow flecks)"
+  },
+  {
+    "_ID": "7",
+    "ROLL": "7",
+    "VALUE": "10",
+    "STONE": "Malachite (opaque striated light and dark green)"
+  },
+  {
+    "_ID": "8",
+    "ROLL": "8",
+    "VALUE": "10",
+    "STONE": "Moss agate (translucent pink or yellow-white with mossy gray or green markings)"
+  },
+  {
+    "_ID": "9",
+    "ROLL": "9",
+    "VALUE": "10",
+    "STONE": "Obsidian (opaque black)"
+  },
+  {
+    "_ID": "10",
+    "ROLL": "10",
+    "VALUE": "10",
+    "STONE": "Rhodochrosite (opaque light pink)"
+  },
+  {
+    "_ID": "11",
+    "ROLL": "11",
+    "VALUE": "10",
+    "STONE": "Tiger eye (translucent brown with golden center)"
+  },
+  {
+    "_ID": "12",
+    "ROLL": "12",
+    "VALUE": "10",
+    "STONE": "Turquoise (opaque light blue-green)"
+  },
+  {
+    "_ID": "13",
+    "ROLL": "1",
+    "VALUE": "50",
+    "STONE": "Bloodstone (opaque dark gray with red flecks)"
+  },
+  {
+    "_ID": "14",
+    "ROLL": "2",
+    "VALUE": "50",
+    "STONE": "Carnelian (opaque orange to red-brown)"
+  },
+  {
+    "_ID": "15",
+    "ROLL": "3",
+    "VALUE": "50",
+    "STONE": "Chalcedony (opaque white)"
+  },
+  {
+    "_ID": "16",
+    "ROLL": "4",
+    "VALUE": "50",
+    "STONE": "Chrysoprase (translucent green)"
+  },
+  {
+    "_ID": "17",
+    "ROLL": "5",
+    "VALUE": "50",
+    "STONE": "Citrine (transparent pale yellow-brown)"
+  },
+  {
+    "_ID": "18",
+    "ROLL": "6",
+    "VALUE": "50",
+    "STONE": "Jasper (opaque blue, black, or brown)"
+  },
+  {
+    "_ID": "19",
+    "ROLL": "7",
+    "VALUE": "50",
+    "STONE": "Moonstone (translucent white with pale blue glow)"
+  },
+  {
+    "_ID": "20",
+    "ROLL": "8",
+    "VALUE": "50",
+    "STONE": "Onyx (opaque bands of black and white, or pure black or white)"
+  },
+  {
+    "_ID": "21",
+    "ROLL": "9",
+    "VALUE": "50",
+    "STONE": "Quartz (transparent white, smoky gray, or yellow)"
+  },
+  {
+    "_ID": "22",
+    "ROLL": "10",
+    "VALUE": "50",
+    "STONE": "Sardonyx (opaque bands of red and white)"
+  },
+  {
+    "_ID": "23",
+    "ROLL": "11",
+    "VALUE": "50",
+    "STONE": "Star rose quartz (translucent rosy stone with white star-shaped center)"
+  },
+  {
+    "_ID": "24",
+    "ROLL": "12",
+    "VALUE": "50",
+    "STONE": "Zircon (transparent pale blue-green)"
+  },
+  {
+    "_ID": "25",
+    "ROLL": "1",
+    "VALUE": "100",
+    "STONE": "Amber (transparent watery gold to rich gold)"
+  },
+  {
+    "_ID": "26",
+    "ROLL": "2",
+    "VALUE": "100",
+    "STONE": "Amethyst (transparent deep purple)"
+  },
+  {
+    "_ID": "27",
+    "ROLL": "3",
+    "VALUE": "100",
+    "STONE": "Chrysoberyl (transparent yellow-green to pale green)"
+  },
+  {
+    "_ID": "28",
+    "ROLL": "4",
+    "VALUE": "100",
+    "STONE": "Coral (opaque crimson)"
+  },
+  {
+    "_ID": "29",
+    "ROLL": "5",
+    "VALUE": "100",
+    "STONE": "Garnet (transparent red, brown-green, or violet)"
+  },
+  {
+    "_ID": "30",
+    "ROLL": "6",
+    "VALUE": "100",
+    "STONE": "Jade (translucent light green, deep green, or white)"
+  },
+  {
+    "_ID": "31",
+    "ROLL": "7",
+    "VALUE": "100",
+    "STONE": "Jet (opaque deep black)"
+  },
+  {
+    "_ID": "32",
+    "ROLL": "8",
+    "VALUE": "100",
+    "STONE": "Pearl (opaque lustrous white, yellow, or pink)"
+  },
+  {
+    "_ID": "33",
+    "ROLL": "9",
+    "VALUE": "100",
+    "STONE": "Spinel (transparent red, red-brown, or deep green)"
+  },
+  {
+    "_ID": "34",
+    "ROLL": "10",
+    "VALUE": "100",
+    "STONE": "Tourmaline (transparent pale green, blue, brown, or red)"
+  },
+  {
+    "_ID": "35",
+    "ROLL": "1",
+    "VALUE": "500",
+    "STONE": "Alexandrite (transparent dark green)"
+  },
+  {
+    "_ID": "36",
+    "ROLL": "2",
+    "VALUE": "500",
+    "STONE": "Aquamarine (transparent pale blue-green)"
+  },
+  {
+    "_ID": "37",
+    "ROLL": "3",
+    "VALUE": "500",
+    "STONE": "Black pearl (opaque pure black)"
+  },
+  {
+    "_ID": "38",
+    "ROLL": "4",
+    "VALUE": "500",
+    "STONE": "Blue spinel (transparent deep blue)"
+  },
+  {
+    "_ID": "39",
+    "ROLL": "5",
+    "VALUE": "500",
+    "STONE": "Peridot (transparent rich olive green)"
+  },
+  {
+    "_ID": "40",
+    "ROLL": "6",
+    "VALUE": "500",
+    "STONE": "Topaz (transparent golden yellow)"
+  },
+  {
+    "_ID": "41",
+    "ROLL": "1",
+    "VALUE": "1000",
+    "STONE": "Black opal (translucent dark green with black mottling and golden flecks)"
+  },
+  {
+    "_ID": "42",
+    "ROLL": "2",
+    "VALUE": "1000",
+    "STONE": "Blue sapphire (transparent blue-white to medium blue)"
+  },
+  {
+    "_ID": "43",
+    "ROLL": "3",
+    "VALUE": "1000",
+    "STONE": "Emerald (transparent deep bright green)"
+  },
+  {
+    "_ID": "44",
+    "ROLL": "4",
+    "VALUE": "1000",
+    "STONE": "Fire opal (translucent fiery red)"
+  },
+  {
+    "_ID": "45",
+    "ROLL": "5",
+    "VALUE": "1000",
+    "STONE": "Opal (translucent pale blue with green and golden mottling)"
+  },
+  {
+    "_ID": "46",
+    "ROLL": "6",
+    "VALUE": "1000",
+    "STONE": "Star ruby (translucent ruby with white star-shaped center)"
+  },
+  {
+    "_ID": "47",
+    "ROLL": "7",
+    "VALUE": "1000",
+    "STONE": "Star sapphire (translucent blue sapphire with white star-shaped center)"
+  },
+  {
+    "_ID": "48",
+    "ROLL": "8",
+    "VALUE": "1000",
+    "STONE": "Yellow sapphire (transparent fiery yellow or yellow·green)"
+  },
+  {
+    "_ID": "49",
+    "ROLL": "1",
+    "VALUE": "5000",
+    "STONE": "Black sapphire (translucent lustrous black with glowing highlights)"
+  },
+  {
+    "_ID": "50",
+    "ROLL": "2",
+    "VALUE": "5000",
+    "STONE": "Diamond (transparent blue-white, canary, pink, brown, or blue)"
+  },
+  {
+    "_ID": "51",
+    "ROLL": "3",
+    "VALUE": "5000",
+    "STONE": "Jacinth (transparent fiery orange)"
+  },
+  {
+    "_ID": "52",
+    "ROLL": "4",
+    "VALUE": "5000",
+    "STONE": "Ruby (transparent clear red to deep crimson)"
+  }
+]

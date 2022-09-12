@@ -1,0 +1,321 @@
+[ {
+  "ARCHETYPEID" : "ART-V75JQ492B8HC",
+  "ARCHETYPENAME" : "Arcane Trickster",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Rogue",
+  "DESCRIPTION" : "Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-9D49MXH40YQD",
+  "ARCHETYPENAME" : "Assassin",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Rogue",
+  "DESCRIPTION" : "You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-8P1WGKT8KG7E",
+  "ARCHETYPENAME" : "Battle Master",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Fighter",
+  "DESCRIPTION" : "Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Battle Masters seek all combat knowledge, desiring to be well-rounded fighters of great skill and knowledge.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-O2IB19G5Q9QU",
+  "ARCHETYPENAME" : "Beast Master",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Ranger",
+  "DESCRIPTION" : "The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. The Beast Master archetype works in partnership with an animal as its companion and friend.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-TXSXTP7FF27P",
+  "ARCHETYPENAME" : "Champion",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Fighter",
+  "DESCRIPTION" : "The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-67HIMBFL0DKD",
+  "ARCHETYPENAME" : "Circle of the Land",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Druid",
+  "DESCRIPTION" : "The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-750GZUNW573N",
+  "ARCHETYPENAME" : "Circle of the Moon",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Druid",
+  "DESCRIPTION" : "Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might go for weeks on end before crossing paths with another humanoid creature, let alone another druid.\n     Changeable as the moon, a druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the undergrowth in bear form to drive off a trespassing monster. The wild is in the druid's blood.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-8EV2VR4H33CY",
+  "ARCHETYPENAME" : "College of Lore",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Bard",
+  "DESCRIPTION" : "Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-SCDAN7159Y9D",
+  "ARCHETYPENAME" : "College of Valor",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Bard",
+  "DESCRIPTION" : "Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. They travel the land to witness great events firsthand, then gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-07123836V2A1",
+  "ARCHETYPENAME" : "Draconic Bloodline",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Sorcerer",
+  "DESCRIPTION" : "Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times you could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-22DG0111O542",
+  "ARCHETYPENAME" : "Eldritch Knight",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Fighter",
+  "DESCRIPTION" : "The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magic much like wizards (to a lesser extent), using two schools: abjuration and evocation. Abjuration spells grant protection in battle, and evocation spells deal damage, extending the fighter’s reach in combat.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-4Y7C6HRF20E2",
+  "ARCHETYPENAME" : "Hunter",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Ranger",
+  "DESCRIPTION" : "Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orc s to towering giants and terrifying dragons.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-M3G83R25181K",
+  "ARCHETYPENAME" : "Knowledge Domain",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Cleric",
+  "DESCRIPTION" : "The gods of knowledge value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Yet other deities hoard knowledge and keep its secrets to themselves, or promise untold power from unlocking its secrets.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-9L8846780773",
+  "ARCHETYPENAME" : "Life Domain",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Cleric",
+  "DESCRIPTION" : "The Life domain focuses on the vibrant positive energy, one of the fundamental forces of the universe, that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-ZQ208UJO83FY",
+  "ARCHETYPENAME" : "Light Domain",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Cleric",
+  "DESCRIPTION" : "Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-TK76MTOQ8THJ",
+  "ARCHETYPENAME" : "Nature Domain",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Cleric",
+  "DESCRIPTION" : "Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests to friendly deities associated with particular springs and groves. Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-F8RK91MG72F0",
+  "ARCHETYPENAME" : "Oath of Devotion",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Paladin",
+  "DESCRIPTION" : "The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves, and others, to the highest standards of conduct.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-U12QY5BBPYP8",
+  "ARCHETYPENAME" : "Oath of the Ancients",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Paladin",
+  "DESCRIPTION" : "The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-CO21Z8TR3S63",
+  "ARCHETYPENAME" : "Oath of Vengeance",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Paladin",
+  "DESCRIPTION" : "The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces run rampant, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins, sometimes called avengers or dark knights, their own purity is not as important as delivering justice.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-MTFA97C5EQ93",
+  "ARCHETYPENAME" : "Path of the Berserker",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Barbarian",
+  "DESCRIPTION" : "For some barbarians, rage is a means to an end - that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-being.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-8X854247J37T",
+  "ARCHETYPENAME" : "Path of the Totem Warrior",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Barbarian",
+  "DESCRIPTION" : "The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-73Z165GTF1Y1",
+  "ARCHETYPENAME" : "School of Abjuration",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Wizard",
+  "DESCRIPTION" : "The School of Abjuration emphasizes magic that blocks, banishes, or protects. Called abjurers, members of this school are sought when baleful spirits require exorcism, important locations must be guarded against magical spying, and when portals to other planes of existence must be closed.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-R33H2P7Z6XNI",
+  "ARCHETYPENAME" : "School of Conjuration",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Wizard",
+  "DESCRIPTION" : "As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-JQXF9X3I499C",
+  "ARCHETYPENAME" : "School of Divination",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Wizard",
+  "DESCRIPTION" : "The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-280RHMX01L41",
+  "ARCHETYPENAME" : "School of Enchantment",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Wizard",
+  "DESCRIPTION" : "As a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-C0J2831RMLAG",
+  "ARCHETYPENAME" : "School of Evocation",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Wizard",
+  "DESCRIPTION" : "You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces; others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-KZIY90244K1O",
+  "ARCHETYPENAME" : "School of Illusion",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Wizard",
+  "DESCRIPTION" : "You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists, including many gnome wizards, are benign tricksters and others are more sinister masters of deception.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-0U6WI2FW7FJV",
+  "ARCHETYPENAME" : "School of Necromancy",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Wizard",
+  "DESCRIPTION" : "The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-9YP42B62N282",
+  "ARCHETYPENAME" : "School of Transmutation",
+  "SPELLABILITY" : "Intelligence",
+  "CLASSNAME" : "Wizard",
+  "DESCRIPTION" : "You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality’s forge.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-P8TVTLR6A1G5",
+  "ARCHETYPENAME" : "Tempest Domain",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Cleric",
+  "DESCRIPTION" : "The Tempest domain includes deities that govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. Some are known for swift justice delivered by thunderbolts and pantheons of seafaring peoples have ocean deities.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-795YIF89Z99F",
+  "ARCHETYPENAME" : "The Archfey",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Warlock",
+  "DESCRIPTION" : "Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being’s motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-56255SQ84872",
+  "ARCHETYPENAME" : "The Fiend",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Warlock",
+  "DESCRIPTION" : "You have made a pact with a fiend from the lower planes of existence, a being w hose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords, archdevils, pit fiends, especially mighty balors, and ultroloths.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-P04S48AYU7J3",
+  "ARCHETYPENAME" : "The Great Old One",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Warlock",
+  "DESCRIPTION" : "Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-2VXTE3Q8Q30O",
+  "ARCHETYPENAME" : "Thief",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Rogue",
+  "DESCRIPTION" : "You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, professional treasure seekers, explorers, and investigators gravitate to this archetype. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-6J17787KTLN7",
+  "ARCHETYPENAME" : "Trickery Domain",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Cleric",
+  "DESCRIPTION" : "Gods of trickery are mischief-makers and intigators who stand as a constant challenge to the accepted order among both gods and mortals. They’re patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-394D58QSQJLA",
+  "ARCHETYPENAME" : "War Domain",
+  "SPELLABILITY" : "Wisdom",
+  "CLASSNAME" : "Cleric",
+  "DESCRIPTION" : "The gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as lamentations to their gods. Gods of war include champions of honor and chivalry, as well as gods of destruction and pillage, and gods of conquest and domination.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-Q2V05OJA66EN",
+  "ARCHETYPENAME" : "Way of Shadow",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Monk",
+  "DESCRIPTION" : "Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers serving as spies and assassins. Some form a clan sworn to secrecy about their arts and missions. Others belong to monasteries more like thieves’ guilds, hiring out their services to nobles and rich merchants.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-9J804W6S3573",
+  "ARCHETYPENAME" : "Way of the Four Elements",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Monk",
+  "DESCRIPTION" : "You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-RU3F1455KQK0",
+  "ARCHETYPENAME" : "Way of the Open Hand",
+  "SPELLABILITY" : "None",
+  "CLASSNAME" : "Monk",
+  "DESCRIPTION" : "Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+}, {
+  "ARCHETYPEID" : "ART-ZWK5I7A4O393",
+  "ARCHETYPENAME" : "Wild Magic",
+  "SPELLABILITY" : "Charisma",
+  "CLASSNAME" : "Sorcerer",
+  "DESCRIPTION" : "Your innate magic comes from the wild forces of chaos that underlie the order of creation. You might have endured exposure to some form of raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the mysterious Far Realm. Perhaps you were blessed by a powerful fey creature or marked by a demon.",
+  "AUTHOR" : "WOTC",
+  "SOURCE" : "PLHB"
+} ]

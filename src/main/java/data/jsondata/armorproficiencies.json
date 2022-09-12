@@ -1,0 +1,37 @@
+[ {
+  "ARMORPROFICIENCYID" : "AP-A9IWCAZZSTXU",
+  "ARMORPROF" : "Light Armor",
+  "DESCRIPTION" : "You can use light, less-restrictive armor that still allows agile movement.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "ARMORPROFICIENCYID" : "AP-76H85SS501WN",
+  "ARMORPROF" : "Medium Armor",
+  "DESCRIPTION" : "You can use moderate but more restrictive armor that still allows some agility.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "ARMORPROFICIENCYID" : "AP-XV5F12621WYC",
+  "ARMORPROF" : "Heavy Armor",
+  "DESCRIPTION" : "You can use armors that are heavy and do not allow agile movement but offer the most protection against physical attack.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "ARMORPROFICIENCYID" : "AP-Z4214ZX0U28A",
+  "ARMORPROF" : "Shields",
+  "DESCRIPTION" : "You can wield a shield to augment your protection in battle.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "ARMORPROFICIENCYID" : "AP-KAQZR69LC27X",
+  "ARMORPROF" : "Druidic Armor",
+  "DESCRIPTION" : "You can wear light and medium armor and use shields, but you will not use anything made of metal as it disconnects you from your connection with Nature.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "ARMORPROFICIENCYID" : "AP-LU1UQZCR49QT",
+  "ARMORPROF" : "No Armor Training",
+  "DESCRIPTION" : "You are not trained in the use of any armor.",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+} ]

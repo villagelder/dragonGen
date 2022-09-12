@@ -1,0 +1,194 @@
+[
+  {
+    "_ID": "1",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "14",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "2",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "15",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "3",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "19",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "4",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "26",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "5"
+  },
+  {
+    "_ID": "5",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "38",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "6",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "47",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "7",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "75",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "10"
+  },
+  {
+    "_ID": "8",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "63",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "9",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "70",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "2"
+  },
+  {
+    "_ID": "10",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "83",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "5"
+  },
+  {
+    "_ID": "11",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "98",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "12",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "101",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "13",
+    "PACK": "Burglar\u0027s Pack",
+    "ITEM": "85",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "14",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "31",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "15",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "28",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "2"
+  },
+  {
+    "_ID": "16",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "35",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "17",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "56",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "18",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "57",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "19",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "61",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "20",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "70",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "2"
+  },
+  {
+    "_ID": "21",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "71",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "5"
+  },
+  {
+    "_ID": "22",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "73",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "23",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "89",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  },
+  {
+    "_ID": "24",
+    "PACK": "Diplomat\u0027s Pack",
+    "ITEM": "93",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB",
+    "QUANTITY": "1"
+  }
+]

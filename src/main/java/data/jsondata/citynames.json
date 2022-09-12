@@ -1,0 +1,22 @@
+[
+  {
+    "CULTURE": "celtic",
+    "CATEGORY": "rootword",
+    "WORDS": "ardu, brive, ca, ly, pendle, brag, tame, tea, te, veru, wig, york, tha, berg, penn, carr, k'enno, doven, fix, esk, exe, ex, eske, lindo, mael, av, bri, bril, bryn, krew, pen, crew, wil, dov, duro, ax, dub, bre, dubr, manx, glassan, ard, ban, bana, nemeton, noi, salo, eburo, ebu, magos, tur, turos, nev, tames, diwa, windo, nevi, cel, keleia, kele, kel, singi, tim, gal, sin, gala, cal, cala, ebora, daci, sib, sibi, ebo, eburos, laco, ber, ois, dur, medi, nowi, cambra, cale, dunon, bra, cari, mil, mila, vene, bol, bono, bell, bona, mogunt, mog, ju, jug, mogon, mogons, tames, ok-ro, ok, ro, brigs, briwa, lemo, nem, neme, worm, worms, her, bais, so, hercy, mago, tubin, novi, trev, neu, dhro, nowijo, magus, rem, bon, mog, mogun, cambo, briga, brig, orau, vi, ver, cer, vo, vov, veu, ama, amar, amer, amm, ammer, amor, amors, wald, annel, annels, ans, boi, boio, arau, viro, verd, vero, cah, lemo, nant, nans, novi, nov, mag, noy, peri, sama, rob, robri, cham, chamb, caren, cari, divo, ev, evr, lao, la, lille, limo, lis, lug, lugdun, dun, lim, bri, bria, brianz, caen, brigant, wien, gont, kost, am, ang, argent, aut, arr, ar, arl, bour, bay, brian"
+  },
+  {
+    "CULTURE": "celtic",
+    "CATEGORY": "suffix",
+    "WORDS": "en, inna, ia, ium, ton, moss, gen, i, y, u, me, o, by, e, um, a, gum, dunum, ors, don, hors, unum, uno, amo, cia, durum, rum, any, iens, dunom, ge, ien, er, ers, nium, an, tan, un, on, onne, tun, as, ras, ara, oara, ian, es, les, con, tes"
+  },
+  {
+    "CULTURE": "egyptian",
+    "CATEGORY": "rootword",
+    "WORDS": "men, khem, ya, ra, khi, khumn, saka, henen, chenem, ptk, tayu, med, akh, her, zau, tep, per, bere, tim, kha, pi, ta, tho, iu, ge, shasho, tep, sum, tam, buh, li, mad, geb, sesh, ip, ik, tje, iushen, men, dja, tho, wep, set, wa, tja, dje, iun, tar, hut, ab, nubt, swen"
+  },
+  {
+    "CULTURE": "egyptian",
+    "CATEGORY": "suffix",
+    "WORDS": "nefer, mu, qote, to, wadjet, inhor, sut, emro, wer, ihu, djayet, nis, waset, ny, nesut, shedet, du, jed, ib, enu, rehwy, repyt, sy, iat, ihu, shen, bu, tep, ty, men, net, en, esh, ett, det, hathor, heb, senet, hery, amun, emu, ennu, u, ru"
+  }
+]

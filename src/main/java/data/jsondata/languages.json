@@ -1,0 +1,137 @@
+[ {
+  "LANGUAGEID" : "LNG-CXD2U3K25U3X",
+  "LANGUAGE" : "Common",
+  "SPEAKERS" : "Humans",
+  "CATEGORY" : "Standard",
+  "SCRIPT" : "Common",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-GZLYGD6XF141",
+  "LANGUAGE" : "Dwarvish",
+  "SPEAKERS" : "Dwarves",
+  "CATEGORY" : "Standard",
+  "SCRIPT" : "Dwarvish",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-UM2GN60TYI1F",
+  "LANGUAGE" : "Elvish",
+  "SPEAKERS" : "Elves",
+  "CATEGORY" : "Standard",
+  "SCRIPT" : "Elvish",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-5V5S70LCAU5U",
+  "LANGUAGE" : "Giant",
+  "SPEAKERS" : "Ogres, giants",
+  "CATEGORY" : "Standard",
+  "SCRIPT" : "Dwarvish",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-0M3LYF0L1I7T",
+  "LANGUAGE" : "Gnomish",
+  "SPEAKERS" : "Gnomes",
+  "CATEGORY" : "Standard",
+  "SCRIPT" : "Dwarvish",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-Y457042M4N4Q",
+  "LANGUAGE" : "Goblin",
+  "SPEAKERS" : "Goblinoids",
+  "CATEGORY" : "Standard",
+  "SCRIPT" : "Dwarvish",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-11ZK38HX79VE",
+  "LANGUAGE" : "Halfling",
+  "SPEAKERS" : "Halflings",
+  "CATEGORY" : "Standard",
+  "SCRIPT" : "Common",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-QH0V03NY5X5T",
+  "LANGUAGE" : "Orc",
+  "SPEAKERS" : "Orcs",
+  "CATEGORY" : "Standard",
+  "SCRIPT" : "Dwarvish",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-6F32U7J237G1",
+  "LANGUAGE" : "Abyssal",
+  "SPEAKERS" : "Demons",
+  "CATEGORY" : "Exotic",
+  "SCRIPT" : "Infernal",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-UL6D9QJY3K5O",
+  "LANGUAGE" : "Celestial",
+  "SPEAKERS" : "Celestials",
+  "CATEGORY" : "Exotic",
+  "SCRIPT" : "Celestial",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-PGK4I3XT2W58",
+  "LANGUAGE" : "Draconic",
+  "SPEAKERS" : "Dragons, dragonborn",
+  "CATEGORY" : "Exotic",
+  "SCRIPT" : "Draconic",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-992AS4UHI715",
+  "LANGUAGE" : "Deep Speech",
+  "SPEAKERS" : "Mind flayers, beholders",
+  "CATEGORY" : "Exotic",
+  "SCRIPT" : "Oral only",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-L5OF19TT4W63",
+  "LANGUAGE" : "Infernal",
+  "SPEAKERS" : "Devils",
+  "CATEGORY" : "Exotic",
+  "SCRIPT" : "Infernal",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-6K2MHM8E4X77",
+  "LANGUAGE" : "Primordial",
+  "SPEAKERS" : "Elementals",
+  "CATEGORY" : "Exotic",
+  "SCRIPT" : "Dwarvish",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-230A7584AU2H",
+  "LANGUAGE" : "Sylvan",
+  "SPEAKERS" : "Fey creatures",
+  "CATEGORY" : "Exotic",
+  "SCRIPT" : "Elvish",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-97O0LLU6NL02",
+  "LANGUAGE" : "Undercommon",
+  "SPEAKERS" : "Underdark traders, Drow",
+  "CATEGORY" : "Exotic",
+  "SCRIPT" : "Elvish",
+  "SOURCE" : "PLHB",
+  "AUTHOR" : "WOTC"
+}, {
+  "LANGUAGEID" : "LNG-YW4KGV1G375H",
+  "LANGUAGE" : "Druidic",
+  "SPEAKERS" : "Druids",
+  "CATEGORY" : "Exotic",
+  "SCRIPT" : "Elvish",
+  "SOURCE" : null,
+  "AUTHOR" : null
+} ]

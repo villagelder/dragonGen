@@ -1,0 +1,1230 @@
+[
+  {
+    "SUBJECT": "item",
+    "METONYM": "jewelry, book, document, weapon, armor, tool, kit, sword, polearm, clothing, [SHOES]"
+  },
+  {
+    "SUBJECT": "footwear",
+    "METONYM": "high boots, eared shoes, espadrille shoes, estivaux boots, galoshe boots, gamashe shoes, half-brogue boots, high shoes, huese shoes, legging boots, monk shoes, mukluk shoes, moyle low boots, muleus shoes, opanke shoes, patten shoes, penny loafer shoes, pisnet shoes, peggy shoes, knee-high boot, court shoes, buckled high sandals, syvlan boots, villager shoes, villager boots, traveler high boots, warrior boots, swashbuckler boots, swashbuckler knee boots, slouched high boots, sandal, moccasin, boot, warrior sandals, legionnaire sandals, war-god sandals, simple high boots, side-lacing nobleman boots, alpargata, batt, botew, broad toe shoe, brodequin, brogue, buskin, full-brogue, caligae, calopedes, carbatine, clogge, coker, coker, cowmouth, derby, sandals, boots, mid-calf leather boots, buckling knee boots, Galahad shoes, Gothic high boots, high musketeer boots, jackboots, laced half-boots, knee length shoes, laced ankle boots, side-lacing leather shoes, buckled leather shoes wooden shoes, Einhard boots, first mate boots, riding boots, fur lined boots, double buckled noble shoe, knight boots, soft knee boots, soft low, mid-calf laced boots, knee length shoes, ankle boots, travelers boots, front lacing ankle boots, low jackboots, laced high boots, leather shoes, laced low boots, high knee boots, banded battle boots, buckled low boots, cavalier boots, Viking boots"
+  },
+  {
+    "SUBJECT": "jewelry",
+    "METONYM": "bracelet, brooch, puzzle ring, armlet, torc, signet ring, thumb ring, crown, hatpin, hairpin, fascinator, coronet, earring, circlet, glass eye, diadem, amulet, prayer beads, sarpech, necklace, ornament, pendant, tiara, trinket, anklet, band, bangle, bauble, beads, bijou, brass, cameo, chain, charm, choker, cross, crown, lavaliere, locket, pin, regalia, ring, solitaire, stickpin, tie pin"
+  },
+  {
+    "SUBJECT": "suits",
+    "METONYM": "suit, military uniform, dress uniform, royal uniform, uniform, habit, vestments, ensemble, wardrobe"
+  },
+  {
+    "SUBJECT": "quest",
+    "METONYM": "adventure, chase, crusade, expedition, hunt, inquisition, investigation, journey, probe, pursuit, research, delving, examination, inquest, mission, probing, pursual, quarry, seeking, voyage, pilgrimage"
+  },
+  {
+    "SUBJECT": "eternal",
+    "METONYM": "abiding, boundless, constant, continual, continued, enduring, everlasting, immortal, immutable, indestructible, infinite, interminable, lasting, never-ending, perennial, permanent, perpetual, relentless, timeless, unceasing, unending, unremitting, ageless, always, amaranthine, ceaseless, continuous, dateless, deathless, forever, illimitable, immemorial, imperishable, incessant, indefinite, perdurable, persistent, termless, unbroken, undying, unfading, uninterrupted, final"
+  },
+  {
+    "SUBJECT": "fantasyrace",
+    "METONYM": "human, dragonborn, elf, dwarf, gnome, brownie, halfling, aarakocra, aasimar, bugbear, halfling, genasi, tiefling, devil, demon, hobgoblin, kenku, lizardfolk, kuo-toa, minotaur, merfolk, shifter, tabaxi, tortle, triton, verdan, vedalken, yuan-ti, warforged, troglodyte, celestial, orc, goblin, mongrel, loxodon, locathah, goliath, bullywug, gnoll"
+  },
+  {
+    "SUBJECT": "subrace",
+    "METONYM": "fallen, protector, scourge, grey, red, blue, green, gold, silver, yellow, platinum, electrum, adamantine, mithril, bronze, copper, white, black, sand, coastal, cave, ridge, swamp, bog, crystal, dark, light, true, high, underworld, skeleton, zombie, spirit, ghost, wild, wood, sea, river, lake, pureblood, hill, mountain, urban, city, sewer, air, earth, fire, water, deep, forest, plains, arctic, amethyst, emerald, rock, ruby, diamond, opal, onyx, pearl"
+  },
+  {
+    "SUBJECT": "undead",
+    "METONYM": "zombie, skeleton, shade, spectre, ghoul, lich, bodak, vampire, ghost, shadow, mummy, wraith, dracolich, wight, death knight, banshee, nightshade, poltergeist, revenant, draugr, jiangshi, reaper, phantom"
+  },
+  {
+    "SUBJECT": "weapon",
+    "METONYM": "sword, dagger, spear, axe, hammer, club, sling, bow, crossbow, quarterstaff, knife, throwing axe, throwing knives, shuriken, sickle, dart, arrow, javelin, mace, flail, morningstar, war pick, trident, poleaxe, maul, rapier, whip, longbow, short bow, heavy crossbow, net, bolt, bolas, blowgun, hand crossbow"
+  },
+  {
+    "SUBJECT": "weapongroups",
+    "METONYM": "sword, blade, spear, knife, club, mace, polearm, flail, quarterstaff, net, hammer, axe, simple weapon, martial weapon, gladiator weapon, military weapon, exotic weapon, bow, crossbow, siege weapon"
+  },
+  {
+    "SUBJECT": "armorgroups",
+    "METONYM": "shield, heavy, medium, light, padded, leather, scale mail, chain mail, plate, hide, all"
+  },
+  {
+    "SUBJECT": "armor",
+    "METONYM": "plate mail, chainmail, brigandine, shield, leather, studded leather, breastplate, gambeson, padded jack, ring mail, scale mail, bracers, chain shirt, half plate, splint, gauntlets, helm"
+  },
+  {
+    "SUBJECT": "armorpiece",
+    "METONYM": "comb, visor, breastplate, revebrace, plackart, fault, tasset, poleyn, sabaton, greave, fan-plate, cuisse, gauntlet, vambrance, couter, pauldron, gorget, skirt, corset, vest, torso, bodice, shoulder strap, helm"
+  },
+  {
+    "SUBJECT": "armorlight",
+    "METONYM": "paper, wicker, leather"
+  },
+  {
+    "SUBJECT": "cord",
+    "METONYM": "filament, string, yarn, ribbon, gossamer, cord, fiber, thread, strand, braid, wire, fibril, floss"
+  },
+  {
+    "SUBJECT": "braided",
+    "METONYM": "twined, interwoven, braided, twisted, intertwisted, intertwined, plaited, woven, knitted, interknitted"
+  },
+  {
+    "SUBJECT": "exoticmaterial",
+    "METONYM": "silk, fibrous mushroom, spider silk, hemp, abaca, linen, jungle leaf, ivory, gold, silver, copper, electrum, adamantine, platinum, white gold, mithril, brass, steel, bronze, tapa, kuba, abaca fiber, sugarcane fiber, pineapple fiber, bamboo fiber"
+  },
+  {
+    "SUBJECT": "ropematerial",
+    "METONYM": "hemp, cotton, straw, sisal, coir, abaca, jute, hair, wool, silk, linen, leather"
+  },
+  {
+    "SUBJECT": "maceheadshape",
+    "METONYM": "flanged, ball, diamond-shaped, studded, ridged, spiral-ridged, oblong, studded ball, spiked ball, oblong and spiked, studded oblong, oblong flanged"
+  },
+  {
+    "SUBJECT": "maceheadmake",
+    "METONYM": "bronze, iron, bone, copper, steel, stone, marble, quartz"
+  },
+  {
+    "SUBJECT": "gnarled",
+    "METONYM": "twisted, gnarled, contorted, crooked, beaten, gnarly, deformed, bend, distorted, roughhewn, rough"
+  },
+  {
+    "SUBJECT": "armormetal",
+    "METONYM": "adamantine, steel, iron, bronze, mithril, gold, brass, silver, seashell, copper, bone, electrum"
+  },
+  {
+    "SUBJECT": "hiltmaterial",
+    "METONYM": "adamantine, iron, bronze, mithril, gold, brass, silver, seashell, wood, copper, ivory, bone, semiprecious, leather, coral, electrum"
+  },
+  {
+    "SUBJECT": "reinforced",
+    "METONYM": "banded, reinforced, augmented, fortified, strengthened, braced, enhanced, bolstered, thickened"
+  },
+  {
+    "SUBJECT": "magicuser",
+    "METONYM": "wizard, mage, sorcerer, warlock, conjurer, summoner, necromancer, illusionist, enchanter, abjurerer, evoker, bard, transmuter, diviner, thaumaterge, shaman, augerer, witch, sorceress"
+  },
+  {
+    "SUBJECT": "gilded",
+    "METONYM": "etched, gilded, trimmed, painted, covered, adorned, decorated, festooned, embossed"
+  },
+  {
+    "SUBJECT": "embroidered",
+    "METONYM": "embroidered, bedecked, decorated, stitched, embellished, ornamented, quilted"
+  },
+  {
+    "SUBJECT": "armorpurpose",
+    "METONYM": "battle, war, ceremonial, sacred, riding, archer, training, footman, cavalry"
+  },
+  {
+    "SUBJECT": "clothingpurpose",
+    "METONYM": "ceremonial, sacred, riding, wedding, engagement, slave, guild, house, work, stately, noble, everyday, peasant"
+  },
+  {
+    "SUBJECT": "appearance",
+    "METONYM": "rusted, broken, corroded, spotted, dessicated, deteriorated, rotted, dusty, gnawed, dirty, wasted, gilded, exceptional, handsome, gleaming, glistening, fashionable, well-made, puissant, mighty, reinforced, crumbly, delicate, wilting, stalwart, friable, solid, firm, hearty, durable, flawless, dependable, shabby, fine, new, first-rate, masterwork, masterful, expert, elegant, ashen, perishing, shiny, polished, moldy"
+  },
+  {
+    "SUBJECT": "decayed",
+    "METONYM": "rusted, broken, corroded, spotted, dessicated, deteriorated, rotted, dusty, gnawed, wasted"
+  },
+  {
+    "SUBJECT": "reliable",
+    "METONYM": "well-made, flawless, reliable, masterwork, diuturnal, exceptional, dependable, tenacious, lasting, durable"
+  },
+  {
+    "SUBJECT": "healthy",
+    "METONYM": "healthy, robust, healthful, fresh, lively, strong, mighty, vigorous, tough, fit, hardy, husky, bushy-tailed, potent, stout"
+  },
+  {
+    "SUBJECT": "shield",
+    "METONYM": "tower, kite, targe, wall, bouche, buckler, round, heater, wankel, jousting, target, pavise, war-door, oval, coffin, scutum, decorative, square, tournament, Viking, African, Celtic, crescent"
+  },
+  {
+    "SUBJECT": "book",
+    "METONYM": "album, booklet, magazine, manual, novel, pamphlet, paperback, publication, text, textbook, tome, volume, work, writing, Bible, atlas, bestseller, codex, compendium, dissertation, encyclopedia, folio, handbook, hardcover, leaflet, lexicon, monograph, nonfiction, octavo, offprint, omnibus, opus, periodical, portfolio, primer, quarto, reader, reprint, roll, scroll, speller, thesaurus, tract, treatise, opuscule, preprint, softcover, vade mecum"
+  },
+  {
+    "SUBJECT": "jewelrystyle",
+    "METONYM": "Victorian, Celtic"
+  },
+  {
+    "SUBJECT": "beset",
+    "METONYM": "beset, encrusted, bestudded, set, affixed, fixed, lined, faced, encircled, "
+  },
+  {
+    "SUBJECT": "book cover",
+    "METONYM": "softcover, hardcover, softback, hardback, wooden, dragon scale, alligator skin, snakeskin, fantasy race skin, [MONSTER] skin, [MAMMALLAND] hide, leather, bamboo"
+  },
+  {
+    "SUBJECT": "book condition",
+    "METONYM": "dessicated, deteriorated, rotted, spotted, dusty, gnawed, wasted, gilded, exceptional, handsome, skillful, gleaming, glistening, embroidered, fashionable, well-made, puissant, mighty, reinforced, crumbly, crunchy, delicate, stalwart, solid, firm, hearty, durable, flawless, dependable, shabby, fine, first-rate, masterwork, masterful, expert, elegant, ashen, perishing, shiny, friable, polished, moldy"
+  },
+  {
+    "SUBJECT": "document",
+    "METONYM": "brochure, edition, essay, scroll, parchment, archive, script, report, paper, deed, page, manuscript, scripture, papyrus, vellum, volute"
+  },
+  {
+    "SUBJECT": "tool",
+    "METONYM": "auger, axe, adaze, basket, billhook, cloth shears, brass pick, crowbar, dividers, hammer, shovel, winnowing basket, harrow, fork, pitchfork, ard, light plough, heavy plow, mouldboard, wheeled plough, rake, bell and drum, scythe, shears, sickle, spade, cast iron pan, cast iron pot, wooden bowl, wooden spoon, wooden flail, handsaw, skeleton key, tiny happer, ring of lock picks, small narrow blade scissors, small pliers, small file, brass magnifying glass, tiny mirror, double handsaw, tongs, mallet, miniature saw, mason chisel, nippers, pitch fork, sharp blade, sickle, snip, trowel, wood chisel"
+  },
+  {
+    "SUBJECT": "kit",
+    "METONYM": "Tool Kit, Gaming Set, Artisan's Tools"
+  },
+  {
+    "SUBJECT": "tool kit",
+    "METONYM": "Climber's kit, Disguise Kit, Forgery kit, Healer's kit, Herbalism Kit, Mess kit, Poisoner's kit"
+  },
+  {
+    "SUBJECT": "Artisan's Tools",
+    "METONYM": "Alchemist’s supplies, Brewer’s supplies, Calligrapher's Supplies, Navigator's tools, Carpenter’s tools, thieves' tools, gaming set, Cartographer’s tools, Cobbler’s tools, Cook’s utensils, Glassblower’s tools, Jeweler’s tools, Leatherworker’s tools, Mason’s tools, Painter’s supplies, Potter’s tools, Smith’s tools, Tinker’s tools, Weaver’s tools, Woodcarver’s tools"
+  },
+  {
+    "SUBJECT": "gaming set",
+    "METONYM": "dice set, chess set, playing card set, checkers set, senet set, hounds and jackals set, flying dragons set, latrunculi set, twenty squares set, patolli set, coiled snake set, petteia set, pachisi set, mancala set, terni lapilli sets, hnefatafl set, mill game set, Game of Go set, cloud and thunder set, battlefield game set"
+  },
+  {
+    "SUBJECT": "claccessories",
+    "METONYM": "codpiece, giornea, cioppa"
+  },
+  {
+    "SUBJECT": "shirts",
+    "METONYM": "shirt, tunic, poupoint, basquine, doublet, cotte, surcoat, cotehardies, houpeland, giornea, cioppa"
+  },
+  {
+    "SUBJECT": "pants",
+    "METONYM": "long braies, medium braies, short braies, separate hose, joined hose, trousers"
+  },
+  {
+    "SUBJECT": "usedwood",
+    "METONYM": "dock, plank, post, beam, [SCULPTURE] sculpture, stake, frame, log, lumber, plank from a boat, shipping crate, crate, plank from a ship, plank from a casket, half of a canoe, [FURNITURE] leg, [FURNITURE], piece from a [FURNITURE], plank from a roof"
+  },
+  {
+    "SUBJECT": "furniture",
+    "METONYM": "desk, chair, stool, shelf, picture frame, table, bench, trestle table, bed, couch"
+  },
+  {
+    "SUBJECT": "sculpture",
+    "METONYM": "[UNDEAD], [FANTASYRACE], [WEAPON], [ARMOR], [MAMMALLAND], [MAMMALWATER], [REPTILE]"
+  },
+  {
+    "SUBJECT": "dress",
+    "METONYM": "gown, dress, chemise with overdress, houppelande and dress, cote hardie and dress"
+  },
+  {
+    "SUBJECT": "cloaks",
+    "METONYM": "cloak, garnache, hergaut, gardecorps, robe, cavalier cape, mage robe, Shapur robe, hooded robe, brocade cape, hooded cape, fencing cape, mystic coat, shoulder cape, shoulder cape cloak, kimono, ritual robe, elven cloak, hooded sorcerer cloak, hooded travelers robe, Franciscan monk habit, vestment, frock, cape, Aramis cape, mantle, overcloak, duster coat, robe"
+  },
+  {
+    "SUBJECT": "headdress",
+    "METONYM": "horn headress, veil"
+  },
+  {
+    "SUBJECT": "bag",
+    "METONYM": "bag, sack, pocket, pouch, purse, loop, dagger hanger, kit, backpack, carryall, handbag, knapsack, tote, attache, sac, saddlebag, satchel, poke, packet"
+  },
+  {
+    "SUBJECT": "bag use",
+    "METONYM": "dagger, hunting, pilgrim's, explorer's, adventurer's, ruck, gem, coin, climber's, dungeoneer's, makeup"
+  },
+  {
+    "SUBJECT": "decoration",
+    "METONYM": "applique, embroidery, trim, stamp, etching, sparkling, gilding, mirror, batik, brocade, classic, double-dyed, lace"
+  },
+  {
+    "SUBJECT": "poorfabric",
+    "METONYM": "wool, hemp, burlap, linen, catskin, goatskin, cat fur, goat fur, sheepskin"
+  },
+  {
+    "SUBJECT": "fabric",
+    "METONYM": "wool, cotton, silk, hemp, canvas, leather, suede, linen, fur, cendal, muslin, moire, dyaspin, ermine, cashmere, miniver, samite, scarlet, strandling, taffeta, tiretaine, velvet, chenille, damask, jute, lace"
+  },
+  {
+    "SUBJECT": "finefabric",
+    "METONYM": "silk, suede, fur, brocade silk, brocade velvet, scarlet, cotton, cashmere, tiretaine, diasper, velvet"
+  },
+  {
+    "SUBJECT": "withered",
+    "METONYM": "withered, ruined, moldered, spoiled, rotted, mangled, torn, ripped, slashed, sliced, ragged, cleaved"
+  },
+  {
+    "SUBJECT": "hats",
+    "METONYM": "bonnet, squire cap, Saxon headcloth, head scarf, skull cap, cap, Brittany hood, gable hood, atifet, bongrace hood, Tudor crescent hood, short French hood, long French hood, musketeer hat, cavalier hat, floppy, Flemish, turban, maidservant cap, beret, hunter hat, short to hat, tall top hat, wizard's hat, chapeau, headdress, arming cap, muffin hat, peasant bonnet, mop bonnet, flat cap, Victorian summer hat, veil hat"
+  },
+  {
+    "SUBJECT": "peasant",
+    "METONYM": "slave, peasant, serf, servant, peon, sharecropper, laborer, farmhand, rube"
+  },
+  {
+    "SUBJECT": "helm",
+    "METONYM": "Norman, kettle, sallet, pigface bascinet, spangen, chain mail hood, barbuta, great helm, morion, closed face, cabasset, iron hat, spider helmet, siege burganet, armet, pikeman's pot, buppe, salade, heaume"
+  },
+  {
+    "SUBJECT": "tree",
+    "METONYM": "pine, cedar, cypress, yew, gum, fir, hemlock, chestnut, coachwood, cocobolo, corkwood, beech, birch, hickory, hophornbeam, hawthorn, cottonwood, cucumbertree, cumaru, dogwood, kauri, ebonwood, marblewood, elm, tulip, sycamore, willow, spruce, oak, maple, eucalyptus, crabapple, apple, pear, greenheart, grenadilla, guanandi, larch, redwood, abachi, acacia, padauk, afzelia, agba, alder, ash, aspen, basswood, blackbean, bloodwood, boxelder, boxwood, walnut, buckeye, cherry"
+  },
+  {
+    "SUBJECT": "subtree",
+    "METONYM": "hoop, monkey, parana, bald, hinoki, seaside, chestnut, desert, dryland, shortbud, tall, celestial, big leaf, small leaf, arcane, pumpkin, wild, common, bigtooth, flowering, smalltooth, frosted, gray, quaking, coastal, horse, silver, golden, jack, eastern, northern, western, southern, sugar, cinnamon, tundra, nutmeg, white, black, brown, amber, blue, red, blue, yellow, orange, green, hunter, rocky, noble, peaceful, placid"
+  },
+  {
+    "SUBJECT": "spice",
+    "METONYM": "allspice, angelica, anise, asafoetida, bay leaf, basil, bergamot, black cumin, black mustard, black pepper, borage, brown mustard, burnet, caraway, cardamom, cassia, catnip, cayenne pepper, celery seed, chervil, chicory, chili pepper, chives, cicely, cilantro, cinnamon, clove, coriander, costmary, cumin, curry, dill, fennel, fenugreek, filé, ginger, grains of paradise, holy basil, horehound, horseradish, hyssop, lavender, lemon balm, lemon grass, lemon verbena, licorice, lovage, mace, marjoram, nutmeg, oregano, paprika, parsley, peppermint, poppy seed, rosemary, rue, saffron, sage, savory, sesame, sorrel, star anise, spearmint, tarragon, thyme, turmeric, vanilla, white mustard"
+  },
+  {
+    "SUBJECT": "taste",
+    "METONYM": "spicy, sweet, sour, salty, bitter, moist, bland, savoury, dry, sugary, greasy, scrumptious, piping hot, crunchy, rich, bittersweet, briny, earthy, cooling, cool, cold, hot, frozen, burning, fiery, fruity, fresh, nutty, tasty, honeyed, herbal, tangy, tart, yeasty, zesty"
+  },
+  {
+    "SUBJECT": "foodtexture",
+    "METONYM": "airy, buttery, chewy, creamy, crispy, crumbly, crunchy, delicate, doughy, fizzy, flaky, fluffy, gooey, heary, juicy, silky, sticky, powdery, smooth, succulent, tender, velvety"
+  },
+  {
+    "SUBJECT": "animalmeat",
+    "METONYM": "chicken, lamb, mutton, beef, goose, goat, turkey, cow, oxen, ox, bull, pig, pork, boar, ham, turtle, squab, frog, snake, duck, pheasant, bison, venison, anchovy, fish, rabbit, horse, ostrich, grouse, kangaroo, buffalo, emu, reindeer, partridge, bear"
+  },
+  {
+    "SUBJECT": "plant",
+    "METONYM": "grass, tree, flower, vine, cactus, moss, fern, [FRUIT] tree, liverwort, orchid, lily, rose, berry bush, fruit, mushroom, fungus, thistle, tulip, cotton, wood, algae, bush, weed, root, leaf, wort, cress, holly, hemp"
+  },
+  {
+    "SUBJECT": "meatpart",
+    "METONYM": "chuck, leg, brisket, rib, loin, round, tenderloin, plate, brain, shank, stick, neck, tail, ear, tongue, bacon, egg, sausage, tripe, liver, kidney, lung, steak, skin, jerky"
+  },
+  {
+    "SUBJECT": "foodpreparation",
+    "METONYM": "baked, blanched, blackened, braised, breaded, broiled, boiled, steamed, caramelized, fermented, fried, glazed, infused, marinated, poached, roasted, sauteed, seared, smoked, whipped"
+  },
+  {
+    "SUBJECT": "kitchentool",
+    "METONYM": "spoon, fork, knife, plate, bowl, spatula, whisk, ladle, rolling pin, cup, glass, tongs, grater, frying pan, pan, pot, scoop, cauldron, slicer, cleaver, grinder, firepit, fireplace, cutter, mixing bowl, sieve, cutlery, cutting board"
+  },
+  {
+    "SUBJECT": "guild",
+    "METONYM": "company, gang, organization, ring, fraternity, sorority, tribe, troupe, crew, guild, federation, order, league, union, society, association, fellowship, alliance, brotherhood, sisterhood, circle, clan, coalition"
+  },
+  {
+    "SUBJECT": "miner",
+    "METONYM": "dredger, miner, prospector, collier, sapper, excavator, digger, adventurer"
+  },
+  {
+    "SUBJECT": "preciousmetal",
+    "METONYM": "gold, copper, silver, electrum, palladium, rhodium, platinum, white gold"
+  },
+  {
+    "SUBJECT": "basemetals",
+    "METONYM": "brass, nickel silver, mokume-gane, Pinchbeck, bronze, copper, pewter, titanium, tungsten"
+  },
+  {
+    "SUBJECT": "simplecolors",
+    "METONYM": "red, orange, yellow, green, blue, indigo, violet, maroon, ivory, purple, cyan, aqua, silver, gold, platinum, bronze, copper, brown, amber, black, white, grey"
+  },
+  {
+    "SUBJECT": "gemsorganic",
+    "METONYM": "pearl, tortoishell, operculum, nacre, abalone, amber, ammolite, copal, red coral, black coral, ivory, jet"
+  },
+  {
+    "SUBJECT": "preciousgems",
+    "METONYM": "black sapphire, blue-white diamond, canary yellow diamond, pink diamond, brown diamond, blue diamond, fiery orange jacinth, red ruby, deep crimson ruby"
+  },
+  {
+    "SUBJECT": "highvaluegems",
+    "METONYM": "dark green black opal, blue-white sapphire, medium blue sapphire, deep green emerald, bright green emerald, fiery red opal, blue opal, star ruby, star sapphire, fiery yellow sapphire, yellow-green sapphire, dark green alexandrite, pale blue-green aquamarine, pure black pearl, deep blue spinel, olive green peridot, golden yellow topaz"
+  },
+  {
+    "SUBJECT": "lowvaluegems",
+    "METONYM": "dark gray bloodstone, orange carnelian, red-brown carnelian, white chalcedony, green chrysoprase, yellow-brown citrine, blue jasper, black jasper, brown jasper, moonstone, black and white onyx, black onyx, white onyx, white quartz, smoky gray quartz, yellow quartz, red and white sardonyx, star rose quartz, pale blue-green zircon, golden amber, rich gold amber, amber, deep purple amethyst, yellow-green chrysoberyl, green chrysoberyl, crimson coral, pink coral, red garnet, brown-green garnet, violet garnet, light green jade, deep green jade, white jade, deep black jet, lustrous white pearl, yellow pearl, pink pearl, red spinel, red-brown spinel, deep green spinel, green tourmaline, blue tourmaline, brown tourmaline, red tourmaline"
+  },
+  {
+    "SUBJECT": "semipreciousstones",
+    "METONYM": "azurite mottled deep blue, striped brown banded agate, striped blue banded agate, striped white banded agate, striped red banded agate, blue quartz, gray circled eye agate, white circled eye agate, brown circled eye agate, blue circled eye agate, green circled eye agate, hematite, lapis lazuli, malachite, pink moss agate, yellow moss agate, obsidian, rhodochrosite, tiger eye, turquoise"
+  },
+  {
+    "SUBJECT": "simplegems",
+    "METONYM": "diamond, jacinth, opal, sapphire, emerald, ruby, alexandrite, aquamarine, pearl, peridot, topaz, azurite, agate, quartz, agate, hematite, lapis lazuli, malachite, obsidian, chrysoprase, citrine, moonstone, rhodochrosite, tiger eye, turquoise, bloodstone, carnelian, chalcedony, jasper, moonstone, onyx, sardonyx, zircon, amber, amethyst, chrysoberyl, coral, garnet, jade, jet, spinel, tourmaline"
+  },
+  {
+    "SUBJECT": "timeunits",
+    "METONYM": "second, minute, hour, day, week, month, year, decade, century, millenia, age, era"
+  },
+  {
+    "SUBJECT": "numberunits",
+    "METONYM": "zero, one, two, three, four, five, six, seven, eight, nine"
+  },
+  {
+    "SUBJECT": "zerototeens",
+    "METONYM": "zero, one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen"
+  },
+  {
+    "SUBJECT": "tens",
+    "METONYM": "twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety"
+  },
+  {
+    "SUBJECT": "increments",
+    "METONYM": "hundred, hundred thousand, thousand, million, billion, trillion"
+  },
+  {
+    "SUBJECT": "design",
+    "METONYM": "flame, strength, invisibility, invulnerability, vulnerability, detection, location, destiny, fate, the planes, death, killing, life, constitution, alchemy, undeath, force, kind, thunder, ice, holding, tricks, levitation, speed, unrest, witchery, frost, rust, rusting, storm, tree, hill, archery, mountain, displacement, living, charisma, sorcery, wizardry, intelligence, acid, battle, ego, soul, dexterity, mind, blood, stone, healing, wisdom, corpse, venom, seeing, defense, defending, stealth, kinfolk, cloud, hatred, love, passion, uncertainty, health, lightning, doubt, certainty, rudeness, rot, thievery, righteousness, riches, fortune, might, poverty, illusion, tale, farce, puns, chestnut, trickery, mischief"
+  },
+  {
+    "SUBJECT": "disposition",
+    "METONYM": "disposition, demeanor, attitude, posture, bias, opinion, sensibility, point of view, inclination, temper, temperament, perspective, mindset, impulse, proclivity"
+  },
+  {
+    "SUBJECT": "storm",
+    "METONYM": "deluge, tornado, hurricane, cyclone, typhoon, thunderstorm, monsoon, tsunami, blizzard, ice storm, firestorm, lightning storm, windstorm, sandstorm, hailstorm"
+  },
+  {
+    "SUBJECT": "environmentevent",
+    "METONYM": "flood, volcanic eruption, solar flare, geyser eruption, heatwave, sinkhole, avalanche, poison gas expulsion, earthquake, drought, meteor strike, cold wave, magical rift, time rift, arcane explosion, wildfire, [STORM], mudslide, landslide"
+  },
+  {
+    "SUBJECT": "environmentdefine",
+    "METONYM": "thousand-year, awful, devastating, one-hundred year, calamitous, cataclysmic, catastrophic, deadly, disastrous, ruinous, five-hundred year, extreme, ten-year, ten-thousand-year, great, minor, major"
+  },
+  {
+    "SUBJECT": "magicitemdefinition",
+    "METONYM": "everlasting, animated, proof against, breathing, eternal, perpetual, planar, catching, timeless, fleeting, hardened, transient, giant, glorious, beautiful, glacial, burning, infernal, abyssal, celestial, inter-dimensional infamous, shining, horrible, undignified, striding, shielding, controlling, displaced, half-witted, senseless, mindless, absurd, abounding, copious, lacking, empty, miniscule, horrifying, repelling, soothing, mending, stealing, curing, celestial, divine, fiendish, nefarious, saintly, pure, holy, unholy, dark, lawful, chaotic, honorable, noble, corrupt, immoral, vulgar, mundane, powerful, sanctimonious"
+  },
+  {
+    "SUBJECT": "disastrous",
+    "METONYM": "cataclysmic, destructive, harmful, calamitous, catastrophic, fateful, terrible, tragic, deadly, disastrous, unfavorable, unfortunate, unlucky, ill-fated"
+  },
+  {
+    "SUBJECT": "unexpectedly",
+    "METONYM": "precipitously, suddenly, unanticipatedly, abruptly, asudden, unexpectedly"
+  },
+  {
+    "SUBJECT": "divine",
+    "METONYM": "celestial, divine, holy, angelic, heavenly, mystical, sacred, hallowed, transcendent, consecrated, blissful, deific, deistic, godly, glorious, immaculate, rapturous, supreme"
+  },
+  {
+    "SUBJECT": "infernal",
+    "METONYM": "devilish, hellish, imp, goblin, malevolent, wicked, evil, infernal, fiendish, sinister, nether, diabolical, accursed, cursed, damnable, damned"
+  },
+  {
+    "SUBJECT": "beautiful",
+    "METONYM": "alluring, appealing, attractive, charming, beautiful, dazzling, exquisite, fascinating, grand, handsome, gorgeous, graceful, lovely, wonderful, angelic, divine, radiant, bewitching, resplendent, sublime, magnificent, marvelous, pleasing"
+  },
+  {
+    "SUBJECT": "hiltguard",
+    "METONYM": "crossguard, upturned crossguard, down-turned crossguard, basket hilt, ceremonial guard, knuckle guard hilt, minimal guard"
+  },
+  {
+    "SUBJECT": "mediocre",
+    "METONYM": "mediocre, dull, middling, plain, inferior, second-rate, undistinquished, uninspired, characterless, common, conventional, fair, fairish, humdrum, insignificant, moderate, poor quality, tolerable, passable, unexceptional"
+  },
+  {
+    "SUBJECT": "ugly",
+    "METONYM": "unattractive, repulsive, repugnant, beastly, deformed, frightful, disfigured, grotesque, hideous, homely, gross, horrid, misshapen, contorted, crippled, gnarled, mangled, disjointed, irregular, malformed, scarred, monstrous, ugly, repelling, revolting, unalluring, unsightly"
+  },
+  {
+    "SUBJECT": "corrupt",
+    "METONYM": "hardened, horrible, nasty, malicious, undignified, stealing, contemptible, craven, dastardly, degenerate, despicable, disgraceful, mean, greedy, rude, selfish, miserly, unholy, dark, chaotic, dishonorable, ignoble, corrupt, immoral, vulgar, mundane, powerful, sanctimonious"
+  },
+  {
+    "SUBJECT": "immortal",
+    "METONYM": "everlasting, eternal, perpetual, planar, immortal, timeless, infernal, abyssal, celestial"
+  },
+  {
+    "SUBJECT": "hunter",
+    "METONYM": "slayer, hunter, huntress, falconer, stalker, trapper, hawker, huntsman"
+  },
+  {
+    "SUBJECT": "killer",
+    "METONYM": "killer, assassin, butcher, cutthroat, executioner, exterminator, bowman"
+  },
+  {
+    "SUBJECT": "drink",
+    "METONYM": "ale, beer, wine, mead, spirits, water, juice, liquor, drink, sauce, extract, fluid, nectar, essence"
+  },
+  {
+    "SUBJECT": "artisan",
+    "METONYM": "shoemaker, furrier, tailor, jeweler, pastrycook, mason, carpenter, weaver, chandler, cooper, baker, scabbard maker, hatmaker, saddler, chicken butcher, purse maker, meat butcher, buckle maker, roofer, locksmith, ropemaker, tanner, rugmaker, harness maker, bleacher, cutler, glover, bottelier, cobbler, cordwainer, currier, girdler, lorimer, malemaker, saddler, scabbard maker, shoemaker, tanner, thonger, armorsmith, arrowsmith, blacksmith, bladesmith, bowyer, fletcher, iron grinder, gunsmith, gunstocker, knifesmith, lancier, linen-armorer, mailmaker, merchant taylor, poleturner, stringer, swordsmith, vaginarius, weaponsmith, blacksmith's striker, brightsmith, bronzefounder, buckle maker, coppersmith, farrier, foundryman, goldbeater, knifesmith, locksmith, redsmith, scythesmith, silversmith, smelter, smith, swordsmith, spooner, spurrer, tinker, tinsmith, weaponsmith, accoutrement maker, alabasterer, architect, arkwright, artisan, baker, balancemaker, basketmaker, beekeeper, beerbrewer, bellfounder, bellmaker, besom maker, billier, bleacher, blockcutter, bodger, bog-iron hunter, bonecarver, bookbinder, bookprinter, brazier, brewer, bricker, bricklayer, broderer, broom-dasher, brushbinder, builder, Butcher, buttonmaker, cabinetmaker, Calligrapher, campaner, canvasser, carder, cardmaker, Carpenter, Cartographer, cartwright, chainmaker, chandler, charcoalburner, cheesemaker, chicken butcher, clockmaker, clothier, coiner, combmaker, compasssmith, confectioner, Cooper, corsetier, cutler, delver, diamantaire, disher, draper, drycooper, drywaller, dyer, embroiderer, engraver, fabricshearer, feltmaker, fewtrer, fuller, furniture maker, furrier, gemcutter, gilder, glassblower, glazier, glover, gravedigger, iron grinder, Guild Master, hacker, harness maker, hatmaker, hatter, horner, ivorist, Jeweler, joiner, knacker, knapper, lacemaker, lampwright, lanternmaker, lapidary, latoner, leadworker, limeburner, limner, linen-armorer, linener, linenspinner, lutemaker, luthier, mailer, mapmaker, marler, marleywoman, Mason, master builder, meat butcher, Miller, milliner, miner, miniaturist, minter, mintmaster, moneyer, mirrorer, nailmaker, nedeller, netmaker, oilmaker, papermaker, parchmenter, pasteler, pattenmaker, Perfumer, pewterer, physician, pinmaker, plasterer, plattner, plumber, pointer, pot mender, potter, printer, purser, purse maker, quarryman, quilter, rectifier, reedmaker, roofer, roper, ropemaker, rugmaker, rugweaver, sailmaker, saltboiler, salter, sawyer, seamstress, shingler, shipwright, siever, silkmaid, silk-dresser, silk-maker, silk-mercer, silk-dyer, silk-carder, spinster, stonecarver, stonecutter, Stonemason, tailor, tallowchandler, tapestrymaker, tapicer, tasseler, tenter, thacker, threadmaker, tile-burner, tile-theeker, tile maker, treen maker, turner, typefounder, upholder, vintner, waxchandler, Weaver, webber, wheeler, wheelwright, wiredrawer, woodcarver, woodcutter, woodturner"
+  },
+  {
+    "SUBJECT": "doctor",
+    "METONYM": "apothecary, barber-chirurgeon, chirurgeon, cunning man, doctor, leech, leech-collector, midwife, nurse, pissprophet, sawbones, surgeon, toad doctor, wise woman, dead collector"
+  },
+  {
+    "SUBJECT": "merchant",
+    "METONYM": "acater, alewife, apothecary, banker, beer seller, bog iron hunter, boothman, chapman, collier, colporteur, costermonger, drover, eggler, fishmonger, fruiterer, fruitier, fueller, glass seller, greengrocer, grocer, Guild Master, harberdasher, hay merchant, hetheleder, innkeeper, ironmonger, lighterman, linen-draper, mercer, milkmaid, oil merchant, old-clothes dealer, oynter, peddler, pie seller, plumer, poulter, ragpicker, shrimper, skinner, spice merchant, spicer, stationer, taverner, thresher, waferer, waterseller, weirkeeper, wine seller, wood seller, woodmonger, wool stapler"
+  },
+  {
+    "SUBJECT": "farmer",
+    "METONYM": "farmer, reaper, grower, producer, cropper, cultivator, gardener, harvester, plower, planter, sower, cob"
+  },
+  {
+    "SUBJECT": "rancher",
+    "METONYM": "farmer, rancher, breeder, drover, herder, grazier, granger, wrangler, stockman, shepherd, ranchman, keeper"
+  },
+  {
+    "SUBJECT": "seller",
+    "METONYM": "seller, merchant, vendor, trader, dealer, marketer, agent, peddler, broker, wholesaler, handler, keeper, hawker, crier, pitcher"
+  },
+  {
+    "SUBJECT": "porter",
+    "METONYM": "carrier, porter, transporter, bearer, agent, shipper, driver, conveyor, runner, keeper"
+  },
+  {
+    "SUBJECT": "outlaw",
+    "METONYM": "robber, assassin, thief, criminal, pillager, pirate, footpad, highwayman, crook, marauder, fugitive, brigand, gangster, charlatan, fence, poacher, pickpocket, bandit"
+  },
+  {
+    "SUBJECT": "marauding",
+    "METONYM": "harassing, marauding, raiding, ransacking, ravaging, plundering, pillaging"
+  },
+  {
+    "SUBJECT": "dejected",
+    "METONYM": "disheartened, dejected, dismayed, dispirited, humiliated, discouraged, broken, crushed, depressed, demoralized, heartsick"
+  },
+  {
+    "SUBJECT": "map",
+    "METONYM": "sketch of a [PRINCIPALITY], map of a [QUEST], diagram of [FANTASYRACE] body, diagram of [MONSTER] body, scroll with an X on it, design for a mechanical [MONSTER], map of a [GEOGRAPHY]"
+  },
+  {
+    "SUBJECT": "prostitute",
+    "METONYM": "prostitute, lady of the night, courtesan, harlot, streetwalker"
+  },
+  {
+    "SUBJECT": "adventurer",
+    "METONYM": "warrior, mage, ancestral guardian, battlerager, berserker, fighter, barbarian, rogue, artificer, champion, assassin, thief, druid, cleric, ranger, adventurer, paladin, wizard, sorcerer, explorer, warlock, shaman, pathfinder, seeker, traveler, dungeoneer, cartographer, bard"
+  },
+  {
+    "SUBJECT": "barbarian",
+    "METONYM": "battlerager, berserker, barbarian, shaman, totem warrior, pathfinder, ancestral guardian"
+  },
+  {
+    "SUBJECT": "warrior",
+    "METONYM": "soldier, fighter, warrior, samurai, beast master, gloom stalker, archer, arcane archer, pikeman, horizon walker, hunter, monster slayer, guardian, ranger, paladin, knight, marine, cavalier, chevalier, man-at-arms, knight errant, champion, banneret"
+  },
+  {
+    "SUBJECT": "priest",
+    "METONYM": "oracle, druid, priest, cleric, apothecary, healer, elder, monk, kensei, curate, diviner"
+  },
+  {
+    "SUBJECT": "rogue",
+    "METONYM": "assassin, inquisitive, mastermind, swashbuckler, scout, thief, rogue, bard, balladeer, minstrel, acrobat, ninja, arcane trickter"
+  },
+  {
+    "SUBJECT": "wizard",
+    "METONYM": "wizard, mage, sorcerer, artificer, alchemist, warlock, conjurer, summoner, necromancer, spellbinder, seer, charmer, seer, theurgist, illusionist, enchanter, abjurerer, evoker, bard, transmuter, diviner, thaumaterge, augerer"
+  },
+  {
+    "SUBJECT": "commoner",
+    "METONYM": "climmer, falconer, fewterer, landlord, forester, fowler, gamekeeper, hawker, hunter, dog trainer, huntsman, horseleech, molecatcher, stablehand, parker, rat catcher, sperviter, trapper, ackerman, cowherd, crofter, dairymaid, dung carter, farmer, gardener, goatherd, hawker, hayward, horse trainer, ostler, plowman, reaper, serf, sheepshearer, shepherd, swineherd, thresher, tillerman, vintner, woodcutter, woolcomber, woolman, yeoman, farmer, herder, dairymaid, builder, bricklayer, sawyer, woodcutter"
+  },
+  {
+    "SUBJECT": "often",
+    "METONYM": "frequently, often, regularly"
+  },
+  {
+    "SUBJECT": "trainer",
+    "METONYM": "trainer, breeder, handler, instructor, master, overseer, driver, whip, assistant"
+  },
+  {
+    "SUBJECT": "manager",
+    "METONYM": "captain, commander, comptroller, trainer, head master, consul, master, guild master, manager, instructor, administrator, director, overseer"
+  },
+  {
+    "SUBJECT": "artist",
+    "METONYM": "limner, playwright, poet, artist, artist's model, musician, [INSTRUMENT] player, fresco painter, glasspainter, illuminator, painter, sculptor"
+  },
+  {
+    "SUBJECT": "soldier",
+    "METONYM": "soldier, pikeman, archer, skirmisher, knight, paladin, cavalier, cavalry, general, lieutenant, captain, captain of the guard, elite guard, sapper, captain of the guard, marshal, cannoneer, siege engineer"
+  },
+  {
+    "SUBJECT": "officer",
+    "METONYM": "admiral, captain, captain of the guard, castellan, general, lieutenant, marshal"
+  },
+  {
+    "SUBJECT": "observer",
+    "METONYM": "watcher, observer, witness, beholder, viewer, onlooker, gaper, looker, spectator, guard, sentry, sentinel, watchman, keeper, viewer"
+  },
+  {
+    "SUBJECT": "scholar",
+    "METONYM": "soothsayer, charmer, magician, abjurer, thaumaturge, augerer, sorceress, occultist, alchemist, amanuensis, apothecary, student, disciple, astrologer, barber-chirurgeon, bearleader, calligrapher, cartographer, courtesan, courtier, dean, herald, herbalist, librarian, mage, wizard, sorcerer, enchanter, necromancer, diviner, witch, warlock, conjurer, summoner, shaman, priest, sage, mathematician, scientist, academic, philosopher, poet, professor, scribe, seer, scrivener, tutor, theologian"
+  },
+  {
+    "SUBJECT": "clergy",
+    "METONYM": "abbess, abbot, almoner, anchorite, archbishop, beadle, beguine, pilgrim, bishop, canon, cantor, cardinal, cathar perfect, chantry priest, chaplain, clark, clerk, colporteur, curate, friar, hermit, metropolitan bishop, monk, nun, ostiary, palmer, acolyte, pardoner, parish priest, pilgrim, pope, priest, sacristan, sexton, summoner, theologian"
+  },
+  {
+    "SUBJECT": "royaltymale",
+    "METONYM": "Emperor, King, Archduke, Prince, Regent, Marquess, Count, Viscount, Baron, Baronet, Knight, Lord, Gentleman"
+  },
+  {
+    "SUBJECT": "royaltyfemale",
+    "METONYM": "Empress, Queen, Archduchess, Princess, Countess, Viscountess, Baroness, Baronetess, Dame, Lady, Gentlelady"
+  },
+  {
+    "SUBJECT": "entertainer",
+    "METONYM": "singer, jester, minstrel, [INSTRUMENT] player, meistersinger, piper, bard, troubadour, harper, jongleur, juggler, dancer, nakerer, fiddler"
+  },
+  {
+    "SUBJECT": "sailor",
+    "METONYM": "admiral, captain, buccaneer, pirate, pirate captain, sailor, deckhand, galley cook, bargeman, boatman, boatwright, canaller, ferryman, fisherman, hobbler, rower, lighter man, mariner, cartographer, navigator, riverboat pilot, sail maker, sea captain, ship's captain, shipchandler, ship provisioner, waterman"
+  },
+  {
+    "SUBJECT": "government",
+    "METONYM": "bailiff, catchpole, chancellor, chancery clerk, cofferer, coin-stamper, constable, diplomat, exchequer, herald, jailer, judge, keeper of the privy seal, keeper of the rolls, keeper of the wardrobe, lord high steward, marshal, master of the revels, pinder, pursuivant, reeve, seneschal, sheriff, steward, tax collector, toll keeper, town crier, treasurer, watchman, woodward"
+  },
+  {
+    "SUBJECT": "gave",
+    "METONYM": "gifted, gave, released, allotted, allocated, conferred, bequeathed, delivered, contracted, relinquished, consigned, deeded, awarded, accorded, presented, remitted, ceded"
+  },
+  {
+    "SUBJECT": "sold",
+    "METONYM": "traded, sold, peddled, hawked, contracted, exchanged, wholesaled, granted, endowed, conceded, released, delivered"
+  },
+  {
+    "SUBJECT": "slavetrader",
+    "METONYM": "lanista, slave trader, whoremonger, flesh-peddler, hustler, slaver, labor procurer"
+  },
+  {
+    "SUBJECT": "lowerservant",
+    "METONYM": "waiter, barman, bartender, cook, innkeeper, tavernkeeper, shoe shiner, dung sweeper, ostler, chimney sweep, chirurgeon, clouter, coistsell, cook, copyist, courtier, currier, dapifer, ditcher, diver, gardner, gong farmer, groom, groom of the stool, guide, harlot, hurdle maker, innkeeper, lady's maid, laundress, lawyer, leech, legerdemainist, link boy, link man, maid, maidservant, messenger, midwife, miller, napier, nurse, panter, paperer, pavior, pavyler, pissprophet, poet, porter, potboy, privy-cleaner, procurator, prostitute, quartermaster, rag and bone man, raker, rat catcher, restaurateur, wheel turner, riveter, royal food taster, sawbones, scribe, scullion, scullery maid, seneschal, serf, servant, sin-eater, smelter, solicitor, sperviter, stabler, stainer, steward, stillroom, surgeon, tapster, teamster, toad doctor, treadmill worker, trencherman, userer, valet, wagoner, waller, water carrier, wattler, weeper, wetnurse, doctor, drayman, dresser, dung carter, executioner, famulus, farrier, ferryman, fortune teller, gardner, accomptant, accoucheur, accoucheus, accountant, actuary, amanuensis, attendant, bagger, barber-chirurgeon, barrister, bath attendant, bather, bodyguard, bodyservant, butler, carman, carter, cartier, carver, ceiler, cellarer"
+  },
+  {
+    "SUBJECT": "plantservant",
+    "METONYM": "waitress, buttler, ale-conner, pantler, cook, baker, desert chef, brewer, gardener, slaughterer, master of hounds, fruiterer, chef, scullion, laundress, personal attendant, confectioner, cellarer, poulter, larderer, scalder, saucer, steward, master of wardrobe"
+  },
+  {
+    "SUBJECT": "village",
+    "METONYM": "village, thorp, tribe, band, homestead, hamlet, crossroads, settlement"
+  },
+  {
+    "SUBJECT": "town",
+    "METONYM": "town, community, burg, township, locality"
+  },
+  {
+    "SUBJECT": "city",
+    "METONYM": "city, metropolis, municipality, borough, megalopolis"
+  },
+  {
+    "SUBJECT": "hirelings",
+    "METONYM": "bearer, porter, carpenter, worker, hireling, limner, linkboy, mason, fletcher, leather worker, laborer, valet, lackey, scout, guide, mercenary"
+  },
+  {
+    "SUBJECT": "hirelingsexpert",
+    "METONYM": "alchemist, apothecary, gemcutter, jeweler, pikeman, sage, ship crew, ship master, spy, steward, castellan, [WEAPONGROUPS] [CRAFTSMAN], lieutenant, scribe, artisan, mage, armorer, blacksmith, engineer, architect, sapper, archer, captain, crossbowman, heavy footman, light footman, [ADVENTURER], horseman archer, horseman crossbowman, medium horseman, heavy horseman, light horseman"
+  },
+  {
+    "SUBJECT": "luxuries",
+    "METONYM": "jewelry, gemstone, tapestry, jewel, carpet, spice, slave, [FINEFABRIC], crystal, furniture, porcelain, painting, tea, tobacco, chocolate, coffee, sculpture, [PRECIOUSMETAL], [FABRIC], salt, sugar"
+  },
+  {
+    "SUBJECT": "castle",
+    "METONYM": "fort, castle, tower, acropolis, hall, citadel, alcazar, camp, blockhouse, garrison, station, manor, fasthold, chateau, donjon, fortress, keep, high castle, chateaux, palace, safehold, stronghold, villa, bastion, hold, fortification, estate house, estate"
+  },
+  {
+    "SUBJECT": "vagabond",
+    "METONYM": "beggar, buffoon, urchin, wanderer, transient, hobo"
+  },
+  {
+    "SUBJECT": "culture",
+    "METONYM": "Cherokee, Swahili, Aztec, Mayan, Olmec, Incan, Nubian, Viking, Mongolian, Chinese, Kabuki, Phoenician, Aboriginal, Sioux, Apache, Eskimo, Inuit, Hittite, Assyrian, Persian, African, Celtic, Samoan, Maori, Polynesian, Egyptian, Sumatran, Buddhist, Japanese"
+  },
+  {
+    "SUBJECT": "trained",
+    "METONYM": "educated, trained, prepared, instructed, taught, cultivated, developed, tutored, sharpened your skills, coached, guided, molded"
+  },
+  {
+    "SUBJECT": "bladedesc",
+    "METONYM": "sharp-edged, very sharp, fancy, dull, razor-sharp, sharpened, keen, tapering, pointed, jagged, edgeless, dulled, honed, chipped, whetted, spiked, pronged, broken, cracked, serrated, narrow"
+  },
+  {
+    "SUBJECT": "bludgeondesc",
+    "METONYM": "heavy, light, top heavy, unbalanced"
+  },
+  {
+    "SUBJECT": "weapondescription",
+    "METONYM": "heavy, light, lightweight, broken, cracked, serrated, well-balanced, master-crafted, well-crafted, well-forged, ancient, new"
+  },
+  {
+    "SUBJECT": "cherished",
+    "METONYM": "loved, adored, prized, cherished, admired, revered, honored, beloved, favored"
+  },
+  {
+    "SUBJECT": "adventuring",
+    "METONYM": "ambling, straggling, strolling, rambling, dying, slaying, marauding, murdering, adventuring, [MONSTER] slaying, exploring, questing, crusading"
+  },
+  {
+    "SUBJECT": "hermit",
+    "METONYM": "hermit, recluse, ascetic, eremite, shut-in, convalescent"
+  },
+  {
+    "SUBJECT": "raised",
+    "METONYM": "taken care of, beloved, cared for, raised, loved, cherished, beloved and cherished, protected, loved and protected, cherished and spoiled, brought up, reared, treated well, cultivated"
+  },
+  {
+    "SUBJECT": "geography",
+    "METONYM": "cliff, stream, creek, gully, continent, archipelago, valley, crater, chimney, rock, rim, plateau, fissure, coastline, dune, key, eyelet, burrow, sinkhole, arches, arch, bald, sinkhole, highland, upland, lowland, waves desert, flat, hole, canyon, crag, volcano, island, butte, geyser, basin, spring, peninsula, archipelago, reef, peak, beach, coast, waste, knoll, bay, tube, cave, cavern, falls, ridge, sea, inlet, plain, foothill, volcano, mountain, fjord, lake, river, mount, gorge, waterfall, glacier, floe, oasis, pool"
+  },
+  {
+    "SUBJECT": "illustrious",
+    "METONYM": "illustrious, distinguished, great, eminent, renowned, lofty, honorable, first, high, highest, grand, splendid, noble, celebrated, resplendent, brilliant, exalted, famed, glorious"
+  },
+  {
+    "SUBJECT": "naturedetail",
+    "METONYM": "water, ice, fire, lightning, acid, highland, celestial, sand, liver, wild, kidney, scar, holy, northern, southern, eastern, western, evil, good, anarchy, justice, chaotic, lawful, neutral, magical, terrace, dead, rocking, rock, gods, mud, hot, cold, chiseled"
+  },
+  {
+    "SUBJECT": "wonders",
+    "METONYM": "statue, pyramid, garden, colossus, alter, ziggurat, colosseum, dais, step pyramid, bridge, lighthouse, wall, statue, pillar, tablet, minaret, turret, obelisk, monolith, tower, colonade, mausoleum, monument"
+  },
+  {
+    "SUBJECT": "doom",
+    "METONYM": "dread, doom, misery, cataclysm, disaster, darkness, sleep, lost paradise, graves, dissolution, demise, departure, oblivion, parting, passing, quietus, repose, silence, ruin, ruination, annihilation, destruction, tragedy, judgment, fortune, misfortune, death, extinction"
+  },
+  {
+    "SUBJECT": "dungeon",
+    "METONYM": "den, dungeon, bastille, caves, cave, pits, prison, hill, deep, pyramid, graves, grave, [TEMPLE], peaks, mountain, delve, undercity, crypts, quarry, pass, mines, throne, stockade, chasm, depth, vault, canyon, barrens, necropolis, battlements, garrison, keep, acropolis, fortress, citadel, manor, mansion, tower, alcazar, stronghold, fasthold, estate, chateau, tomb, palace, crypt, ruins"
+  },
+  {
+    "SUBJECT": "deity",
+    "METONYM": "god, goddess, deity, pantheon, celestial, creator, godhead, behemoth, being, demigod, demigoddess, archangel, being, messenger, demon, devil, fiend, hellion, beast, archfiend, dragon, leviathan, phoenix, titan, villain"
+  },
+  {
+    "SUBJECT": "domains",
+    "METONYM": "fire, ice, life, earth, wind, water, air, elemental, healing, knowledge, magic, plant, strength, nature, darkness, death, forge, arcana, light, luck, night, order, sun, moon, sky, underworld, beast, chaos, law, destruction, protection, shadow, trickery, travel, tempest, virtue, war"
+  },
+  {
+    "SUBJECT": "elemental",
+    "METONYM": "fire, ice, steam, magnetic, lightning, magma, lava, rock, earth, cloud, fog, water, sonic, acid, water, plasma, wind"
+  },
+  {
+    "SUBJECT": "tomb",
+    "METONYM": "vault, tomb, mausoleum, catacomb, crypt, last home, grave, burial place, monument, mound"
+  },
+  {
+    "SUBJECT": "compounddescriptor",
+    "METONYM": "great, grand, wild, land, big, north, south, east, evil, good, little, tiny, small, upper, lower, high, low"
+  },
+  {
+    "SUBJECT": "mineral",
+    "METONYM": "salt, crystal, sulfur, gypsum, quartz, kyanite, mica, pyrite, chromite, cobalt, granite, feldspar, flourite, lithium, lead, manganese, mica, nickel, phosphate, perlite, phosphate, potash, silica, trona, titanium, iron, tungsten, uranium, zeolite, zinc"
+  },
+  {
+    "SUBJECT": "mineralsbasic",
+    "METONYM": "salt, crystal, marble, quartz, lead, potash, iron, zinc, stone, sandstone, granite"
+  },
+  {
+    "SUBJECT": "hobby",
+    "METONYM": "write creatively, draw, dance, knit, paint, cook, hike, exercise, sew, archery, bird-watch, play chess, crochet, play the [INSTRUMENT], bake, embroider, pottery, ride horses, calligraphy, collect [COLLECTION], swim, make toys, brew ale"
+  },
+  {
+    "SUBJECT": "collection",
+    "METONYM": "bird feathers, animal pelts, animal skulls, enemy heads, antlers, rocks, crystals, semiprecious stones, horns, monster claws, musical instruments, stuffed fish"
+  },
+  {
+    "SUBJECT": "rescued",
+    "METONYM": "taken in, found, rescued, freed, recovered, retrieved"
+  },
+  {
+    "SUBJECT": "cosmos",
+    "METONYM": "universe, planet, solar system, star, binary stars, moon, crescent moon, rainbow, galaxy, meteor, asteroid, meteor shower"
+  },
+  {
+    "SUBJECT": "abused",
+    "METONYM": "did not care for, ignored, deserted, abused, victimized, caged, depredated, violated, attacked, locked you in the cellar, accosted, assailed, mistreated, hurt"
+  },
+  {
+    "SUBJECT": "tortured",
+    "METONYM": "abused, victimized, tortured, scarred, caged, assaulted, mutilated, depredated, violated, beaten, attacked, accosted, assailed, mistreated, hurt"
+  },
+  {
+    "SUBJECT": "largefarmanimal",
+    "METONYM": "cow, ox, horse, mule, yak, donkey, sheep, goat, swine"
+  },
+  {
+    "SUBJECT": "farmanimal",
+    "METONYM": "cow, ox, horse, mule, yak, cow, swine, pig, chicken, duck, fowl, donkey, dog, sheep, goat, swine"
+  },
+  {
+    "SUBJECT": "mammalland",
+    "METONYM": "bobcat, aardvark, pony, cheetah, chimpanzee, raccoon, kob, uakaris, wallaby, deer, wildebeest, wolverine, wolf, zebra, flying fox, lowland gorilla, water buffalo, warthog, tapir, gazelle, sloth, tasmanian devil, skunk, grizzly, bear, hyena, squirrel, bear, sifaka, lemur, bighorn, mandrill, nutria, porcupine, prairie dog, meerkat, pronghorn, mongoose, rat, mole rat, goat, platypus, gorilla, ocelot, opossum, orangutan, lemur, mouse, musk-ox, llama, lynx, chipmunk, panda, anteater, otter, gibbon, kinkajou, koala, hedgehog, hippopotamus, impala, jaguar, horse, monkey, giraffe, leopard, bat, elk, fossa, groundhog, tamarin, wombat, rabbit, elephant, dog, rabbit, cougar, coyote, dingo, cat, dog, hippo, kangaroo, caribou, camel, fox, hare, armadillo, rhino, lion, aye-aye, baboon, beaver, bear, tiger, ferret, rhinoceros"
+  },
+  {
+    "SUBJECT": "reptile",
+    "METONYM": "lizard, snake, skink, turtle, viper, mamba, rattlesnake, tortoise, skink, chameleon, caiman, monitor lizard, tegu lizard, adder, asp, anaconda, python, boa, crocodile, alligator, gecko, iguana"
+  },
+  {
+    "SUBJECT": "insect",
+    "METONYM": "beetle, ant, butterfly, mosquito, ladybug, fly, mantis, flea, cricket, wasp, bee, moth, termite, bug, grasshopper, dragonfly"
+  },
+  {
+    "SUBJECT": "amphibian",
+    "METONYM": "salamander, frog, newt"
+  },
+  {
+    "SUBJECT": "mammalwater",
+    "METONYM": "whale, dolphin, dugong, porpoise, whale, whale, seal, walrus, manatee, narwhal, nutria, otter, sea lion, platypus"
+  },
+  {
+    "SUBJECT": "planar",
+    "METONYM": "Plane of Fire, Elysium, Plane of Anarchy, Celestial Plane, Astral Plane, Plane of Justice, Beastlands, Arborea, Ysgard, Limbo, Pandemonium, Arcadia, Mount Celestia, Bytopia, Mechanus, Acheron, Nine Hells, Gehenna, Hades, Carceri, Abyss, Plane of Air, Shadowfell, Feywild, Temporal Plane, Plane of Earth, Plane of Water"
+  },
+  {
+    "SUBJECT": "pet",
+    "METONYM": "snake, cat, dog, rabbit, hamster, lizard, sheep, donkey, sugar glider, llama, cow, iguana, mouse, turtle, horse, chinchilla, alpaca, gerbil, spider, guinea pig, hedgehog, goat, fish, parrot, pony, rat, crow, constrictor snake, ferret, pig, mule, squirrel"
+  },
+  {
+    "SUBJECT": "terrain",
+    "METONYM": "forest, desert, plains, canyon, crags, valley, river basin, coast, swampland, ravine, bogs, caverns, caves, ice caves, ice caverns, tundra, arctic, woodlands, savanna, hills, tropical forest, grasslands, chaparral, taiga, mountains, plateau"
+  },
+  {
+    "SUBJECT": "neglected",
+    "METONYM": "not cared for, neglected, ignored, undervalued, disregarded, avoided, overlooked, disparaged, discounted, underestimated"
+  },
+  {
+    "SUBJECT": "hated",
+    "METONYM": "hated, disliked, despised, abhorred, detested, loathed, shunned, cursed, secretly wanted to kill"
+  },
+  {
+    "SUBJECT": "illness",
+    "METONYM": "an unknown affliction, food poisoning, cold plague, corruption, dengue, deplumation, enteric fever, rickets, rubeola, scarlatina, scirrhus, scrofula, ghostly wrath, swamp sickness, tick fever, viper's dance, winter fever, worm fits, yellowjacket, septicemia, influenza, stranger's fever, a werewolf's bite, a vampire's kiss, a dragon's breath, a troglodyte's bite, ship fever, devil fits, king's evil, coughing fever, lockjaw, lung fever, miasmic breath, mormal, necrosis, paroxysm, pleurisy, putrid fever, puking fever, mortification, necrosis, beast mania, green fever, glandular fever, hemetemesis, demon horrors, impetigo, dysentery, malaria, diphtheria, jail fever, typhoid fever, smallpox, leprosy, bad blood, bilious fever, black plague, black pox, blackwater fever, brain fever, breakbone, catalepsy, canine madness"
+  },
+  {
+    "SUBJECT": "illnessbase",
+    "METONYM": "affliction, poisoning, death, palsy, plague, fever, wrath, sickness, disease, condition, contamination, cancer, epidemic, flu, illness, malady, disorder, contagion, seizures, misery, fits, infection, inflammation, virus"
+  },
+  {
+    "SUBJECT": "defineillness",
+    "METONYM": "barrel, breakbone, camp, chalkstone, mad, food, hopping, dancing, melancholy, mortification, ship, bone, scrum, house, merchant, walking, running, winter, spring, summer, memory, autumn, congestive, consumption, dropsy, brain, head, face, stomach, heart, skin, frigid, grippe, jail, lumbago, madness, domestic, blood, falling"
+  },
+  {
+    "SUBJECT": "emote",
+    "METONYM": "crying, disappearing, talking, hungry, thirsty, singing, chirping, screaming, cawing, sleeping, praying, hunting, dieing, walking, running, dancing, prancing, hopping, twirling, baking, cooking, frying, tiptoeing, sneaking, stalking, standing, flying, hovering, leering, juggling, drowning, lazy, tired, yawning, adoring, rowing, [UNHAPPY], laughing, angry, weeping, berzerk"
+  },
+  {
+    "SUBJECT": "acting",
+    "METONYM": "crying, disappearing, talking, singing, clapping, chirping, screaming, cawing, staring, sleeping, loving, praying, hunting, dieing, walking, running, dancing, prancing, hopping, twirling, baking, cooking, fighting, battling, frying, tiptoeing, sneaking, stalking, standing, spell-casting, flying, hovering, leering, juggling, drowning, yawning, waving, rowing, laughing, weeping, raging"
+  },
+  {
+    "SUBJECT": "sneaky",
+    "METONYM": "devious, sneaky, shifty, sly, tricky, cowardly, deceitful, furtive, slippery, stealthy"
+  },
+  {
+    "SUBJECT": "accident",
+    "METONYM": "lightning struck, a [MAGICAL] [EXPLOSION], was crushed by a falling tree, fell from a [HIGHPLACE], when eating the wrong mushrooms poisoned her, when she drowned while [WATERACTIVITY], when she was kicked in the [BODYPART] by a [LARGEFARMANIMAL], by a tirading [MONSTER], from a stampede of [LARGEFARMANIMAL]s, when her horse and buggy plunged her into a ravine, from a plowing mishap, when her boat sank in the harbor, from a regional famine, during childbirth, by a fish she had caught, when she froze to death lost in the [TERRAIN], when a building fell on them, while on the privy"
+  },
+  {
+    "SUBJECT": "highplace",
+    "METONYM": "roof, bunkbed, cliff, [FLYINGMOUNT], stairs, tree, ladder, subterranean cliff, pit trap"
+  },
+  {
+    "SUBJECT": "humor",
+    "METONYM": "wit, humor, cleverness, gumption, pleasantry, jesting, jocularity, wittiness, banter, fun, playfulness, buffoonery, drollery, gaiety, jocoseness, whimsy"
+  },
+  {
+    "SUBJECT": "funny",
+    "METONYM": "funny, amusing, entertaining, ludicrous, playful, silly, droll, jolly, witty, mirthful, priceless, riotous, side-splitting, raucous, merry"
+  },
+  {
+    "SUBJECT": "scene",
+    "METONYM": "[MONSTERTYPE] [MONSTER] and a [ADVENTURER] facing off, [MONSTERTYPE] [MONSTER] in a [UGLY] [GEOGRAPHY], [BEAUTIFUL] [PLANT] in a [UGLY] [GEOGRAPHY], [DEPICTION] [ADVENTURER] in a [BEAUTIFUL] [GEOGRAPHY], [MONSTER] fighting a [MONSTER], [FANTASYRACE] [PEASANT] [ACTING] with a [DEPICTION] [CAREER], [REPTILE] and a [MAMMALLAND] [ACTING], [COMMONER] [WATERACTIVITY], [ADVENTURER] riding a [MONSTER], [ADVENTURER] riding a [FLYINGMOUNT], [FANTASYRACE] army attacking a [CASTLE], [ADVENTURER] destroying a [CASTLE], [MONSTER] destroying a [CASTLE], [DEPICTION] [MONSTER] and a [DEPICTION] [ADVENTURER], [DEPICTION] [ROYALTYMALE] with a [DEPICTION] [ROYALTYFEMALE] in a [CASTLE] in the [TERRAIN], [GEOGRAPHY] of [DOOM], [MONSTER] kissing a [ADVENTURER], [ADVENTURER] fighting a [ADVENTURER], [MONSTER] intertwined with a [PLANT], [ADVENTURER] battling a [MONSTER], [MAGICITEMDEFINITION] [GEOGRAPHY], [PRINCIPALITY] on the [PLANAR], [ADVENTURER] and a [MAMMALLAND]"
+  },
+  {
+    "SUBJECT": "shapes",
+    "METONYM": "heptagon, circle, square, triangle, sphere, 3-pointed star, 4-pointed star, 5-pointed star, 6-pointed star, 8-pointed star, crescent, cuboid, ellipsoid, cylinder, triangular prism, hexagonal prism, hexagonal pyramid, square-pyramid, triangle-pyramid, rectangle, oval, tetrahedron, octahedron, dodecahedron, icosahedron, cube, cone, octagon, hexagon, pentagon, diamond, rhombus, trapezium, parallelogram, kite, decagon, nonagon"
+  },
+  {
+    "SUBJECT": "flyingmount",
+    "METONYM": "bird, dragon, griphon, griffin, wyvern, airship, pegasus, hippogriff, nightmare, peryton, androsphinx, gynosphinx, giant eagle, giant raven, pteranodon, flying carpet, giant vulture, giant hawk, giant bat, giant owl"
+  },
+  {
+    "SUBJECT": "region",
+    "METONYM": "region, lands, estate, property, acreage, farmland, parcel, grounds, island, tract of land, subcontinent, parcel, continent, area, field"
+  },
+  {
+    "SUBJECT": "principality",
+    "METONYM": "kingdom, county, [DISTRICT], world, locality, homeland, neighborhood, realms, locality, province, sector, empire, dominion, suzerainty, territory, state, nation, dynasty, country, domain, principality, commonwealth, city-state"
+  },
+  {
+    "SUBJECT": "topicaldistrict",
+    "METONYM": "philosphy, architecture, business, seaside, shipping, magic, harbor, artisan, guild, crafts, trade, noble, royalty, scholar, sovereign, trades, market, arcane, queen, king, prayer, morality, piety, theology, alchemy, apothecary, arts"
+  },
+  {
+    "SUBJECT": "district",
+    "METONYM": "ward, district, quarter, center, heights, triangle, avenue, boulevard, lane, road, passage, street, alley, castle, fort, palisade, wall, court, hill, slope, corner, parish, precinct, diamond, point, sanctuary, area, sector, field, stretch, tract, zone, canton, block, domain, lawn, estate, plaza, woodland, green, parkland, garden, dominion, patch, oratory, ground, hippodrome, community, section, turf, market, arena, commons, exchange, bazaar, square, circle, park, coliseum, circus"
+  },
+  {
+    "SUBJECT": "wateractivity",
+    "METONYM": "swimming, exploring a sunken ship, rescuing her child, rescuing a friend, bathing, washing clothes, canoeing, sailing, pearl diving, clam diving, attacked by a [WATERMONSTER], studying sea life, underwater cave exploring"
+  },
+  {
+    "SUBJECT": "afflicted",
+    "METONYM": "suffered a bout with, had a long struggle with, lost a short fight with, blighted with, became blinded from, succumbed to, was poisoned by, quickly deteriorated from, became paralyzed from, was half-paralyzed by, became insane from, was driven mad by, became deranged from"
+  },
+  {
+    "SUBJECT": "instrument",
+    "METONYM": "flute, lute, lyre, harp, drums, shawm, bagpipes, psaltery, bladder-pipe, hurd-gurdy, organetto, cornamus, dulcians, harpsichord, gemshorn, kortholt, mute, cornett, viol"
+  },
+  {
+    "SUBJECT": "crazy",
+    "METONYM": "mad, crazy, nutty, daft, demented, deranged, mad as a hatter, erratic, lunatic, berserk, bizarre, idiotic, irresponsible, psychotic, senseless, paranoid, insane"
+  },
+  {
+    "SUBJECT": "boat",
+    "METONYM": "barge, canoe, boat, catamaran, raft, sailboat, schooner, sailing ship, ship, galleon, hulk, cog, knarr, balinger, dromon, caravel, carrack, dhow"
+  },
+  {
+    "SUBJECT": "cruel",
+    "METONYM": "cruel, wicked, hateful, fierce, ferocious, savage, relentless, heartless, evil, unkind, tyrannical, hostile, adverse, bestial, spiteful, merciless, harsh, bitter, coldhearted, callous, grim, unsparing, ruthless, brutal, malignant, depraved, malevolent, pernicious, vengeful, rancorous, demonic"
+  },
+  {
+    "SUBJECT": "jovial",
+    "METONYM": "jovial, cheery, chipper, festive, cordial, jolly, affable, amiable, delightful, good-natured, friendly, genial, blithe, merry, nutty, mirthful, lighthearted, carefree, happy"
+  },
+  {
+    "SUBJECT": "loving",
+    "METONYM": "affectionate, loving, attentive, compassionate, amiable, gracious, gentle, merciful, warmhearted, pitying, charitable, benevolent, caring, devoted, warm, tender, benign, tenderhearted, altruistic, kindly, merciful, softhearted, doting, attentive, philanthropic, generous, beneficent"
+  },
+  {
+    "SUBJECT": "chivalrous",
+    "METONYM": "valiant, benevolent, heroic, gallant, courtly, honorable, cordial, intrepid, magnanimous, quixotic, sublime, valorous, polite, courteous, lofty, illustrious, principled, ethical, law-abiding, sincere, trustworthy"
+  },
+  {
+    "SUBJECT": "famous",
+    "METONYM": "famous, notable, legendary, distinguished, acclaimed, eminent, honored, illustrious, prominent, important, influential, notorious, infamous, splendid, memorable, powerful, preeminent, well-known, elevated, exalted, foremost"
+  },
+  {
+    "SUBJECT": "unhappy",
+    "METONYM": "unhappy, sad, bitter, disconsolate, distressed, doleful, forlorn, gloomy, heartsick, heavyhearted, melancholy, mournful, pessimistic, somber, sorrowful, wistful, bereaved, dejected, despairing"
+  },
+  {
+    "SUBJECT": "playerconditions",
+    "METONYM": "paralyzed, frightened, poisoned, blinded, charmed, deafened, fatigued, grappled, incapacitated, invisible, petrified, prone, stunned, restrained, unconscious"
+  },
+  {
+    "SUBJECT": "craftsman",
+    "METONYM": "craftsman, maker, wright, master, expert, worker, forger, adept, technician, maven, smith, specialist"
+  },
+  {
+    "SUBJECT": "cutter",
+    "METONYM": "lumberjack, cutter, logger, chopper, lumberman, bucker, feller, birler, lumberer"
+  },
+  {
+    "SUBJECT": "stoic",
+    "METONYM": "stoic, philosophical, ambivalent, apathetic, impassive, uncaring, unemotional, unsympathetic, calm, detached, patient, enduring, emotionless, indifferent, uninterested, callous, reticent, cold, dispassionate, aloof"
+  },
+  {
+    "SUBJECT": "stern",
+    "METONYM": "iron-nosed, flint-nosed, flinty, grim, hard-nosed, harsh, rigid, steely, strict, tough, ascetic, stiff-necked, authoritarian, austere, bullheaded, mulish, relentless, stubborn, unyielding"
+  },
+  {
+    "SUBJECT": "intimidating",
+    "METONYM": "intimidating, frightening, terrifying, bullying, distressing, bothersome, cantankerous, nagging, disagreeable, annoying, aggravating, troublous, upsetting, unpleasant, contemptible, churlish, dishonorable, lousy, rotten, shameless, vexatious, terrorizing, dreadful, frightful, terrible, vile, evil, nasting, vicious, ignoble"
+  },
+  {
+    "SUBJECT": "frightening",
+    "METONYM": "frightening, terrifying, terrorizing, ghastly, dire, nasty, unpleasant, harrowing, hideous, gruesome, horrendous, horrific, tirading, dreadful, scary, grim, awful, horrid, horrible, frightful, terrible, vile, evil, vicious"
+  },
+  {
+    "SUBJECT": "admired",
+    "METONYM": "admired, appreciated, respected, was crazy about, delighted in, thought highly of, highly regarded, revered, honored, applauded, lauded, idolized, worshipped, esteemed, glorified, venerated"
+  },
+  {
+    "SUBJECT": "lonely",
+    "METONYM": "lonely, solitary, reclusive, lonesome, disconsolate, outcast, estranged, secluded, unsocial, withdrawn"
+  },
+  {
+    "SUBJECT": "adopted",
+    "METONYM": "fostered, adopted, chosen, fate-picked"
+  },
+  {
+    "SUBJECT": "pleasant",
+    "METONYM": "amiable, amusing, cordial, delightful, gracious, delightful, likable, elegant, charming, charismatic, sweet, amicable, congenial, nice, warm, agreeable, pleasant, likable, pleasant, friendly, affable, benign"
+  },
+  {
+    "SUBJECT": "lavish",
+    "METONYM": "expensive, lavish, fancy, high-end, costly, elegant, gaudy, ornate, elaborate"
+  },
+  {
+    "SUBJECT": "moral",
+    "METONYM": "moral, moralistic, ethical, good, wholesome, noble, without reproach, untarnished, principled, righteous, innocent, worthy, conscientious, courteous, upright, dutiful, exemplary, high-minded, honorable, immaculate, respectable, exemplary, saintly, truthful, virtuous, seemly"
+  },
+  {
+    "SUBJECT": "quiet",
+    "METONYM": "muted, peaceful, reticent, reserved, modest, unpretentious, unassuming, plain, timid, shy, meek, diffident, prim, bashful, demure, diffident"
+  },
+  {
+    "SUBJECT": "brash",
+    "METONYM": "brassy, obnoxious, raucous, cheeky, rude, coy, sheepish, elitist, backward, gaudy, vulgar, brazen, proud, crass, brash, lurid, arrogant, impetuous, cheeky, cocky, tawdry, flashy, brassy, garish"
+  },
+  {
+    "SUBJECT": "artistic",
+    "METONYM": "creative, aesthetic, dramatic, imaginative, musical, graceful, poetic, stylish, cultivated"
+  },
+  {
+    "SUBJECT": "brave",
+    "METONYM": "courageous, venturesome, brave, daring, dashing, fearless, foolhardy, gallant, gutsy, adventurous, confident, spunky, hardy, herolike, indomitable, lionhearted, plucky, unabashed, unafraid, unfearful, undauntable, heroic, resolute, militant"
+  },
+  {
+    "SUBJECT": "cowardly",
+    "METONYM": "cowardly, fearful, cautious, unadventurous, dastardly, apprehensive, chicken-hearted, cowering, anxious, jittery, cowhearted, gutless, craven, spineless, recreant, lily-livered, nervous, yellow-bellied"
+  },
+  {
+    "SUBJECT": "hardworking",
+    "METONYM": "diligent, hard-working, ambitious, accomplished, impressive, attentive, indefatigable, laborious, attentive, industrious, persevering, productive, energetic, active, purposeful, dynamic, tireless"
+  },
+  {
+    "SUBJECT": "scholarly",
+    "METONYM": "scholarly, brilliant, collegiate, cerebral, rational, calculating, smart, enlightened, exceptional, ingenious, inventive, intellectually gifted, demiurgic, highbrow, highbrowed, intelligent, wise, contemplative, rational, intellective, intellectual, scholastic, studious, brainy, knowledgeable, erudite, studious, bookish, learned, philosophical, industrious, thoughtful, academic, meditative"
+  },
+  {
+    "SUBJECT": "religious",
+    "METONYM": "religious, faithful, inspired, sectarian, wise, theological, spiritual, enlightened, blessed, judicious, knowledgeable, prudent, sensible, clever, understanding, doctrinal, devout, god-fearing, pontifical, devotional, deistic, pietistic, prayerful"
+  },
+  {
+    "SUBJECT": "died",
+    "METONYM": "perished, passed away, died, was killed"
+  },
+  {
+    "SUBJECT": "imprisoned",
+    "METONYM": "jailed, locked in the dungeon, arrested, incarcerated, put in prison, locked up, detained, taken into custody by the [GOVERNMENT], imprisoned"
+  },
+  {
+    "SUBJECT": "disappeared",
+    "METONYM": "vanished, disappeared, absconded, ran away"
+  },
+  {
+    "SUBJECT": "abandoned",
+    "METONYM": "abandoned, forsook, disavowed, dumped, kissed goodbye to, discarded, lost, renounced, ditched, left, surrendered, relinquished, disowned, rejected, deserted"
+  },
+  {
+    "SUBJECT": "orphanage",
+    "METONYM": "orphanage, cloisterham, cloister, monastery, temple, churge, priory, abbey"
+  },
+  {
+    "SUBJECT": "guild",
+    "METONYM": "guild, association, affiliation, clan, pack, sorority, sodality, syndicate, tribe, troupe, troops, menagerie, coalition, confederacy, confederation, cooperative, crew, family, fellowship, gang, union, group, organization, partnership, ring, society, club, company, order, lodge, league, alliance, circle, council, fraternity, federation, foundation, authority"
+  },
+  {
+    "SUBJECT": "university",
+    "METONYM": "university, academy, college, school, training institution, institute, department, halls of"
+  },
+  {
+    "SUBJECT": "temple",
+    "METONYM": "cloisterham, cloister, monastery, temple, chapel, mosque, idol, pagoda, shrine, temple, pantheon, cathedral, sepulcher, grave, mausoleum, sanctuary, holy place, sanctum, altar, sacrarium, sanctorium, scaellum, seminary, priory, abbey, friary, chapel, basilica, bethel, oratory, tabernacle, synagogue, chancel, chantry, shrine, sanctuary, parish, mosque, cathedral, church"
+  },
+  {
+    "SUBJECT": "killed",
+    "METONYM": "slayed, decapitated, struck down, killed, gored, massacred, disemboweled, slaughtered, immolated"
+  },
+  {
+    "SUBJECT": "murdered",
+    "METONYM": "assassinated, slayed, tortured to death, murdered, drowned, crucified, impaled, decapitated, struck down, beheaded, hanged, impaled, killed, stabbed to death, clubbed to death, executed, hung by the neck"
+  },
+  {
+    "SUBJECT": "ailed",
+    "METONYM": "became sick with, was afflicted with, was troubled by, was ailed by, was sickened with, fell ill with, took ill with, was affected by"
+  },
+  {
+    "SUBJECT": "injured",
+    "METONYM": "broken bone, clawed, raked, crushed, destroyed, lacerated, severed, opened, pummeled, tore open, scraped, stabbed, slashed, bludgeoned, mangled"
+  },
+  {
+    "SUBJECT": "size",
+    "METONYM": "great, small, minor, greater, major, middling, tiny, huge, large, enormous, medium, average, gigantic"
+  },
+  {
+    "SUBJECT": "large",
+    "METONYM": "great, greater, major, huge, large, enormous, gigantic, enormous, colossal, extensive, giant, humongous, immense, vast, mammoth, monstrous, monumental, towering"
+  },
+  {
+    "SUBJECT": "monstertype",
+    "METONYM": "young, elder, giant, fairy, flying, digger, fire, psychic, water, ice, earth, sky, lightning, electric, acid, necro, iron, mud, copper, elemental, ferrous, magma, gold, brass, corpse, zombie, skeleton, wind, blind, purple, mercury, steel, rock, hungry, angry, lonely, little, lost, howling, epic, legendary, golden, wretched, violet, sun, moon, rot, necrotic, storm, hill, frost, miniature, cloud, ring, underworld, venom, tomb, death, silver, shield, slithering, sword, axe, shriek, shadow, mechanical, stone, flesh, brain, flash, bronze, electrum, platinum, white, silver, mono, tri, quadro, giga, deca, octo, mega, poisonous, black, blue, green, red, yellow, orange, pearl, adult"
+  },
+  {
+    "SUBJECT": "fled",
+    "METONYM": "fled, escaped, ran, raced, scrambled, slipped away"
+  },
+  {
+    "SUBJECT": "elderly",
+    "METONYM": "venerable, retired, over the hill, declining, elderly, ancient"
+  },
+  {
+    "SUBJECT": "monster",
+    "METONYM": "dragon, aboleth, yeti, elemental, giant, golem, sphinx, unicorn, pegasus, scorpion, androsphinx, basilisk, troll, eye-stalker, dog, hound, flayer, snaad, demon, beithir, fairy, thessalhydra, devil, chimera, wyvern, guardian, cyclopes, gorgon, bird, naga, tracker, horror, serpent, snake, draconian, salamander, roc, drake, gnoll, ogre, worm, hippogriff, griffin, spider, toad, mimic, mocker, minotaur, wasp, centipede"
+  },
+  {
+    "SUBJECT": "battle",
+    "METONYM": "battle, war, crusade, campaign, attack, aggression, skirmish, invasion, bloodbath, butchery, massacre, carnage, annihilation, breach, conflict, onslaught, offensive, strike, raid, incursion, foray, revolt, transgression, rebellion, revolution"
+  },
+  {
+    "SUBJECT": "watermonster",
+    "METONYM": "sea dragon, sea hag, river hag, dragon turtle, giant shark, killer whale, kraken, leviathan, merfolk, merrow, sahuagin, sea spawn, water elemental, giant crab, giant eel, urchin"
+  },
+  {
+    "SUBJECT": "career",
+    "METONYM": "[ARTISAN], [OUTLAW], [ADVENTURER], [ARTIST], [COMMONER], [SCHOLAR], [VAGABOND], [CLERGY], [MERCHANT], [SAILOR], [GOVERNMENT], [LOWERSERVANT], [SOLDIER], [OFFICER]"
+  },
+  {
+    "SUBJECT": "depiction",
+    "METONYM": "[CRUEL], [JOVIAL], [CORRUPT], [TALENTED], [DUMB], [INCOMPETENT], [UNHAPPY], [ARTISTIC], [CRAZY], [LOVING], [HARDWORKING], [MORAL], [STOIC], [INTIMIDATING], [PLEASANT], [STERN], [QUIET], [BRASH], [BRAVE], [COWARDLY], [SCHOLARLY], [RELIGIOUS], [FAMOUS], [CHIVALROUS], [WEALTHY], [DESTITUTE]"
+  },
+  {
+    "SUBJECT": "dumb",
+    "METONYM": "dumb, foolish, stupid, trivial, naive, ignorant, uniformed, innocent, illiterate, uneducated, cretinous, mindless, uncultured, insensible"
+  },
+  {
+    "SUBJECT": "physique",
+    "METONYM": "physique, frame, build, body, figure, shape, habitus"
+  },
+  {
+    "SUBJECT": "bothersome",
+    "METONYM": "disturbing, pessimistic, onerous, tiresome, wearisome, sinister, ominous, provoking, depressing, creepy, alarming, disconcerting, threatening, troubling, provoking, troublesome, foreboding, irritating, painful, bothersome, obnoxious, agitating, aggravating, trying, irksome"
+  },
+  {
+    "SUBJECT": "unusual",
+    "METONYM": "unusual, strange, weird, unique, curious, bizarre, remarkable, odd, quaint, mystifying, exotic"
+  },
+  {
+    "SUBJECT": "talented",
+    "METONYM": "successful, prosperous, peculiar, fortunate, exceptional, accomplished, adept, experienced, trained, smart, extraordinary, proficient, adept, skillful, graceful, expert, master, veteran, talented, noteworthy, notable, phenomenal, remarkable, strange, unique"
+  },
+  {
+    "SUBJECT": "wealthy",
+    "METONYM": "rich, wealthy, well-to-do, upscale, opulent, substantial, thriving, prosperous, affluent, independent, upper class, well-off"
+  },
+  {
+    "SUBJECT": "destitute",
+    "METONYM": "poor, bankrupt, poverty-stricken, destitute, penniless, abject, impoverished, dirt poor, depleted, moneyless, flat broke, failed, spent"
+  },
+  {
+    "SUBJECT": "incompetent",
+    "METONYM": "unsuccessful, incompetent, unintelligent, unskilled, inept, dull, clumsy, bungling, inefficient, maladroit, unhandy, unskillful, unproficient"
+  },
+  {
+    "SUBJECT": "competent",
+    "METONYM": "competent, skilled, adept, efficient, adroit, effective, handy, skillful, proficient, savvy, clean, accomplished, capable, masterful, practiced, experienced"
+  },
+  {
+    "SUBJECT": "disability",
+    "METONYM": "deaf, blind, mute, deafblind, feeble-minded, paralyzed, arcane figmenting, dilusional, hunchbacked, hemiplegic, infirm, fragile, Leper, glass delusional, melancholic"
+  },
+  {
+    "SUBJECT": "parents",
+    "METONYM": "mother, father, mother and father"
+  },
+  {
+    "SUBJECT": "closerelative",
+    "METONYM": "sister, brother, mother, father, aunt, uncle,"
+  },
+  {
+    "SUBJECT": "caretaker",
+    "METONYM": "aunt, uncle, stepfather, stepmother, foster mother, foster father, grandmother, grandparents, grandfather, sister, brother, cousin, foster parents"
+  },
+  {
+    "SUBJECT": "females",
+    "METONYM": "aunt, stepmother, foster mother, grandmother, sister"
+  },
+  {
+    "SUBJECT": "males",
+    "METONYM": "uncle, stepfather, foster father, grandfather, brother"
+  },
+  {
+    "SUBJECT": "Building",
+    "METONYM": "[CASTLEBUILDING], [WORKSHOPS], [MANORS], [FARMYARDS]"
+  },
+  {
+    "SUBJECT": "castlebuilding",
+    "METONYM": "barracks, stables, keep, armoury, castle, guardhouse, archery, vault, court, gatehouse, watchtower, great hall, chapel, castle well"
+  },
+  {
+    "SUBJECT": "workshops",
+    "METONYM": "blacksmith shop, woodcutter shop, barber shop, mason shop, mill, charcoal maker shop, fishery, bakehouse, brewery, furrier, carpenter shop, tailor boutique, cobbler shop"
+  },
+  {
+    "SUBJECT": "manors",
+    "METONYM": "church, monastery, well, barn, granary, [LARGEFARMANIMAL] barn, stables, estate, manor, warehouse, market, tavern, inn, almshouse, great hall"
+  },
+  {
+    "SUBJECT": "farmyards",
+    "METONYM": "[GRAINS] field, [VEGETABLE] patch, [FRUIT] orchard, vegetable garden, [VEGETABLE] garden, vineyard, [FRUITS] vineyard"
+  },
+  {
+    "SUBJECT": "grains",
+    "METONYM": "rye, barley, buckwheat, millet, oat, rice, corn, teff, oats, wheat, maize, wheatberry, triticale, bran"
+  },
+  {
+    "SUBJECT": "fruit",
+    "METONYM": "quince, lemon, apple, orange, apricot, honeydew, jackfruit, longan, loquat, mangosteen, lychee, mulberry, jujube, kumquat, lime, cherry, soursop, sapote, sugar apple, tamarind, tangerine, watermelon, peach, pear, fig, olive, grape, pomegranate, plum, nectarine, olive, peach, pineapple, persimmon, dragonfruit, pitanga, pummelo, sapodilla, strawberry, prickly pear, prune, raspberry, cantaloupe, durian, feijoa, blueberry, gooseberry, guava, clementine, coconut, custard apple, date fruit, cranberry, blackberry, melon, banana, elderberry, blackcurrant, redcurrant, breadfruit, cantaloupe, carambola, chrimoya, avocado"
+  },
+  {
+    "SUBJECT": "vegetable",
+    "METONYM": "peas, carrot, lettuce, leeks, potato, sweet potato, cabbage, onion, watercress, artichoke, fennel, asparagus, beets, lentil, endive, broad bean, yardlong bean"
+  },
+  {
+    "SUBJECT": "crest",
+    "METONYM": "symbol, crest, heraldry, emblem, coat of arms, regalia, motif, design, sigil, seal, mark, insignia"
+  },
+  {
+    "SUBJECT": "crime",
+    "METONYM": "murdering a [CHERISHED] [CAREER], blasphemy, gossip-mongering, not paying taxes, practicing witchcraft, practicing unlawful magic, poisoning a local [OFFICER], assaulting a local [GOVERNMENT], slandering the [ROYALTYFEMALE], backbiting the [ROYALTYMALE], trespassing in the royal [CASTLEBUILDING], breaking into the [MANORS], assaulting a local [SOLDIER], burning the local [WORKSHOPS] to the ground, poaching the king's prized [MAMMALLAND], stealing a [LARGEFARMANIMAL], stealing from a local [MERCHANT], rumor-mongering, being a traitor to the crown, protesting the crown, stealing from a nearby [FARMYARDS]"
+  },
+  {
+    "SUBJECT": "punishment",
+    "METONYM": "being locked in the stocks, being tortured mercilessly, having his nose cut off, having his eyes gouged out, being locked in the pillory, being locked in the dungeon, having one of his legs cut off, having one of his arms cut off, being publicly beaten, being publicly flogged, having his tongue cut out, having his ankles crushed, having his knees smashed, having his hand cut off, having his fingers cut off, having his ears cut off"
+  },
+  {
+    "SUBJECT": "executed",
+    "METONYM": "hung by the neck, beheaded, strung and quartered, fed to the alligators, burned at the stake, boiled to death, crushed their head, impaled, crushed on the Wheel, sawed in half, crucified"
+  },
+  {
+    "SUBJECT": "fosters",
+    "METONYM": "aunt and uncle, grandmother and grandfather, sisters, brother, brother and sister, brothers and sisters, foster parents"
+  },
+  {
+    "SUBJECT": "bodypart",
+    "METONYM": "head, body, leg, arm, finger, toe, foot, chest, ribs, heart, knee, elbow, face, mouth, nose, shoulder, back, neck"
+  },
+  {
+    "SUBJECT": "monsterbodypart",
+    "METONYM": "head, body, leg, butt, arm, claw, foot, ribs, knee, elbow, face, mouth, snout, tongue, ear, horn, tooth, toe, nose, tail, wing, back, neck"
+  },
+  {
+    "SUBJECT": "bone",
+    "METONYM": "rib, arm, leg, backbone, upper arm, lower arm, facial, skull, lower leg, foot, hand, upper arm, shoulder, knee, pelvis"
+  },
+  {
+    "SUBJECT": "mysterious",
+    "METONYM": "mysterious, inexplicable, curious, incomprehensible, baffling, uncanny, unfathomable, unnatural, inscrutable, puzzling, strange, enigmatic"
+  },
+  {
+    "SUBJECT": "inn",
+    "METONYM": "hole, lounge, smokehouse, inn, lodge, pub, tavern, saloon, house, grill, canteen, chophouse, barroom, joint, hotel, roadhouse, chalet, country inn, shelter, shack, camp, retreat, shanty, stopover, villa"
+  },
+  {
+    "SUBJECT": "bordello",
+    "METONYM": "whorehouse, bordello, den of iniquity, call house, bawdyhouse, house of ill fame, den of vice, massage parlor, house of prostitution, cathouse, bagnio"
+  },
+  {
+    "SUBJECT": "raisedplace",
+    "METONYM": "farm, estate, castle, fort, guild, tavern, inn"
+  },
+  {
+    "SUBJECT": "enslavement",
+    "METONYM": "slavery, indentured servitude, servitude, subjection, bondage, forced labor, serfdom, drudgery, serfhood, menial labor, subjugation"
+  },
+  {
+    "SUBJECT": "magical",
+    "METONYM": "arcane, chaotic, necromantic, evoking, planar, abjuring, illusory, druidic, enchanting, mystical, psychic, transmuting, conjuring, divine, celestial, mythical, legendary"
+  },
+  {
+    "SUBJECT": "explosion",
+    "METONYM": "explosion, burst, concussion, disturbance, razing, eruption, combustion, blast, discharge, torrent, flare-up, effusion, reverberation, barrage"
+  },
+  {
+    "SUBJECT": "tragically",
+    "METONYM": "tragically, shockingly, horribly, dismally, terribly, accidentally, regrettably, miserably, unfortunately, sadly"
+  },
+  {
+    "SUBJECT": "abduct",
+    "METONYM": "abducted, kidnapped, captured, seized, snatched, stolen, stolen away, carried off, skyjacked, waylaid, ran away with"
+  }
+]

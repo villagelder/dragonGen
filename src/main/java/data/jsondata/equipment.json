@@ -1,0 +1,3474 @@
+[
+  {
+    "ITEM": "Abacus",
+    "CATEGORY": "Tool",
+    "TAGS": [
+      "Scholar"
+    ],
+    "COST": "2",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Acid (vial)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Alchemical"
+    ],
+    "COST": "25",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Alchemist\u0027s Fire (flask)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Alchemical"
+    ],
+    "COST": "50",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Arrows (20)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Ammunition"
+    ],
+    "COST": "1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Blowgun needles (50)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Ammunition"
+    ],
+    "COST": "1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Crossbow bolts (20)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Ammunition"
+    ],
+    "COST": "1",
+    "WEIGHT": "1.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Sling bullets (20)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Ammunition"
+    ],
+    "COST": "0.04",
+    "WEIGHT": "1.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Antitoxin (vial)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Healing"
+    ],
+    "COST": "50",
+    "WEIGHT": "0.2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Crystal (arcane focus)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Arcane"
+    ],
+    "COST": "10",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Orb (arcane focus)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Arcane"
+    ],
+    "COST": "20",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Rod (arcane focus)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Arcane"
+    ],
+    "COST": "10",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Staff (arcane focus)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Arcane"
+    ],
+    "COST": "5",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Wand (arcane focus)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Arcane"
+    ],
+    "COST": "10",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Backpack",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Container"
+    ],
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Survival",
+    "COST": "2",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ball bearings (bag of 1000)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Dungeoneering"
+    ],
+    "SUBTYPE": "Miscellaneous",
+    "COST": "1",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barrel",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Container"
+    ],
+    "COST": "2",
+    "WEIGHT": "70",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Basket",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Container"
+    ],
+    "COST": "4",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bedroll",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Survival"
+    ],
+    "COST": "1",
+    "WEIGHT": "7",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bell",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Miscellaneous"
+    ],
+    "COST": "1",
+    "WEIGHT": "0.15",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Blanket",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Survival"
+    ],
+    "COST": "0.2",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Block and tackle",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Construction"
+    ],
+    "SUBTYPE": "Dungeoneering",
+    "COST": "1",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Book",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Arcane"
+    ],
+    "SUBTYPE": "Scholar",
+    "COST": "25",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bottle (glass)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Alchemical"
+    ],
+    "SUBTYPE": "Container",
+    "COST": "2",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bucket",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Construction",
+      "Farming"
+    ],
+    "SUBTYPE": "Container",
+    "COST": "0.05",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Caltrops (bag of 20)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Dungeoneering",
+      "Stealth"
+    ],
+    "COST": "1",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Candle",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Crafting",
+      "Scholar"
+    ],
+    "SUBTYPE": "Light",
+    "COST": "0.01",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Case (crossbow bolt)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Container"
+    ],
+    "COST": "1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Case (map or scroll)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Arcane",
+      "Scholar"
+    ],
+    "SUBTYPE": "Container",
+    "COST": "1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Chain (10 feet)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Construction",
+      "Maritime",
+      "Siege"
+    ],
+    "SUBTYPE": "Dungeoneering",
+    "COST": "5",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Chalk (1 piece)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Crafting",
+      "Investigative"
+    ],
+    "COST": "0.01",
+    "WEIGHT": "0.05",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Chest",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Treasure",
+      "Cargo"
+    ],
+    "SUBTYPE": "Container",
+    "COST": "5",
+    "WEIGHT": "25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Climber\u0027s Kit",
+    "CATEGORY": "Tool",
+    "TAGS": [
+      "Dungeoneering",
+      "Siege"
+    ],
+    "SUBTYPE": "Survival",
+    "SUBTYPE2":,
+    "COST": "25",
+    "WEIGHT": "12",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Clothes (common)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Clothing"
+    ],
+    "COST": "0.5",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Clothes (costume)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Clothing"
+    ],
+    "COST": "5",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Clothes (fine)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Clothing"
+    ],
+    "COST": "15",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Clothes (traveler\u0027s)",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Clothing"
+    ],
+    "COST": "2",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Component pouch",
+    "CATEGORY": "Gear",
+    "TAGS": [
+      "Alchemical"
+    ],
+    "SUBTYPE": "Arcane",
+    "COST": "25",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Crowbar",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Dungeoneering",
+    "COST": "2",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Sprig of mistletoe",
+    "CATEGORY": "Gear",
+    "TAGS": "Druidic",
+    "COST": "1",
+    "WEIGHT": "0.2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Totem",
+    "CATEGORY": "Gear",
+    "TAGS": "Druidic",
+    "COST": "1",
+    "WEIGHT": "0.4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Wooden staff",
+    "CATEGORY": "Gear",
+    "TAGS": "Druidic",
+    "COST": "5",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Yew wand",
+    "CATEGORY": "Gear",
+    "TAGS": "Druidic",
+    "COST": "10",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Fishing Tackle",
+    "CATEGORY": "Gear",
+    "TAGS": "Miscellaneous",
+    "SUBTYPE": "Survival",
+    "COST": "1",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Flask",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "SUBTYPE": "Survival",
+    "COST": "0.02",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Tankard",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "COST": "0.02",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Grappling hook",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Siege",
+    "SUBTYPE2": "Stealth",
+    "SUBTYPE3": "Survival",
+    "COST": "2",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hammer",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Dungeoneering",
+    "COST": "1",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hammer (sledge)",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Siege",
+    "COST": "1",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Healer\u0027s Kit",
+    "CATEGORY": "Gear",
+    "TAGS": "Divine",
+    "SUBTYPE": "Healing",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Survival",
+    "COST": "5",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Amulet (holy symbol)",
+    "CATEGORY": "Gear",
+    "TAGS": "Divine",
+    "COST": "5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Emblem (holy symbol)",
+    "CATEGORY": "Gear",
+    "TAGS": "Divine",
+    "COST": "5",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Reliquary (holy symbol)",
+    "CATEGORY": "Gear",
+    "TAGS": "Divine",
+    "COST": "5",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Holy water (flask)",
+    "CATEGORY": "Gear",
+    "TAGS": "Divine",
+    "SUBTYPE": "Dungeoneering",
+    "COST": "25",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hourglass",
+    "CATEGORY": "Gear",
+    "TAGS": "Scholar",
+    "COST": "25",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hunting Trap",
+    "CATEGORY": "Gear",
+    "TAGS": "Crafting",
+    "SUBTYPE": "Survival",
+    "COST": "5",
+    "WEIGHT": "25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ink (1 ounce bottle)",
+    "CATEGORY": "Gear",
+    "TAGS": "Alchemical",
+    "SUBTYPE": "Arcane",
+    "SUBTYPE2": "Divine",
+    "SUBTYPE3": "Scholar",
+    "COST": "10",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Quill Ink pen",
+    "CATEGORY": "Gear",
+    "TAGS": "Alchemical",
+    "SUBTYPE": "Arcane",
+    "SUBTYPE2": "Divine",
+    "SUBTYPE3": "Scholar",
+    "COST": "0.02",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Jug",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "0.02",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pitcher",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "COST": "0.02",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ladder (10-foot)",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Siege",
+    "COST": "0.1",
+    "WEIGHT": "25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lamp",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Maritime",
+    "SUBTYPE2": "Scholar",
+    "COST": "0.5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lantern (bullseye)",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Scholar",
+    "COST": "10",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lantern (hooded)",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Scholar",
+    "COST": "5",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lock",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Miscellaneous",
+    "COST": "10",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Magnifying glass",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Investigative",
+    "SUBTYPE2": "Scholar",
+    "COST": "100",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Manacles",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "2",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Mess Kit",
+    "CATEGORY": "Gear",
+    "TAGS": "Survival",
+    "COST": "0.2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Mirror (steel)",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Investigative",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Scholar",
+    "COST": "5",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Oil (flask)",
+    "CATEGORY": "Gear",
+    "TAGS": "Alchemical",
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Survival",
+    "COST": "0.1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Paper (one sheet)",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Divine",
+    "SUBTYPE2": "Investigative",
+    "SUBTYPE3": "Scholar",
+    "COST": "0.2",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Parchment (one sheet)",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Divine",
+    "SUBTYPE2": "Investigative",
+    "SUBTYPE3": "Scholar",
+    "COST": "0.1",
+    "WEIGHT": "0.3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Perfume (vial)",
+    "CATEGORY": "Gear",
+    "TAGS": "Exotic",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pick (miner\u0027s)",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Miscellaneous",
+    "COST": "2",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Piton",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Siege",
+    "SUBTYPE2": "Survival",
+    "COST": "0.05",
+    "WEIGHT": "0.025",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Poison (basic vial)",
+    "CATEGORY": "Gear",
+    "TAGS": "Alchemical",
+    "SUBTYPE": "Exotic",
+    "SUBTYPE2": "Miscellaneous",
+    "COST": "100",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pole (10-foot)",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "0.05",
+    "WEIGHT": "7",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pot (iron)",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "SUBTYPE": "Miscellaneous",
+    "SUBTYPE2": "Survival",
+    "COST": "2",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Potion of Healing",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Divine",
+    "SUBTYPE2": "Druidic",
+    "SUBTYPE3": "Healing",
+    "COST": "50",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pouch",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "COST": "0.5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Quiver",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "SUBTYPE": "Survival",
+    "COST": "1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ram (portable)",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Siege",
+    "COST": "4",
+    "WEIGHT": "35",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Rations (1 day)",
+    "CATEGORY": "Gear",
+    "TAGS": "Survival",
+    "COST": "0.5",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Robes",
+    "CATEGORY": "Gear",
+    "TAGS": "Clothing",
+    "COST": "1",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Rope (hempen) 50 feet",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Farming",
+    "SUBTYPE2": "Siege",
+    "SUBTYPE3": "Survival",
+    "COST": "1",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Rope (silk) 50 feet",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Farming",
+    "SUBTYPE2": "Siege",
+    "SUBTYPE3": "Survival",
+    "COST": "10",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Sack",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Survival",
+    "COST": "0.01",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Scale (merchant\u0027s)",
+    "CATEGORY": "Gear",
+    "TAGS": "Crafting",
+    "SUBTYPE": "Miscellaneous",
+    "SUBTYPE2": "Trade Goods",
+    "COST": "5",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Sealing wax",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Divine",
+    "SUBTYPE2": "Scholar",
+    "COST": "0.5",
+    "WEIGHT": "0.2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Shovel",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Farming",
+    "COST": "2",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Signal whistle",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Siege",
+    "COST": "0.05",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Signet ring",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Clothing",
+    "SUBTYPE2": "Divine",
+    "SUBTYPE3": "Scholar",
+    "COST": "5",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Soap",
+    "CATEGORY": "Gear",
+    "TAGS": "Crafting",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "0.02",
+    "WEIGHT": "0.2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Spellbook",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "COST": "50",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Iron Spikes (10)",
+    "CATEGORY": "Gear",
+    "TAGS": "Construction",
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Farming",
+    "SUBTYPE3": "Survival",
+    "COST": "1",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Spyglass",
+    "CATEGORY": "Gear",
+    "TAGS": "Maritime",
+    "SUBTYPE": "Scholar",
+    "SUBTYPE2": "Siege",
+    "COST": "1000",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Tent (2-person)",
+    "CATEGORY": "Gear",
+    "TAGS": "Survival",
+    "COST": "2",
+    "WEIGHT": "20",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Tinderbox",
+    "CATEGORY": "Gear",
+    "TAGS": "Survival",
+    "COST": "0.5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Torch",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Survival",
+    "COST": "0.01",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Vial",
+    "CATEGORY": "Gear",
+    "TAGS": "Alchemical",
+    "SUBTYPE": "Arcane",
+    "SUBTYPE2": "Divine",
+    "SUBTYPE3": "Scholar",
+    "COST": "1",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Waterskin",
+    "CATEGORY": "Gear",
+    "TAGS": "Survival",
+    "COST": "0.2",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Whetstone",
+    "CATEGORY": "Gear",
+    "TAGS": "Crafting",
+    "SUBTYPE": "Dungeoneering",
+    "SUBTYPE2": "Farming",
+    "SUBTYPE3": "Survival",
+    "COST": "0.01",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Prayer Book",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Scholar",
+    "COST": "25",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pouch (belt)",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "COST": "1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Vestments (cleric)",
+    "CATEGORY": "Gear",
+    "TAGS": "Clothing",
+    "COST": "5",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Alchemist\u0027s supplies",
+    "CATEGORY": "Tool",
+    "TAGS": "Alchemical",
+    "SUBTYPE": "Crafting",
+    "COST": "50",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Brewer\u0027s supplies",
+    "CATEGORY": "Tool",
+    "TAGS": "Crafting",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "20",
+    "WEIGHT": "9",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Calligrapher\u0027s supplies",
+    "CATEGORY": "Tool",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Scholar",
+    "COST": "10",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Carpenter\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Construction",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Siege",
+    "COST": "8",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cartographer\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Maritime",
+    "SUBTYPE2": "Scholar",
+    "SUBTYPE3": "Survival",
+    "COST": "15",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cobbler\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Clothing",
+    "SUBTYPE": "Crafting",
+    "COST": "5",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cook\u0027s utensils",
+    "CATEGORY": "Tool",
+    "TAGS": "Farming",
+    "SUBTYPE": "Miscellaneous",
+    "SUBTYPE2": "Survival",
+    "COST": "1",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Glassblower\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Container",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Exotic",
+    "SUBTYPE3": "Miscellaneous",
+    "COST": "30",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Jeweler\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Clothing",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Miscellaneous",
+    "COST": "25",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Leatherworker\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Clothing",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Survival",
+    "COST": "5",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Mason\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Construction",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Dungeoneering",
+    "SUBTYPE3": "Miscellaneous",
+    "SUBTYPE4": "Siege",
+    "COST": "10",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Painter\u0027s supplies",
+    "CATEGORY": "Tool",
+    "TAGS": "Crafting",
+    "SUBTYPE": "Miscellaneous",
+    "SUBTYPE2": "Scholar",
+    "COST": "10",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Potter\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Construction",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Miscellaneous",
+    "COST": "10",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Smith\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Construction",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Farming",
+    "SUBTYPE3": "Miscellaneous",
+    "COST": "20",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Tinker\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Crafting",
+    "SUBTYPE": "Investigative",
+    "SUBTYPE2": "Miscellaneous",
+    "COST": "50",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Weaver\u0027s Tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Clothing",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Miscellaneous",
+    "COST": "1",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Woodcarver\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Construction",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Miscellaneous",
+    "COST": "1",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Disguise Kit",
+    "CATEGORY": "Tool",
+    "TAGS": "Miscellaneous",
+    "SUBTYPE": "Stealth",
+    "COST": "25",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Forgery Kit",
+    "CATEGORY": "Tool",
+    "TAGS": "Miscellaneous",
+    "SUBTYPE": "Stealth",
+    "COST": "15",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dice set",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "0.1",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dragonchess set",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "SUBTYPE": "Miscellaneous",
+    "SUBTYPE2": "Scholar",
+    "COST": "1",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Playing card set",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "SUBTYPE": "Miscellaneous",
+    "SUBTYPE2": "Performance",
+    "COST": "0.5",
+    "WEIGHT": "0.2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Three-Dragon Ante set",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "COST": "1",
+    "WEIGHT": "0.3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Herbalism kit",
+    "CATEGORY": "Tool",
+    "TAGS": "Alchemical",
+    "SUBTYPE": "Druidic",
+    "SUBTYPE2": "Healing",
+    "SUBTYPE3": "Scholar",
+    "COST": "5",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bagpipes",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "30",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Drum",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "6",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dulcimer",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "25",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Flute",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lute",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "35",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lyre",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "30",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Horn",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "3",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pan flute",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "12",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Shawm",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Viol",
+    "CATEGORY": "Instrument",
+    "TAGS": "Music",
+    "SUBTYPE": "Performance",
+    "COST": "30",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Navigator\u0027s tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Maritime",
+    "COST": "25",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Poisoner\u0027s kit",
+    "CATEGORY": "Tool",
+    "TAGS": "Alchemical",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Exotic",
+    "SUBTYPE3": "Stealth",
+    "COST": "50",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Thieves\u0027 tools",
+    "CATEGORY": "Tool",
+    "TAGS": "Crafting",
+    "SUBTYPE": "Exotic",
+    "SUBTYPE2": "Stealth",
+    "COST": "25",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Burglar\u0027s Pack",
+    "CATEGORY": "Tool",
+    "TAGS": "Exotic",
+    "SUBTYPE": "Stealth",
+    "COST": "16",
+    "WEIGHT": "20",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Diplomat\u0027s Pack",
+    "CATEGORY": "Tool",
+    "TAGS": "Divine",
+    "SUBTYPE": "Scholar",
+    "COST": "39",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dungeoneer\u0027s Pack",
+    "CATEGORY": "Tool",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Survival",
+    "COST": "12",
+    "WEIGHT": "16",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Entertainer\u0027s Pack",
+    "CATEGORY": "Tool",
+    "TAGS": "Clothing",
+    "SUBTYPE": "Performance",
+    "COST": "40",
+    "WEIGHT": "18",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Explorer\u0027s Pack",
+    "CATEGORY": "Tool",
+    "TAGS": "Survival",
+    "COST": "10",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Priest\u0027s Pack",
+    "CATEGORY": "Tool",
+    "TAGS": "Clothing",
+    "SUBTYPE": "Divine",
+    "SUBTYPE2": "Druidic",
+    "COST": "19",
+    "WEIGHT": "9",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Scholar\u0027s Pack",
+    "CATEGORY": "Tool",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Clothing",
+    "SUBTYPE2": "Divine",
+    "SUBTYPE3": "Scholar",
+    "COST": "40",
+    "WEIGHT": "12",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Camel",
+    "CATEGORY": "Animal",
+    "TAGS": "Exotic",
+    "SUBTYPE": "Mount",
+    "COST": "50",
+    "WEIGHT": "1000",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Donkey",
+    "CATEGORY": "Animal",
+    "TAGS": "Farming",
+    "SUBTYPE": "Mount",
+    "COST": "8",
+    "WEIGHT": "500",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Mule",
+    "CATEGORY": "Animal",
+    "TAGS": "Farming",
+    "SUBTYPE": "Mount",
+    "COST": "8",
+    "WEIGHT": "700",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Elephant",
+    "CATEGORY": "Animal",
+    "TAGS": "Exotic",
+    "SUBTYPE": "Mount",
+    "COST": "200",
+    "WEIGHT": "12000",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Horse (draft)",
+    "CATEGORY": "Animal",
+    "TAGS": "Mount",
+    "COST": "50",
+    "WEIGHT": "1000",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Horse (riding)",
+    "CATEGORY": "Animal",
+    "TAGS": "Mount",
+    "COST": "75",
+    "WEIGHT": "800",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pony",
+    "CATEGORY": "Animal",
+    "TAGS": "Mount",
+    "COST": "30",
+    "WEIGHT": "440",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Horse (war)",
+    "CATEGORY": "Animal",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "400",
+    "WEIGHT": "1250",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barding (padded)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "20",
+    "WEIGHT": "16",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barding (leather)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "40",
+    "WEIGHT": "20",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barding (studded leather)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "180",
+    "WEIGHT": "26",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barding (scale mail)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "200",
+    "WEIGHT": "90",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barding(half plate)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "3000",
+    "WEIGHT": "80",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barding (ring mail)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "120",
+    "WEIGHT": "80",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barding (chain mail)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "300",
+    "WEIGHT": "110",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barding (splint mail)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "800",
+    "WEIGHT": "120",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Barding (plate mail)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "War",
+    "COST": "6000",
+    "WEIGHT": "130",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bit and bridle",
+    "CATEGORY": "Gear",
+    "TAGS": "Farming",
+    "SUBTYPE": "Mount",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Carriage",
+    "CATEGORY": "Vehicle",
+    "TAGS": "Container",
+    "SUBTYPE": "Farming",
+    "SUBTYPE2": "Mount",
+    "COST": "100",
+    "WEIGHT": "600",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cart",
+    "CATEGORY": "Vehicle",
+    "TAGS": "Container",
+    "SUBTYPE": "Mount",
+    "COST": "15",
+    "WEIGHT": "200",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Chariot",
+    "CATEGORY": "Vehicle",
+    "TAGS": "Container",
+    "SUBTYPE": "Mount",
+    "COST": "250",
+    "WEIGHT": "100",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Feed (per day)",
+    "CATEGORY": "Gear",
+    "TAGS": "Farming",
+    "SUBTYPE": "Mount",
+    "COST": "0.05",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Saddle (exotic)",
+    "CATEGORY": "Gear",
+    "TAGS": "Exotic",
+    "SUBTYPE": "Farming",
+    "SUBTYPE2": "Mount",
+    "COST": "60",
+    "WEIGHT": "40",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Saddle (military)",
+    "CATEGORY": "Gear",
+    "TAGS": "Farming",
+    "SUBTYPE": "Mount",
+    "SUBTYPE2": "War",
+    "COST": "20",
+    "WEIGHT": "30",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Saddle (pack)",
+    "CATEGORY": "Gear",
+    "TAGS": "Farming",
+    "SUBTYPE": "Mount",
+    "SUBTYPE2": "War",
+    "COST": "20",
+    "WEIGHT": "30",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Saddle (riding)",
+    "CATEGORY": "Gear",
+    "TAGS": "Mount",
+    "SUBTYPE": "Survival",
+    "SUBTYPE2": "War",
+    "COST": "10",
+    "WEIGHT": "25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Saddlebags",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "SUBTYPE": "Mount",
+    "COST": "4",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Sled",
+    "CATEGORY": "Vehicle",
+    "TAGS": "Container",
+    "SUBTYPE": "Mount",
+    "COST": "20",
+    "WEIGHT": "300",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Wagon",
+    "CATEGORY": "Vehicle",
+    "TAGS": "Container",
+    "SUBTYPE": "Mount",
+    "COST": "35",
+    "WEIGHT": "400",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Galley",
+    "CATEGORY": "Sea Vessel",
+    "TAGS": "Maritime",
+    "COST": "30000",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Keelboat",
+    "CATEGORY": "Sea Vessel",
+    "TAGS": "Maritime",
+    "COST": "3000",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Longship",
+    "CATEGORY": "Sea Vessel",
+    "TAGS": "Maritime",
+    "COST": "10000",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Rowboat",
+    "CATEGORY": "Sea Vessel",
+    "TAGS": "Maritime",
+    "COST": "50",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Sailing ship",
+    "CATEGORY": "Sea Vessel",
+    "TAGS": "Maritime",
+    "COST": "10000",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Warship",
+    "CATEGORY": "Sea Vessel",
+    "TAGS": "Maritime",
+    "SUBTYPE": "War",
+    "COST": "10000",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Wheat",
+    "CATEGORY": "Food",
+    "TAGS": "Trade Goods",
+    "COST": "0.01",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Flour",
+    "CATEGORY": "Food",
+    "TAGS": "Trade Goods",
+    "COST": "0.02",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Chicken",
+    "CATEGORY": "Food",
+    "TAGS": "Trade Goods",
+    "COST": "0.02",
+    "WEIGHT": "1.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Salt",
+    "CATEGORY": "Mineral",
+    "TAGS": "Trade Goods",
+    "COST": "0.05",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Iron",
+    "CATEGORY": "Mineral",
+    "TAGS": "Trade Goods",
+    "COST": "0.1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Canvas",
+    "CATEGORY": "Textile",
+    "TAGS": "Trade Goods",
+    "COST": "0.1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Copper",
+    "CATEGORY": "Mineral",
+    "TAGS": "Trade Goods",
+    "COST": "0.5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cotton cloth",
+    "CATEGORY": "Textile",
+    "TAGS": "Trade Goods",
+    "COST": "0.5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ginger",
+    "CATEGORY": "Spice",
+    "TAGS": "Trade Goods",
+    "COST": "1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Goat",
+    "CATEGORY": "Animal",
+    "TAGS": "Trade Goods",
+    "COST": "1",
+    "WEIGHT": "80",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cinnamon",
+    "CATEGORY": "Spice",
+    "TAGS": "Trade Goods",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pepper",
+    "CATEGORY": "Spice",
+    "TAGS": "Trade Goods",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Sheep",
+    "CATEGORY": "Animal",
+    "TAGS": "Trade Goods",
+    "COST": "2",
+    "WEIGHT": "95",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Clove",
+    "CATEGORY": "Spice",
+    "TAGS": "Trade Goods",
+    "COST": "3",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pig",
+    "CATEGORY": "Animal",
+    "TAGS": "Trade Goods",
+    "COST": "3",
+    "WEIGHT": "200",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Silver",
+    "CATEGORY": "Mineral",
+    "TAGS": "Trade Goods",
+    "COST": "5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Linen",
+    "CATEGORY": "Textile",
+    "TAGS": "Trade Goods",
+    "COST": "5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Silk",
+    "CATEGORY": "Textile",
+    "TAGS": "Trade Goods",
+    "COST": "10",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cow",
+    "CATEGORY": "Animal",
+    "TAGS": "Trade Goods",
+    "COST": "10",
+    "WEIGHT": "900",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Saffron",
+    "CATEGORY": "Spice",
+    "TAGS": "Trade Goods",
+    "COST": "15",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ox",
+    "CATEGORY": "Animal",
+    "TAGS": "Trade Goods",
+    "COST": "15",
+    "WEIGHT": "1500",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Gold",
+    "CATEGORY": "Mineral",
+    "TAGS": "Trade Goods",
+    "COST": "50",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Platinum",
+    "CATEGORY": "Mineral",
+    "TAGS": "Trade Goods",
+    "COST": "500",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ale, gallon",
+    "CATEGORY": "Drink",
+    "TAGS": "Tavern",
+    "COST": "0.2",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ale, mug",
+    "CATEGORY": "Drink",
+    "TAGS": "Tavern",
+    "COST": "0.04",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Banquet (per person)",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "10",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bread, loaf",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "0.02",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cheese, hunk",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "0.1",
+    "WEIGHT": "1.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Inn - room for one night (squalid)",
+    "CATEGORY": "Lodging",
+    "TAGS": "Lodging",
+    "COST": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Inn - room for one night (poor)",
+    "CATEGORY": "Lodging",
+    "TAGS": "Lodging",
+    "COST": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Inn - room for one night (modest)",
+    "CATEGORY": "Lodging",
+    "TAGS": "Lodging",
+    "COST": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Inn - room for one night (comfortable)",
+    "CATEGORY": "Lodging",
+    "TAGS": "Lodging",
+    "COST": "0.8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Inn - room for one night (wealthy)",
+    "CATEGORY": "Lodging",
+    "TAGS": "Lodging",
+    "COST": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Inn - room for one night (aristocratic)",
+    "CATEGORY": "Lodging",
+    "TAGS": "Lodging",
+    "COST": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Meal per day (squalid)",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "0.03",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Meal per day (poor)",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "0.06",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Meal per day (modest)",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "0.3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Meal per day (comfortable)",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Meal per day (wealthy)",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "0.8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Meal per day (aristrocratic)",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Meat chunk",
+    "CATEGORY": "Food",
+    "TAGS": "Tavern",
+    "COST": "0.03",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Wine common (pitcher)",
+    "CATEGORY": "Drink",
+    "TAGS": "Tavern",
+    "COST": "0.2",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Wine fine (bottle)",
+    "CATEGORY": "Drink",
+    "TAGS": "Tavern",
+    "COST": "10",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Coach cab - city to city (per mile)",
+    "CATEGORY": "Service",
+    "TAGS": "Travel",
+    "COST": "0.03",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Coach cab - in town (per mile)",
+    "CATEGORY": "Service",
+    "TAGS": "Travel",
+    "COST": "0.03",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hireling - skilled",
+    "CATEGORY": "Service",
+    "TAGS": "Miscellaneous",
+    "COST": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hireling - unskilled",
+    "CATEGORY": "Service",
+    "TAGS": "Miscellaneous",
+    "COST": "0.2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Messenger",
+    "CATEGORY": "Service",
+    "TAGS": "Miscellaneous",
+    "COST": "0.02",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Road toll",
+    "CATEGORY": "Service",
+    "TAGS": "Miscellaneous",
+    "COST": "0.01",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ship\u0027s passage",
+    "CATEGORY": "Service",
+    "TAGS": "Miscellaneous",
+    "COST": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Club",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "0.1",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dagger",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "SUBTYPE": "Ranged",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Greatclub",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "0.2",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Handaxe",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "5",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Javelin",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "0.5",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Light hammer",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "2",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Mace",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "5",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Quarterstaff",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "0.2",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Sickle",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "1",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Spear",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "SUBTYPE": "Ranged",
+    "COST": "1",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Light crossbow",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "25",
+    "WEIGHT": "5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dart",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "0.05",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Shortbow",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "25",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Sling",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "0.1",
+    "WEIGHT": "0.1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Battle Axe",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "10",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Flail",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "10",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Glaive",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "20",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Greataxe",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "30",
+    "WEIGHT": "7",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Greatsword",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "50",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Halberd",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "20",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lance",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "10",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Longsword",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "15",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Maul",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "10",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Morningstar",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "15",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pike",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "5",
+    "WEIGHT": "18",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Rapier",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "25",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Scimitar",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "25",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Shortsword",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "10",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Trident",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "5",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "War pick",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "5",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Warhammer",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "15",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Whip",
+    "CATEGORY": "Weapon",
+    "TAGS": "Melee",
+    "COST": "2",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Blowgun",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "10",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hand crossbow",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "75",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Heavy crossbow",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "50",
+    "WEIGHT": "18",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Longbow",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "50",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Net",
+    "CATEGORY": "Weapon",
+    "TAGS": "Ranged",
+    "COST": "1",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Padded Armor",
+    "CATEGORY": "Armor",
+    "TAGS": "Light Armor",
+    "COST": "5",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Leather Armor",
+    "CATEGORY": "Armor",
+    "TAGS": "Light Armor",
+    "COST": "10",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Studded Leather Armor",
+    "CATEGORY": "Armor",
+    "TAGS": "Light Armor",
+    "COST": "45",
+    "WEIGHT": "13",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hide Armor",
+    "CATEGORY": "Armor",
+    "TAGS": "Medium Armor",
+    "COST": "10",
+    "WEIGHT": "12",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Chain Shirt",
+    "CATEGORY": "Armor",
+    "TAGS": "Medium Armor",
+    "COST": "50",
+    "WEIGHT": "20",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Scale mail",
+    "CATEGORY": "Armor",
+    "TAGS": "Medium Armor",
+    "COST": "50",
+    "WEIGHT": "45",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Breastplate",
+    "CATEGORY": "Armor",
+    "TAGS": "Medium Armor",
+    "COST": "400",
+    "WEIGHT": "20",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Half plate",
+    "CATEGORY": "Armor",
+    "TAGS": "Medium Armor",
+    "COST": "750",
+    "WEIGHT": "40",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ring mail",
+    "CATEGORY": "Armor",
+    "TAGS": "Heavy Armor",
+    "COST": "30",
+    "WEIGHT": "40",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Chain mail",
+    "CATEGORY": "Armor",
+    "TAGS": "Heavy Armor",
+    "COST": "75",
+    "WEIGHT": "55",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Splint mail",
+    "CATEGORY": "Armor",
+    "TAGS": "Heavy Armor",
+    "COST": "200",
+    "WEIGHT": "60",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Plate mail",
+    "CATEGORY": "Armor",
+    "TAGS": "Heavy Armor",
+    "COST": "1500",
+    "WEIGHT": "65",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Shield",
+    "CATEGORY": "Armor",
+    "TAGS": "Shield",
+    "COST": "10",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Shield  (wooden)",
+    "CATEGORY": "Armor",
+    "TAGS": "Shield",
+    "COST": "10",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Incense (5 sticks)",
+    "CATEGORY": "Gear",
+    "TAGS": "Arcane",
+    "SUBTYPE": "Divine",
+    "SUBTYPE2": "Healing",
+    "SUBTYPE3": "Scholar",
+    "COST": "2",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dice set (weighted)",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "SUBTYPE": "Performance",
+    "COST": "2",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Playing card set (marked)",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "SUBTYPE": "Performance",
+    "COST": "1",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Trick Boxes",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "SUBTYPE": "Performance",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Trick Rings",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "SUBTYPE": "Performance",
+    "COST": "1",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Trick Bottles",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "SUBTYPE": "Performance",
+    "COST": "3",
+    "WEIGHT": "6",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Love letter",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lock of hair",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bottle of perfume",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Locket",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.14",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Guild letter",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Notes (stash)",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Scroll of Pedigree",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Purse",
+    "CATEGORY": "Gear",
+    "TAGS": "Container",
+    "COST": "3",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Rabbit\u0027s foot",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bear claw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cougar paw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Monkey Paw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.25",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lion claw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "2",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Shark tooth (large)",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "1",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Wolf skull",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "1",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Shrunken head",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "1",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Ivory figurine",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "2",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Deer antler",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Antler figurine",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Gorilla paw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "1",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Monkey foot",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Tiger claw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cheetah paw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Cheetah tail",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lion tail",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hippopotamus tooth",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Polar bear claw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "1",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Grizzly bear claw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "1",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Rhinoceros horn",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "2",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bison horn",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Elk antler",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Eagle claw",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Eagle feather",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hawk feather",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Quagga pelt",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "2",
+    "WEIGHT": "2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Tiger pelt",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "3",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Fox pelt",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "2",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Leopard fang",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Wallaby foot",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Kangaroo ear",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Hartebeest horn",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.5",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Mummified frog",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0.3",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Letter with an unanswered question",
+    "CATEGORY": "Trinket",
+    "TAGS": "Scholar",
+    "SUBTYPE": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.14",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Knife",
+    "CATEGORY": "Tool",
+    "TAGS": "Alchemical",
+    "SUBTYPE": "Crafting",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Scholar",
+    "COST": "0.4",
+    "WEIGHT": "0.2",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Insignia",
+    "CATEGORY": "Textile",
+    "TAGS": "Clothing",
+    "SUBTYPE": "Crafting",
+    "COST": "0.1",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "War trophy",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "1",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Dice set (bone)",
+    "CATEGORY": "Gaming",
+    "TAGS": "Gaming",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "2",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pet mouse",
+    "CATEGORY": "Animal",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "2",
+    "WEIGHT": "0.3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pet snake",
+    "CATEGORY": "Animal",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "2",
+    "WEIGHT": "0.5",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pet lizard",
+    "CATEGORY": "Animal",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "2",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Pet bird",
+    "CATEGORY": "Animal",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Miscellaneous",
+    "COST": "2",
+    "WEIGHT": "0.25",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Map (known)",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Miscellaneous",
+    "SUBTYPE2": "Scholar",
+    "SUBTYPE3": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.14",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Map (unknown)",
+    "CATEGORY": "Gear",
+    "TAGS": "Dungeoneering",
+    "SUBTYPE": "Investigative",
+    "SUBTYPE2": "Scholar",
+    "SUBTYPE3": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.14",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Merchants\u0027 Kit",
+    "CATEGORY": "Tool",
+    "TAGS": "Crafting",
+    "SUBTYPE": "Maritime",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Trade Goods",
+    "COST": "30",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Lion\u0027s head helm",
+    "CATEGORY": "Armor",
+    "TAGS": "Divine",
+    "SUBTYPE": "Light Armor",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Performance",
+    "SUBTYPE4": "War",
+    "COST": "15",
+    "WEIGHT": "4",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bear\u0027s head helm",
+    "CATEGORY": "Armor",
+    "TAGS": "Divine",
+    "SUBTYPE": "Light Armor",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Performance",
+    "SUBTYPE4": "War",
+    "COST": "10",
+    "WEIGHT": "3",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Rhino head helm",
+    "CATEGORY": "Armor",
+    "TAGS": "Divine",
+    "SUBTYPE": "Light Armor",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Performance",
+    "SUBTYPE4": "War",
+    "COST": "20",
+    "WEIGHT": "10",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Young dragon head helm",
+    "CATEGORY": "Armor",
+    "TAGS": "Divine",
+    "SUBTYPE": "Light Armor",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Performance",
+    "SUBTYPE4": "War",
+    "COST": "200",
+    "WEIGHT": "12",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Bull\u0027s head helm",
+    "CATEGORY": "Armor",
+    "TAGS": "Divine",
+    "SUBTYPE": "Light Armor",
+    "SUBTYPE2": "Miscellaneous",
+    "SUBTYPE3": "Performance",
+    "SUBTYPE4": "War",
+    "COST": "8",
+    "WEIGHT": "8",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Guild certification",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  },
+  {
+    "ITEM": "Declaration of Knighthood",
+    "CATEGORY": "Trinket",
+    "TAGS": "Storyline",
+    "COST": "0",
+    "WEIGHT": "0.07",
+    "AUTHOR": "WOTC",
+    "SOURCE": "PLHB"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "RACE": "human",
+    "PRENAME": "Scil, Sag, Sagil, Magar, Rich, Aer, Megar, And, Meg, Erva, Dix, Erca, Er, Iv, Sol, Mac, Don, Bene, Dun, Reid, Moss, Ma, Mason, Mas, May, Har, Camp, Saul, Matt, Sa, Mand, Buss, Samm, Ab, Cen, Epil, Mat, Suad, Act, Ates, At, Der, Ed, Allo, Cabria, Rex, Mag, Tou, Tal, Al, Ale, Cab, Veq, Elr, Ael, Aer, Veni, Ollo, Yolli, Yol, Ain, All, Thom, An, And, Andu, Cass, Ven, Matu, Camul, Cam, Ban, Res, Cor, Corr, Co, Kot, Kor, Kotr",
+    "SUFNAME": "agni, illius, us, lus, ii, i, ey, ard, avico, ravico, viccas, y, ia, allo, ik, lo, louiko, tosa, louico, dict, ley, bell, broxus, sia, ulla, mulla, os, osa, hew, rew, satia, ucia, cia, ram, ceia, xus, vico, bantos, on, ria, as, ic, ik, ric, tugeos, urio, tos, agni, bece, rus, req, xamus, ognus, nus, eia, iola, ola, cenia, enia, lia, nua, na, tia, odu, rodu, tu, erton",
+    "PRESURNAME": "Thid, Brall, Hack, Hai, Had, Hal, Brad, Har, Laur, Hamil, Hamp, Hall, Hart, Hast, East, Gar, Glad, Good, Herring, Harring, Ring, Huck, Her, Gra, Fool, West, North, Bonn, South, Dheir, Knos, Yas, El, Ems, Ever, Bern, En, Eng, Gres, Far, Faw, Ful, Bad, End, Cam, Car, Cow, Shep, Ca, Cha, Charl, Chest, Deigh, Dud, Cholmond, Chol, Cold, Church, Col, Dal, Hay, Haz, Haze, Big, Dig, Dar, Darling, Deigh, Den, Daven, Clif, Co, Dur, Carl, Bar, Bree, Brent, By, Cum, Cumber, Brown, Bur, Brad, Blu, Clare, Green, Ast, Beck, Ben, Thistle, Bever, Berk, Bent, Ben, Bing, Blake, Bhar, Hren, This, Kest, Dhay, Chie, Sonn, Birken, Blyth, Black, White, Red, Urn, Nann, Ang, Stad, Chun, Rhul, Brig, Clin, Gro, Gin, Nif, Norn, Waey, Knog, Glan, Ched, Sior, Gwie, Ab, Ac, Ack, Add, Ad, And, Ald, Ain, Al, All, Ather, Aether, And, An, Apple, Ash, Ath, Ax",
+    "SUFSURNAME": "all, aurd, urd, azlern, lern, ger, low, well, ney, son, tham, kaudr, sey, eme, ish, lee, field, rick, holm, ver, isle, zaud, ron, lan, abee, cett, land, wood, pen, herd, ford, shaw, arled, rigg, hill, ing, ings, deley, led, hall, port, ombs, batch, enis, nis, eittad, onn, ay, ie, are, nash, ash, veif, ada, by, da, ruh, aslo, raslo, rarei, arei, gug, me, elton, venn, gra, y, lag, dulde, mifre, ton, erton, er, re, ram, ington, worth, ham, ley, ly, ey",
+    "CITYPREFIX": "Thid, Brall, Hack, Hai, Had, Hal, Brad, Har, Laur, Hamil, Hamp, Hall, Hart, Hast, East, Gar, Glad, Good, Herring, Harring, Ring, Huck, Her, Gra, Fool, West, North, Bonn, South, Dheir, Knos, Yas, El, Ems, Ever, Bern, En, Eng, Gres, Far, Faw, Ful, Bad, End, Cam, Car, Cow, Shep, Ca, Cha, Charl, Chest, Deigh, Dud, Cholmond, Chol, Cold, Church, Col, Dal, Hay, Haz, Haze, Big, Dig, Dar, Darling, Deigh, Den, Daven, Clif, Co, Dur, Carl, Bar, Bree, Brent, By, Cum, Cumber, Brown, Bur, Brad, Blu, Clare, Green, Ast, Beck, Ben, Thistle, Bever, Berk, Bent, Ben, Bing, Blake, Bhar, Hren, This, Kest, Dhay, Chie, Sonn, Birken, Blyth, Black, White, Red, Urn, Nann, Ang, Stad, Chun, Rhul, Brig, Clin, Gro, Gin, Nif, Norn, Waey, Knog, Glan, Ched, Sior, Gwie, Ab, Ac, Ack, Add, Ad, And, Ald, Ain, Al, All, Ather, Aether, And, An, Apple, Ash, Ath, Ax",
+    "CITYSUFFIX": "all, aurd, urd, azlern, lern, ger, low, well, ney, son, tham, kaudr, sey, eme, ish, lee, field, rick, holm, ver, isle, zaud, ron, lan, abee, cett, land, wood, pen, herd, ford, shaw, arled, rigg, hill, ing, ings, deley, led, hall, port, ombs, batch, enis, nis, eittad, onn, ay, ie, are, nash, ash, veif, ada, by, da, ruh, aslo, raslo, rarei, arei, gug, me, elton, venn, gra, y, lag, dulde, mifre, ton, erton, er, re, ram, ington, worth, ham, ley, ly, ey",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "dwarf",
+    "PRENAME": "Snur, Dovo, Kakr, Khouz, Mothon, Vour, Hekk, Bae, Dwae, Buur, Bovo, Bollo, Bol, Kaer, Mog, Mol, Muum, Doer, Dron, Droth, Dril, Rae, Wurt, Kaer, Grett, Bam, Dwol, Kuum, Krorra",
+    "SUFNAME": "has, hatin, attin, guli, umleer, read, ael, irluk, irdun, orvog, rurik, haek, olim, ease, ees, iker, fall, wore, ore",
+    "PRESURNAME": "Coal, Dirt, Rock, Diamond, Gold, Blood, Copper, Silver, Platt, Dark, Light, Fur, Hard, Oaken, Strong, Rage, Draken, Sword, Fist, Bone, Monster, Onyx, Metal, Wood, Light, Goblin, Ale, Mountain, Hill, Poison, Tree, Brew, Bronze, Magic, Granite, Gem, Jewel, Mudder, Troll, Thunder, Hammer, Fish, Axe, Battle, Coin, Great, Merry, Lightning, Ashen, Horn, Rune, War, Orc, Fire, Wolf, Krag, Barrel",
+    "SUFSURNAME": "shield, hide, slayer, tank, foot, feet, pike, axe, horn, brow, gut, braid, locks, brand, fall, hand, nose, head, beard, blade, pounder, cutter, breaker, washer, finger, taster, taker, shaper, pound, buckle, buckler, heater, master, guard, belly, arm, back, maul, runner, mane, cloak, branch, buster, pounder, liver, basher, monger, bringer, maker, heart, heat",
+    "CITYPREFIX": "Coal, Dirt, Rock, Diamond, Gold, Blood, Copper, Silver, Platt, Dark, Light, Fur, Hard, Oaken, Strong, Rage, Draken, Sword, Fist, Bone, Monster, Onyx, Metal, Wood, Light, Goblin, Ale, Mountain, Hill, Poison, Tree, Brew, Bronze, Magic, Granite, Gem, Jewel, Mudder, Troll, Thunder, Hammer, Fish, Axe, Battle, Coin, Great, Merry, Lightning, Ashen, Horn, Rune, War, Orc, Fire, Wolf, Krag, Barrel",
+    "CITYSUFFIX": "has, hatin, attin, guli, umleer, read, ael, irluk, irdun, orvog, rurik, haek, olim, ease, ees, iker, fall, wore, ore",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "elf",
+    "PRENAME": "Aelle, Risse, Ail, Ninley, Ay, Tar, Laeth, Vu, Orae, Thae, Ivari, Alor, Dan, Da, Arth, Coen, Ellena, Ell, Mae, Ner, Cith, Eth, Qaer, Oey, Lys, Ilia, Vae, Hael, Aer, Ni, Niev, Be, Merea, Sa, Siph, Myrr, Tria, Shaey",
+    "SUFNAME": "laerriel, amin, elle, eyn, laen, wyin, merae, ira, ara, aala, phie, ther, iyen, ith, aith, red, aema, adyl, natar, sara, aan, raan, pheyaan, ros, ion, ueve, eon, aehryn, iele",
+    "PRESURNAME": "Tris, Qinn, Illaer, Yaes, Loraem, Loraex, Sorcer, Gilleth, Venhae, Arth, Kohn, Kelv, Tara, Ar, Frae, Nue, Kilyn, Fil, Rava, Hola, Torp, Liam, Virl, Aran, Ralo, Grenn, Cain, Morn, Liaz",
+    "SUFSURNAME": "fiel, ala, oris, ella, ice, hyra, yra, esris, eiros, ana, ahorn, lanna, olor, ses, esys, an, haan, stialle, idorra, idor, axidor, cernan, eiros, alar, balaey, ibeyl, raek, aell, ana, mana, alei, aris, maris, faer, fey, feydur",
+    "CITYPREFIX": "Tris, Qinn, Illaer, Yaes, Loraem, Loraex, Sorcer, Gilleth, Venhae, Arth, Kohn, Kelv, Tara, Ar, Frae, Nue, Kilyn, Fil, Rava, Hola, Torp, Liam, Virl, Aran, Ralo, Grenn, Cain, Morn, Liaz",
+    "CITYSUFFIX": "fiel, ala, oris, ella, ice, hyra, yra, esris, eiros, ana, ahorn, lanna, olor, ses, esys, an, haan, stialle, idorra, idor, axidor, cernan, eiros, alar, balaey, ibeyl, raek, aell, ana, mana, alei, aris, maris, faer, fey, feydur",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "halfling",
+    "PRENAME": "Vy, Big, Bald, Nith, Theo, Ruud, Kait, Mant, Wandre, Tob, Ful, But, Ame, Ber, Saph, Theu, No, Ri, Ti, Sa, Balde, Ma, Eff, Rud, Cer, Izen, Joce, Err, Rig, Kym, Far, Ro, Lu, Shan, Bree, Bertha, Court, Chi, Nib, Atha, Bof, Oda, Ath, San, Arn",
+    "SUFNAME": "trude, garde, mar, ulph, rick, olph, ard, isilus, ias, ton, char, har, rose, lyn, theyst, issa, hild, hilda, arc, ar, ire, ra, childis, igar, rim, bert, worthy, fin, ik, ick, hire, ka, non, yre, sie, unth, bold, cho, bert, old, lia, linde",
+    "PRESURNAME": "Hluth, Bottom, Finne, Brok, Boulder, Sack, Bag, Bow, Brace, Brack, Lang, Rop, Under, Over, Dew, Girdle, Mag, Gunde, Light, Dark, Arm, Proud, Loth, Elf, Dingle, Pine, Nut, Leg, Herb, Quarter, Cotton, Kot, Brace, Head, Took, Green, Blue, Grey, Long, Lib, Bil, Half, Fair, Plain, Round, Uppe, Button, Wit, Whit, Brandy, Pudding, Flatt, Pott, Sandi",
+    "SUFSURNAME": "er, ham, girdle, gund, got, bar, gee, midge, brown, foot, top, berry, hill, stick, oaks, rogers, bottom, umble, bumble, ton, iggle, pig, pie, tumble, pop, ran, acy, aam, body, wort, spot, ubb, wood, phin, belly, row, lock, ins, wise, strong",
+    "CITYPREFIX": "Hluth, Bottom, Finne, Brok, Boulder, Sack, Bag, Bow, Brace, Brack, Lang, Rop, Under, Over, Dew, Girdle, Mag, Gunde, Light, Dark, Arm, Proud, Loth, Elf, Dingle, Pine, Nut, Leg, Herb, Quarter, Cotton, Kot, Brace, Head, Took, Green, Blue, Grey, Long, Lib, Bil, Half, Fair, Plain, Round, Uppe, Button, Wit, Whit, Brandy, Pudding, Flatt, Pott, Sandi",
+    "CITYSUFFIX": "er, ham, girdle, gund, got, bar, gee, midge, brown, foot, top, berry, hill, stick, oaks, rogers, bottom, umble, bumble, ton, iggle, pig, pie, tumble, pop, ran, acy, aam, body, wort, spot, ubb, wood, phin, belly, row, lock, ins, wise, strong",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "gnome",
+    "PRENAME": "Pap, Dap, Wep, Ran, Nabi, Badu, Bum, Jem, Bubbi, Klam, Snar, Zek, Cyr, Wenni, Wid, Rud, Ciem, Fun, Zam, Gib, Hib, Flim, Ina, Woot, Hud, Zipp, Hilli, Fiddle, Feddle, Faddle, Gud, Phel, Nan, Wodi, Pee, Lirp, Ebbi, Tily, Nesy, Gin, Phanni, Folly, Pyr",
+    "SUFNAME": "edle, adel, iag, bum, ick, cug, isti, elliby, by, bas, gib, gin, ran, pap, wep, bam, bad, ban, dip, dad, zam, daaz, fip, fap, fop, pert, wast, adem, jist, big, oss, wipple, niss, pest, kiss, roo, art, egad",
+    "PRESURNAME": "Leppi, Hudrim, Cilo, Smonal, Zawy, Zeidgar, Tiddi, Pippi, Bindi, Gnello, Zimzam, Gilli, Garmo, Fennel, Tiznee, Thaelie, Kindo, Jaako, Jaraar",
+    "SUFSURNAME": "zom, dik, faal, bell, pap, gurb, ekk, tonn, knot, gnil, pack, jum, tit, pen, vael, ess, nan, wyll, mo",
+    "CITYPREFIX": "Leppi, Hudrim, Cilo, Smonal, Zawy, Zeidgar, Tiddi, Pippi, Bindi, Gnello, Zimzam, Gilli, Garmo, Fennel, Tiznee, Thaelie, Kindo, Jaako, Jaraar",
+    "CITYSUFFIX": "zom, dik, faal, bell, pap, gurb, ekk, tonn, knot, gnil, pack, jum, tit, pen, vael, ess, nan, wyll, mo",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "fiend",
+    "PRENAME": "Doza, Olgo, Dogeth, Drost, Ug, Rostru, Theju, Rogre, Moni, Brog, Drog, Drok, Vrok, Brok, Gorok, Arni, Tath, Mar, Xiig, Gon, Gab, Bag, Gor",
+    "SUFNAME": "kaal, lich, iman, imak, roreth, thumak, mak, remath, maath, ixeth, xeth, onnoth, kon, nun, idir, inuch, goren, gloth, aduk, omath, math, namid, amid",
+    "PRESURNAME": "Doza, Olgo, Dogeth, Drost, Ug, Rostru, Theju, Rogre, Moni, Brog, Drog, Drok, Vrok, Brok, Gorok, Arni, Tath, Mar, Xiig, Gon, Gab, Bag, Gor",
+    "SUFSURNAME": "mir, ikas, rai, xius, shoon, akir, ados, yal, alm, etry, thus, shoon, rus, thus, thor, sure, ment, pect, ria, eros, reus, olis, laia, issa, ypsis, ree, ror",
+    "CITYPREFIX": "Doza, Olgo, Dogeth, Drost, Ug, Rostru, Theju, Rogre, Moni, Brog, Drog, Drok, Vrok, Brok, Gorok, Arni, Tath, Mar, Xiig, Gon, Gab, Bag, Gor",
+    "CITYSUFFIX": "mir, ikas, rai, xius, shoon, akir, ados, yal, alm, etry, thus, shoon, rus, thus, thor, sure, ment, pect, ria, eros, reus, olis, laia, issa, ypsis, ree, ror",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "dragon descendant",
+    "PRENAME": "Bruk, Meth, Graez, Strae, Bard, Moc, Itge, Kalk, Duer, Atge, Athil, Dreaer, Kara, Molu, Gand, Trira, Kru, Us, Usno, Thii, Mubae, Zaedar",
+    "SUFNAME": "nogg, aix, res, nuto, uto, irzo, iez, ziaz, siet, aix, rex, gaex, isoz, haz, shaah, athas, binar, gha, algah, koth, edu, osso, indriu",
+    "PRESURNAME": "Urgo, Haar, Oz, Vael, Xez, Toka, Sech, Drur, Urdu, Sar, Dik, Zigi, Enth, Mofith, Havk, Unin, Thek, Lod, Urd, Il, Kek, Bus, Ta, Ioh, Bie, Tred, Sassa, Izzor, Chell, Tror, Eish, Gaen, Tro, Non, Cus, Zhu, Zurat, Huthi, Phira",
+    "SUFSURNAME": "igon, zouz, gyiax, ujik, riffin, undoor, ridin, ogaat, ne, zilla, loth, uzii, ushin, ru, shek, ijed, issin, riil, ken, ithril, sux, ithix, nuux, raacz, guul, gol, aesh, kaesh, iscniex, shelke, leth, orshe, ishlu, oko, drei, otosh, atush, iskeh, irilso",
+    "CITYPREFIX": "Urgo, Haar, Oz, Vael, Xez, Toka, Sech, Drur, Urdu, Sar, Dik, Zigi, Enth, Mofith, Havk, Unin, Thek, Lod, Urd, Il, Kek, Bus, Ta, Ioh, Bie, Tred, Sassa, Izzor, Chell, Tror, Eish, Gaen, Tro, Non, Cus, Zhu, Zurat, Huthi, Phira",
+    "CITYSUFFIX": "igon, zouz, gyiax, ujik, riffin, undoor, ridin, ogaat, ne, zilla, loth, uzii, ushin, ru, shek, ijed, issin, riil, ken, ithril, sux, ithix, nuux, raacz, guul, gol, aesh, kaesh, iscniex, shelke, leth, orshe, ishlu, oko, drei, otosh, atush, iskeh, irilso",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "avian",
+    "PRENAME": "Skee, Krek, Sqia, Qek, Keet, Khi, Krea, Qhia, Qean, Skwee, Sqe, Ghikk, Qay, Caw, Qraw, Gik, Koo, Aki, Krua, Carre, Eki, Ecki, Sqie, Qeak, Qaaw, Khaa, Guak, Gukua, Khor, Khal, Grar, Anik, Aetik, Scek",
+    "SUFNAME": "qiet, queak, qia, cua, caw, crek, nik, rek, look, looh, arak, beik, awecae, riaq, iwk, iew, req, icoo, coo, nawk, awk, iwk, ethek, neth, ork, riaq, iak, tith, cith, ceth, kett, sak, ria, oww, ian, bua, ua, ucci, ucky, liweck, teli",
+    "PRESURNAME": "Skee, Krek, Sqia, Qek, Keet, Khi, Krea, Qhia, Qean, Skwee, Sqe, Ghikk, Qay, Caw, Qraw, Gik, Koo, Aki, Krua, Carre, Eki, Ecki, Sqie, Qeak, Qaaw, Khaa, Guak, Gukua, Khor, Khal, Grar, Anik, Aetik, Scek",
+    "SUFSURNAME": "qiet, queak, qia, cua, caw, crek, nik, rek, look, looh, arak, beik, awecae, riaq, iwk, iew, req, icoo, coo, nawk, awk, iwk, ethek, neth, ork, riaq, iak, tith, cith, ceth, kett, sak, ria, oww, ian, bua, ua, ucci, ucky, liweck, teli",
+    "CITYPREFIX": "Skee, Krek, Sqia, Qek, Keet, Khi, Krea, Qhia, Qean, Skwee, Sqe, Ghikk, Qay, Caw, Qraw, Gik, Koo, Aki, Krua, Carre, Eki, Ecki, Sqie, Qeak, Qaaw, Khaa, Guak, Gukua, Khor, Khal, Grar, Anik, Aetik, Scek",
+    "CITYSUFFIX": "qiet, queak, qia, cua, caw, crek, nik, rek, look, looh, arak, beik, awecae, riaq, iwk, iew, req, icoo, coo, nawk, awk, iwk, ethek, neth, ork, riaq, iak, tith, cith, ceth, kett, sak, ria, oww, ian, bua, ua, ucci, ucky, liweck, teli",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "celestial",
+    "PRENAME": "Ser, Theo, Emman, Boa, On, Azra, Mahl, Nis, Nar, Aar, Phan, Nak, Zab, Eze, Bar, Riz, Usu, Sabra, Sara, Sar, Cas, Ma, Arm, Tabb, Abel Oph, Emp, Pen, Sur, Ana, Ath, Xath, Zak, Va, Vaas, Kar, Kak, Verk, Ver, Naar, Barb, Rad, Quan",
+    "SUFNAME": "aph, dore, uel, iel, roc, esh, kiel, ian, uel, oel, in, el, ael, il, ita, rin, ayel, abel, bell, dan, ris, tys, pheal, eas, ies, emu, rean, lum, roth, nael, naim, rael, oel, aim, ana",
+    "PRESURNAME": "Ser, Theo, Emman, Boa, On, Azra, Mahl, Nis, Nar, Aar, Phan, Nak, Zab, Eze, Bar, Riz, Usu, Sabra, Sara, Sar, Cas, Ma, Arm, Tabb, Abel Oph, Emp, Pen, Sur, Ana, Ath, Xath, Zak, Va, Vaas, Kar, Kak, Verk, Ver, Naar, Barb, Rad, Quan",
+    "SUFSURNAME": "aph, dore, uel, iel, roc, esh, kiel, ian, uel, oel, in, el, ael, il, ita, rin, ayel, abel, bell, dan, ris, tys, pheal, eas, ies, emu, rean, lum, roth, nael, naim, rael, oel, aim, ana",
+    "CITYPREFIX": "Ser, Theo, Emman, Boa, On, Azra, Mahl, Nis, Nar, Aar, Phan, Nak, Zab, Eze, Bar, Riz, Usu, Sabra, Sara, Sar, Cas, Ma, Arm, Tabb, Abel Oph, Emp, Pen, Sur, Ana, Ath, Xath, Zak, Va, Vaas, Kar, Kak, Verk, Ver, Naar, Barb, Rad, Quan",
+    "CITYSUFFIX": "aph, dore, uel, iel, roc, esh, kiel, ian, uel, oel, in, el, ael, il, ita, rin, ayel, abel, bell, dan, ris, tys, pheal, eas, ies, emu, rean, lum, roth, nael, naim, rael, oel, aim, ana",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "reptilian",
+    "PRENAME": "Ssaz, Vaaz, Chox, Dumme, Grish, Ikor, Gruzz, Draut, Grimka, Krez, Roz, Shroll, Chuk, Juk, Kuhk, Buto, Ekell, Arsou, Iklo, Yox, Uxl, Daex, Boa, Drae, Ukat, Ukri, Atkri, Zik, Zisk, Ziss, Thuss, Thuxz, Bexna, Rhuat, Urs, Biatek, Urek, Erzan, Uqal",
+    "SUFNAME": "imzo, umzo, uk, ashk, rauk, sauk, azlu, orna, axxaz, taraqa, azk, zotore, ez, osk, ukos, ukne, iz, eklu, loqu, loki, ouqi, ger, atliz, riask, iask, riku, uxl, ex, nisk, zik, xacao, leqee, six, ras, iss, zis, kaas, ruak, azez, azek, zeka",
+    "PRESURNAME": "Ssaz, Vaaz, Chox, Dumme, Grish, Ikor, Gruzz, Draut, Grimka, Krez, Roz, Shroll, Chuk, Juk, Kuhk, Buto, Ekell, Arsou, Iklo, Yox, Uxl, Daex, Boa, Drae, Ukat, Ukri, Atkri, Zik, Zisk, Ziss, Thuss, Thuxz, Bexna, Rhuat, Urs, Biatek, Urek, Erzan, Uqal",
+    "SUFSURNAME": "imzo, umzo, uk, ashk, rauk, sauk, azlu, orna, axxaz, taraqa, azk, zotore, ez, osk, ukos, ukne, iz, eklu, loqu, loki, ouqi, ger, atliz, riask, iask, riku, uxl, ex, nisk, zik, xacao, leqee, six, ras, iss, zis, kaas, ruak, azez, azek, zeka",
+    "CITYPREFIX": "Ssaz, Vaaz, Chox, Dumme, Grish, Ikor, Gruzz, Draut, Grimka, Krez, Roz, Shroll, Chuk, Juk, Kuhk, Buto, Ekell, Arsou, Iklo, Yox, Uxl, Daex, Boa, Drae, Ukat, Ukri, Atkri, Zik, Zisk, Ziss, Thuss, Thuxz, Bexna, Rhuat, Urs, Biatek, Urek, Erzan, Uqal",
+    "CITYSUFFIX": "imzo, umzo, uk, ashk, rauk, sauk, azlu, orna, axxaz, taraqa, azk, zotore, ez, osk, ukos, ukne, iz, eklu, loqu, loki, ouqi, ger, atliz, riask, iask, riku, uxl, ex, nisk, zik, xacao, leqee, six, ras, iss, zis, kaas, ruak, azez, azek, zeka",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "orc",
+    "PRENAME": "Den, Fen, Ge, He, Hol, Im, Ke, Kr, Mhur, Ron, Shu, Th, Bag, Em, En, Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk, Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Vola, Volen, Yevelda, Kan, My, Ne, Ov, Own, Sha, Vo, Vol, Ye, Yev",
+    "SUFNAME": "ench, eng, ell, enk, olg, imsh, eth, usk, gug, dus, rum, nor, rat, zug, ren, ont, ump, okk, gi, ong, sif, orgk, or, orc, ork, rk, ev, ega, ak, ka, utha, ola, elda, len",
+    "PRESURNAME": "Agad, Shu, Shum, Shuz, Shut, Shuz, Shuu, Skan, Skat, Skar, Snag, Uft, Ug, Ul, Ush, Uz, Ur, Um, Ub, Uuk, Uag, Uak, Yag, Yur, Yar, Kar, Khash, Khat, Lag, Lar, Laz, Log, Lub, Lum, Lor, Mag, Mar, Mash, Mog, Mug, Muk, Mu, Mul, Agla, Og, Oga, Ol, Luz, Mur, Ol, Olu, Orb, Rim, Ru, Shad, Shag, Shar, Shak, Shat, Shaz, Shaw, Shur, At, Azor, Bad, Bag, Bam, Bar, Bash, Bat, Bog, Bol, Bor, Bug, Bul, Buz, Dug, Dul, Dum, Dur, Du, Gat, Gar, Gash, Ghol, Gol, Ghor, Gil, Glur, Gur, Ka, Kash, Kha, Khag",
+    "SUFSURNAME": "bu, shar, shak, skar, ska, gad, hug, harz, hakh, ann, onn, ogg, lakh, um, umph, ku, bu, rat, ul, og, ar, amph, amk, nag, at, tul, oga, uk, bul, lor, or, zol, bug, fim, tub, tub, kub, gum, garn, gob, ga, rob, ak, zog, arz, la, ula, ba, ug",
+    "CITYPREFIX": "Agad, Shu, Shum, Shuz, Shut, Shuz, Shuu, Skan, Skat, Skar, Snag, Uft, Ug, Ul, Ush, Uz, Ur, Um, Ub, Uuk, Uag, Uak, Yag, Yur, Yar, Kar, Khash, Khat, Lag, Lar, Laz, Log, Lub, Lum, Lor, Mag, Mar, Mash, Mog, Mug, Muk, Mu, Mul, Agla, Og, Oga, Ol, Luz, Mur, Ol, Olu, Orb, Rim, Ru, Shad, Shag, Shar, Shak, Shat, Shaz, Shaw, Shur, At, Azor, Bad, Bag, Bam, Bar, Bash, Bat, Bog, Bol, Bor, Bug, Bul, Buz, Dug, Dul, Dum, Dur, Du, Gat, Gar, Gash, Ghol, Gol, Ghor, Gil, Glur, Gur, Ka, Kash, Kha, Khag",
+    "CITYSUFFIX": "bu, shar, shak, skar, ska, gad, hug, harz, hakh, ann, onn, ogg, lakh, um, umph, ku, bu, rat, ul, og, ar, amph, amk, nag, at, tul, oga, uk, bul, lor, or, zol, bug, fim, tub, tub, kub, gum, garn, gob, ga, rob, ak, zog, arz, la, ula, ba, ug",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "celtic",
+    "PRENAME": "Aart, Ad, Aen, Aer, Ail, Al, All, Al, Aneu, Any, Aodh, Aodh, Aon, Are, Art, Arte, Arth, Arto, Arturs, Ar, At, Auth, Av, Bal, Bar, Bed, Be, Bodic, Bow, Bra, Brain, Bra, Bre, Brae, Bredon, Bren, Brendt, Brian, Bryan, Cul, Dal, Desmond, Donald, Fiona, Mavis, Owen, Quinn, Ronan, Sloan, Sloane, Brennon, Brentley, Brenton, Brhita, Brieg, Brigacos, Bryok, Cairbre, Caractacus, Carantok, Caratacus, Cars, Casek, Casworon, Catavignus, Catguallaun, Chad, Chadd, Cinuchan, Cinuedu, Cistumucus, Cleland, Clvtorigi, Clyde, Commius, Con, Conal, Conn, Connal, Connell, Conroy, Conway, Cowen, Cuinn, Culann, Cunacenni, Cunobelinus, Cunopectus, Cunotamus, Cynwrig, Deedee, Dillion, Dinogad, Diuma, Donall, Donat, Donel, Doran, Dornard, Duane, Duer, Duncan, Dunley, Dwayne, Dwyn, Ea, Eliseo, Eljin, Eoin, Eonan, Errigal, Esca, Escarans, Evan, Evanam, FaÃ¯Â¿Â½l, Farrel, Farrell, Fergus, Ferguson, Fiacre, Flemmyng, Flemyng, Floyd, Fynbar, Gallagher, Galvin, Garvey, Garyth, Gaven, Gawaine, Gawan, Gawanna, Gildas, Gilderoy, Gilligan, Gilmore, Gilmour, Glen, Glenden, Glendin, Glendon, Glendyn, Glenton, Glenwood, Goron, Hedrek, Heremon, Hines, Jannon, Jareth, Kacey, Kaelan, Kaelen, Kaelin, Kail, Kane, Kanin, Karling, Karryghan, Karsen, Keanan, Keandre, Keary, Keelen, Keirnan, Keiryn, Keithan, Kelby, Kellen, Keller, Kelley, Kelly, Keltonn, Kelvan, Kelven, Kelvin, Kelvyn, Kelwin, Kelwyn, Kely, Kemble, Kenadie, Kendrik, Keneth, Kenneally, Kennith, Kenric, Kenrich, Kenrick, Kenricks, Kenricus, Kenriek, Kenrik, Kenryk, Kentigern, Kera, Kerianne, Kerr, Kerryn, Kerwin, Kerwinn, Kesar, Keshen, Kevan, Kevani, Keven, Kevern, Kevin, Kevon, Kevyn, Keyan, Keyon, Kidd, Kile, Kileen, Killean, Kilroy, Kim, Kimbal, Kimball, Kimbell, Kincaid, Kinkade, Kiralescense, Kirryn, Konner, Konnor, Ky, Kylan, Kylar, Kyle, Kylemore, Kylen, Kyler, Kylian, Kyllion, Kynan, Laigh, Lann, Lee, Leigh, Leofel, Lez, Lincoln, Lincon, Lir, Litugenus, Logan, Login, Loy, Lugotorix, Lynch, Lyolf, Mabon, Maccus, Mack, Macklin, Macklyn, Maclain, Maclovio, Madoc, Mael, Maerin, Maeron, Maeryn, Malchom, Malvinn, Malvynn, Marlo, Marmaduke, Marv, Marve, Marvin, Marwin, Marwynn, Maslorius, Matherson, Mckile, Mckinley, Mellyn, Merlan, Merlen, Merlinn, Merlynn, Merrell, Mor, Moray, Naal, Nevan, Nevyn, Nial, Niall, Nil, Nisien, Nolen, Nyle, Nyles, Oscon, Owin, Pendragon, Piran, Powell, Pwyll, Quade, Quaid, Regan, Reghan, Reily, Revelin, Rhyland, Rivalin, Roarke, Ronin, Ruy, Sheamus, Sheehan, Sholto, Tadg, Tadgh, Tadhg, Tarlock, Tarmon, Tavin, Tawnya, Tchad, Teague, Tennille, Teobaldo, Thornleigh, Thurl, Tincommius, Trahern, Treston, Trevet, Trosta, Zayden",
+    "SUFNAME": "gus, ie, on, be, en, an, on, len, lan, lon, rin, ia, ria, ghas, ghus, air, ek, er, ur, is, to, turi, urs, zhur, four, or, ry, wyr, li, cius, ius, den, den, ene, dene, in, ann, andon, andan, nok, dis, len, nen, las",
+    "PRESURNAME": "",
+    "SUFSURNAME": "",
+    "CITYPREFIX": "ardu, brive, ca, ly, pendle, brag, tame, tea, te, veru, wig, york, tha, berg, penn, carr, k'enno, doven, fix, esk, exe, ex, eske, lindo, mael, av, bri, bril, bryn, krew, pen, crew, wil, dov, duro, ax, dub, bre, dubr, manx, glassan, ard, ban, bana, nemeton, noi, salo, eburo, ebu, magos, tur, turos, nev, tames, diwa, windo, nevi, cel, keleia, kele, kel, singi, tim, gal, sin, gala, cal, cala, ebora, daci, sib, sibi, ebo, eburos, laco, ber, ois, dur, medi, nowi, cambra, cale, dunon, bra, cari, mil, mila, vene, bol, bono, bell, bona, mogunt, mog, ju, jug, mogon, mogons, tames, ok-ro, ok, ro, brigs, briwa, lemo, nem, neme, worm, worms, her, bais, so, hercy, mago, tubin, novi, trev, neu, dhro, nowijo, magus, rem, bon, mog, mogun, cambo, briga, brig, orau, vi, ver, cer, vo, vov, veu, ama, amar, amer, amm, ammer, amor, amors, wald, annel, annels, ans, boi, boio, arau, viro, verd, vero, cah, lemo, nant, nans, novi, nov, mag, noy, peri, sama, rob, robri, cham, chamb, caren, cari, divo, ev, evr, lao, la, lille, limo, lis, lug, lugdun, dun, lim, bri, bria, brianz, caen, brigant, wien, gont, kost, am, ang, argent, aut, arr, ar, arl, bour, bay, brian",
+    "CITYSUFFIX": "en, inna, ia, ium, ton, moss, gen, i, y, u, me, o, by, e, um, a, gum, dunum, ors, don, hors, unum, uno, amo, cia, durum, rum, any, iens, dunom, ge, ien, er, ers, nium, an, tan, un, on, onne, tun, as, ras, ara, oara, ian, es, les, con, tes",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "egyptian",
+    "PRENAME": "",
+    "SUFNAME": "",
+    "PRESURNAME": "",
+    "SUFSURNAME": "",
+    "CITYPREFIX": "men, khem, ya, ra, khi, khumn, saka, henen, chenem, ptk, tayu, med, akh, her, zau, tep, per, bere, tim, kha, pi, ta, tho, iu, ge, shasho, tep, sum, tam, buh, li, mad, geb, sesh, ip, ik, tje, iushen, men, dja, tho, wep, set, wa, tja, dje, iun, tar, hut, ab, nubt, swen",
+    "CITYSUFFIX": "nefer, mu, qote, to, wadjet, inhor, sut, emro, wer, ihu, djayet, nis, waset, ny, nesut, shedet, du, jed, ib, enu, rehwy, repyt, sy, iat, ihu, shen, bu, tep, ty, men, net, en, esh, ett, det, hathor, heb, senet, hery, amun, emu, ennu, u, ru",
+    "SYSTEM": "5e"
+  },
+  {
+    "RACE": "template",
+    "PRENAME": "",
+    "SUFNAME": "",
+    "PRESURNAME": "",
+    "SUFSURNAME": "",
+    "CITYPREFIX": "",
+    "CITYSUFFIX": "",
+    "SYSTEM": "5e"
+  }
+]

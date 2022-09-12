@@ -1,0 +1,2036 @@
+[
+  {
+    "TYPE": "Potion",
+    "RARITY": "Common",
+    "ITEM": "Potion of Climbing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Common",
+    "ITEM": "Potion of Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Common",
+    "ITEM": "Scroll (Cantrip)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Common",
+    "ITEM": "Scroll (Level 1)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Uncommon",
+    "ITEM": "Adamantine Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Uncommon",
+    "ITEM": "Mariner's Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Uncommon",
+    "ITEM": "Mithral Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Uncommon",
+    "ITEM": "Sentinel Shield",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Uncommon",
+    "ITEM": "Shield +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Uncommon",
+    "ITEM": "Oil of Slipperiness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Uncommon",
+    "ITEM": "Philter of Love",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Uncommon",
+    "ITEM": "Potion of Animal Friendship",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Uncommon",
+    "ITEM": "Potion of Fire Breath",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Uncommon",
+    "ITEM": "Potion of Greater Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Uncommon",
+    "ITEM": "Potion of Growth",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Uncommon",
+    "ITEM": "Potion of Hill Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Uncommon",
+    "ITEM": "Ring of Jumping",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Uncommon",
+    "ITEM": "Ring of Mind Shielding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Uncommon",
+    "ITEM": "Ring of Swimming",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Uncommon",
+    "ITEM": "Ring of Warmth",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Uncommon",
+    "ITEM": "Ring of Water Walking",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Uncommon",
+    "ITEM": "Immovable Rod",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Uncommon",
+    "ITEM": "Rod of the Pact Keeper +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Uncommon",
+    "ITEM": "Scroll (Level 2)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Uncommon",
+    "ITEM": "Scroll (Level 3)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Uncommon",
+    "ITEM": "Staff of the Adder",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Uncommon",
+    "ITEM": "Staff of the Python",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Uncommon",
+    "ITEM": "Wand of Magic Detection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Uncommon",
+    "ITEM": "Wand of Magic Missiles",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Uncommon",
+    "ITEM": "Wand of Secrets",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Uncommon",
+    "ITEM": "Wand of Web",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Uncommon",
+    "ITEM": "Wand of the War Mage +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Uncommon",
+    "ITEM": "Ammunition +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Uncommon",
+    "ITEM": "Javelin of Lightning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Uncommon",
+    "ITEM": "Sword of Vengeance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Uncommon",
+    "ITEM": "Trident of Fish Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Uncommon",
+    "ITEM": "Weapon of Warning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Uncommon",
+    "ITEM": "Weapon +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Alchemy Jug",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Amulet of Proof Against Detection and Location",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Bag of Holding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Bag of Tricks",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Boots of Elvenkind",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Boots of Striding and Springing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Boots of the Winterlands",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Bracers of Archery",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Bracers of Archery",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Brooch of Shielding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Broom of Flying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Cap of Water Breathing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Circlet of Blasting",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Cloak of Elvenkind",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Cloak of Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Cloak of the Manta Ray",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Decanter of Endless Water",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Deck of Illusions",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Driftglobe",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Dust of Disappearance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Dust of Dryness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Dust of Sneezing and Choking",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Elemental Gem",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Eversmoking Bottle",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Eyes of Charming",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Eyes of Minute Seeing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Eyes of the Eagle",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Figurine of Wondrous Power",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Silver Raven",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Gauntlets of Ogre Power",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Gem of Brightness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Gloves of Missile Snaring",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Gloves of Swimming and Climbing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Gloves of Missile Snaring",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Gloves of Swimming and Climbing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Gloves of Thievery",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Goggles of Night",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Hat of Disguise",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Headband of Intellect",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Helm of Comprehending Languages",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Helm of Telepathy",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Instrument of the Bards",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Doss Lute",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Fochlucan Bandore",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Mac-Fuirmidh Cittern",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Keoghtom's Ointment",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Lantern of Revealing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Medallion of Thoughts",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Necklace of Adaptation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Pearl of Power",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Periapt of Health",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Periapt of Wound Closure",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Pipes of Haunting",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Pipes of the Sewers",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Quiver of Ehlonna",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Robe of Useful Items",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Rope of Climbing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Saddle of the Cavalier",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Sending Stones",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Slippers of Spider Climbing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Stone of Good Luck",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Wind Fan",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Uncommon",
+    "ITEM": "Winged Boots",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Rare",
+    "ITEM": "Armor of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Rare",
+    "ITEM": "Armor of Vulnerability",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Rare",
+    "ITEM": "Armor +1",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Rare",
+    "ITEM": "Arrow-catching Shield",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Rare",
+    "ITEM": "Elven Chain",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Rare",
+    "ITEM": "Glamoured Studded Leather",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Rare",
+    "ITEM": "Shield of Missile Attraction",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Rare",
+    "ITEM": "Shield +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Elixir of Health",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Oil of Etherealness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Clairvoyance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Diminution",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Fire Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Frost Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Gaseous Form",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Heroism",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Invulnerability",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Mind Reading",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Stone Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Rare",
+    "ITEM": "Potion of Superior Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Rare",
+    "ITEM": "Ring of Animal Influence",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Rare",
+    "ITEM": "Ring of Evasion",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Rare",
+    "ITEM": "Ring of Feather Falling",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Rare",
+    "ITEM": "Ring of Free Action",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Rare",
+    "ITEM": "Ring of Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Rare",
+    "ITEM": "Ring of Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Rare",
+    "ITEM": "Ring of Spell Storing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Rare",
+    "ITEM": "Ring of X-ray Vision",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Rare",
+    "ITEM": "Ring of the Ram",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Rare",
+    "ITEM": "Rod of Rulership",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Rare",
+    "ITEM": "Rod of the Pact Keeper +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Rare",
+    "ITEM": "Tentacle Rod",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Rare",
+    "ITEM": "Scroll of Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Rare",
+    "ITEM": "Scroll (Level 4)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Rare",
+    "ITEM": "Scroll (Level 5)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Rare",
+    "ITEM": "Staff of Charming",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Rare",
+    "ITEM": "Staff of Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Rare",
+    "ITEM": "Staff of Swarming Insects",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Rare",
+    "ITEM": "Staff of Withering",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Rare",
+    "ITEM": "Staff of the Woodlands",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Rare",
+    "ITEM": "Wand of Binding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Rare",
+    "ITEM": "Wand of Enemy Detection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Rare",
+    "ITEM": "Wand of Fear",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Rare",
+    "ITEM": "Wand of Fireballs",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Rare",
+    "ITEM": "Wand of Lightning Bolts",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Rare",
+    "ITEM": "Wand of Paralysis",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Rare",
+    "ITEM": "Wand of Wonder",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Rare",
+    "ITEM": "Wand of the War Mage +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Ammunition +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Berserker Axe",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Dagger of Venom",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Dragon Slayer",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Flame Tongue",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Giant Slayer",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Mace of Disruption",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Mace of Smiting",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Mace of Terror",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Sun Blade",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Sword of Life Stealing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Sword of Wounding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Vicious Weapon",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Rare",
+    "ITEM": "Weapon +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Amulet of Health",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Bag of Beans",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Bead of Force",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Belt of Dwarvenkind",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Belt of Hill Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Boots of Levitation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Boots of Speed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Bowl of Commanding Water Elementals",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Bracers of Defense",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Brazier of Commanding Fire Elementals",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Cape of the Mountebank",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Censer of Controlling Air Elementals",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Chime of Opening",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Cloak of Displacement",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Cloak of the Bat",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Cloak of the Bat",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Cube of Force",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Daern's Instant Fortress",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Dimensional Shackles",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Figurine of Wondrous Power - Bronze Griffon",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Figurine of Wondrous Power - Ebony Fly",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Figurine of Wondrous Power - Golden Lions",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Figurine of Wondrous Power - Ivory Goats",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Figurine of Wondrous Power - Marble Elephant",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Figurine of Wondrous Power - Onyx Dog",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Figurine of Wondrous Power - Serpentine Owl",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Folding Boat",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Gem of Seeing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Helm of Teleportation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Heward's Handy Haversack",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Horn of Blasting",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Horn of Valhalla - Brass",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Horn of Valhalla - Silver",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Horseshoes of Speed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Instrument of the Bards - Canaith Mandolin",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Instrument of the Bards - Cli Lyre",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Ioun Stone - Awareness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Ioun Stone - Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Ioun Stone - Reserve",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Ioun Stone - Sustenance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Iron Bands of Bilarro",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Mantle of Spell Resistance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Necklace of Fireballs",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Necklace of Prayer Beads",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Periapt of Proof Against Poison",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Portable Hole",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Quaal's Feather Token",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Robe of Eyes",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Rope of Entanglement",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Stone of Controlling Earth Elementals",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Rare",
+    "ITEM": "Wings of Flying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Very Rare",
+    "ITEM": "Animated Shield",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Very Rare",
+    "ITEM": "Armor +2",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Very Rare",
+    "ITEM": "Demon Armor",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Very Rare",
+    "ITEM": "Dragon Scale Mail",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Very Rare",
+    "ITEM": "Dwarven Plate",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Very Rare",
+    "ITEM": "Shield +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Very Rare",
+    "ITEM": "Spellguard Shield",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Very Rare",
+    "ITEM": "Oil of Sharpness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Very Rare",
+    "ITEM": "Potion of Cloud Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Very Rare",
+    "ITEM": "Potion of Flying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Very Rare",
+    "ITEM": "Potion of Invisibility",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Very Rare",
+    "ITEM": "Potion of Longevity",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Very Rare",
+    "ITEM": "Potion of Speed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Very Rare",
+    "ITEM": "Potion of Supreme Healing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Very Rare",
+    "ITEM": "Potion of Vitality",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Very Rare",
+    "ITEM": "Ring of Regeneration",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Very Rare",
+    "ITEM": "Ring of Shooting Stars",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Very Rare",
+    "ITEM": "Ring of Telekinesis",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Very Rare",
+    "ITEM": "Rod of Absorption",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Very Rare",
+    "ITEM": "Rod of Alertness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Very Rare",
+    "ITEM": "Rod of Security",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Very Rare",
+    "ITEM": "Rod of the Pact Keeper +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Very Rare",
+    "ITEM": "Scroll 6, Scroll 7, Scroll 8",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Very Rare",
+    "ITEM": "Scroll (Level 6)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Very Rare",
+    "ITEM": "Scroll (Level 7)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Very Rare",
+    "ITEM": "Scroll (Level 8)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Very Rare",
+    "ITEM": "Staff of Fire",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Very Rare",
+    "ITEM": "Staff of Frost",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Very Rare",
+    "ITEM": "Staff of Power",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Very Rare",
+    "ITEM": "Staff of Striking",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Very Rare",
+    "ITEM": "Staff of Thunder and Lightning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Very Rare",
+    "ITEM": "Wand of Polymorph",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wand",
+    "RARITY": "Very Rare",
+    "ITEM": "Wand of the War Mage +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Ammunition +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Arrow of Slaying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Dancing Sword",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Dwarven Thrower",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Frost Brand",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Nine Lives Stealer",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Oathbow",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Scimitar of Speed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Sword of Sharpness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Very Rare",
+    "ITEM": "Weapon +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Amulet of the Planes",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Bag of Devouring",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Belt of Fire Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Belt of Frost Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Belt of Stone Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Candle of Invocation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Carpet of Flying",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Cloak of Arachnida",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Crystal Ball",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Efreeti Bottle",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Figurine of Wondrous Power - Obsidian Steed",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Helm of Brilliance",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Horn of Valhalla - Bronze",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Horseshoes of a Zephyr",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Instrument of the Bards - Anstruth Harp",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Absorption",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Agility",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Fortitude",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Insight",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Intellect",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Leadership",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Manual of Bodily Health",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Manual of Gainful Exercise",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Manual of Golems",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Manual of Quickness of Action",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Mirror of Life Trapping",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Nolzur's Marvelous Pigments",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Robe of Scintillating Colors",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Robe of Stars",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Tome of Clear Thought",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Tome of Leadership and Influence",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Tome of Understanding",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Legendary",
+    "ITEM": "Armor of Invulnerability",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Legendary",
+    "ITEM": "Armor +3",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Legendary",
+    "ITEM": "Efreeti Chain",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Armor",
+    "RARITY": "Legendary",
+    "ITEM": "Plate Armor of Etherealness",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Potion",
+    "RARITY": "Legendary",
+    "ITEM": "Potion of Storm Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Legendary",
+    "ITEM": "Ring of Air Elemental Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Legendary",
+    "ITEM": "Ring of Djinni Summoning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Legendary",
+    "ITEM": "Ring of Earth Elemental Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Legendary",
+    "ITEM": "Ring of Fire Elemental Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Legendary",
+    "ITEM": "Ring of Invisibility",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Legendary",
+    "ITEM": "Ring of Spell Turning",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Legendary",
+    "ITEM": "Ring of Three Wishes",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Ring",
+    "RARITY": "Legendary",
+    "ITEM": "Ring of Water Elemental Command",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Legendary",
+    "ITEM": "Rod of Lordly Might",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Rod",
+    "RARITY": "Legendary",
+    "ITEM": "Rod of Resurrection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Scroll",
+    "RARITY": "Legendary",
+    "ITEM": "Scroll (Level 9)",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Staff",
+    "RARITY": "Legendary",
+    "ITEM": "Staff of the Magi",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Legendary",
+    "ITEM": "Defender",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Legendary",
+    "ITEM": "Hammer of Thunderbolts",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Legendary",
+    "ITEM": "Holy Avenger",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Legendary",
+    "ITEM": "Luck Blade",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Legendary",
+    "ITEM": "Sword of Answering",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Weapon",
+    "RARITY": "Legendary",
+    "ITEM": "Vorpal Sword",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Apparatus of Kwalish",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Belt of Cloud Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Belt of Storm Giant Strength",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Cloak of Invisibility",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Crystal Ball of Mind Reading",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Crystal Ball of Telepathy",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Crystal Ball of Telepathy",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Crystal Ball of True Seeing",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Cubic Gate",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Deck of Many Things",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Horn of Valhalla - Iron",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Instrument of the Bards - Ollamh Harp",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Greater Absorption",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Mastery",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Ioun Stone - Regeneration",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Iron Flask",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Robe of the Archmagi",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Scarab of Protection",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Sovereign Glue",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Sphere of Annihilation",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Talisman of Pure Good",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Talisman of Ultimate Evil",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Talisman of the Sphere",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Tome of the Stilled Tongue",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Universal Solvent",
+    "SOURCE": "DMG"
+  },
+  {
+    "TYPE": "Wondrous Item",
+    "RARITY": "Legendary",
+    "ITEM": "Well of Many Worlds",
+    "SOURCE": "DMG"
+  }
+]
